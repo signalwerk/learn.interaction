@@ -12,6 +12,8 @@ tags:
 description: "Der Bildschirm (engl. Screen) ist für die meiste Interaktion im digitalen Umfeld das wichtigste Ausgabemedium. Je nach Technologie oder Eigenschaften, ergeben sich andere Herausforderungen bei der Gestaltung."
 ---
 
+import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Div from 'gatsby-theme-signalwerk/src/components/Div';
 
 
 

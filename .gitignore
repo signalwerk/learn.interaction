@@ -4,3 +4,5 @@
 /sites/example/.cache
 travis/.ssh/id_rsa
 /sites/main/.cache
+/sites/main/node_modules
+/sites/main/public
