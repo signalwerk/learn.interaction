@@ -6,9 +6,9 @@ script:
   - bash ./travis/gh-pages.sh
 env:
   global:
-  - ENCRYPTION_LABEL: ""
+  - ENCRYPTION_LABEL: "702ce6ca6584"
   - COMMIT_AUTHOR_EMAIL: "sh@signalwerk.ch"
-  - DEPLOY_DIR: "public"
+  - DEPLOY_DIR: "./sites/main/public"
   - SOURCE_BRANCH: "master"
   - TARGET_BRANCH: "gh-pages"
 branches:
