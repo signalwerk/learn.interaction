@@ -1,1 +1,5 @@
 /node_modules
+/sites/example/public
+/sites/example/node_modules
+/sites/example/.cache
+travis/.ssh/id_rsa
