@@ -1,0 +1,52 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---themes-gatsby-theme-signalwerk-src-templates-post-index-js",
+        "jsonName": "articles-screens-c36",
+        "path": "/articles/screens/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---themes-gatsby-theme-signalwerk-src-templates-post-index-js",
+        "jsonName": "root-63a",
+        "path": "/root"
+    },
+    {
+        "componentChunkName": "component---src-pages-root-md",
+        "jsonName": "root-6da",
+        "path": "/root/"
+    },
+    {
+        "componentChunkName": "component---src-pages-screens-index-md",
+        "jsonName": "screens-74e",
+        "path": "/screens/"
+    },
+    {
+        "componentChunkName": "component---src-pages-screens-abstract-md",
+        "jsonName": "screens-abstract-22e",
+        "path": "/screens/abstract/"
+    },
+    {
+        "componentChunkName": "component---src-pages-screens-examples-md",
+        "jsonName": "screens-examples-f23",
+        "path": "/screens/examples/"
+    }
+]
