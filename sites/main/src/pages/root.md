@@ -10,12 +10,12 @@ Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommo
 <br />
 <br />
 
-#### Dokumentation
+## Dokumentation
 
 * [Screens](/articles/screens/)
 
 
-#### Stubs
+## Stubs
 * [Web-Typografie](/web-typography/)
 <!-- * [Touch-Interface](/touch/) -->
 <!-- * [Thesis](/thesis/) -->
