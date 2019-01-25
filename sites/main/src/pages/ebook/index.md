@@ -44,7 +44,7 @@ Der digitale Austausch von Information ist seit der Verbindung über elektronisc
 ### Wie schnell kommt eine Information nach London?
 Sobald die Information vom Medium getrennt wurde (Telegramm), wurde die Übertragungsgeschwindigkeit schneller.
 
-![](../../speed.svg)
+![](../media/data/information/speed-of-information-london/speed.svg)
 Quelle: [A Farewell to Alms, Gregory Clark, 2008](http://beebo.org/lately/2009-07-12_speed-of-information-travel.html)
 
 
@@ -52,7 +52,7 @@ Quelle: [A Farewell to Alms, Gregory Clark, 2008](http://beebo.org/lately/2009-0
 ### 1935 – book reader
 In einer Vision von 1935 wird klar, dass der Erfinder nicht den Inhalt, sondern das traditionelle Buch wiedergeben möchte.
 
-![](./img/1935-ebook-sm.jpg)
+![](../media/data/device/reader-microfilm/1935-ebook-sm.jpg)
 Quelle: [Everyday Science and Mechanics, April 1935](http://www.smithsonianmag.com/history/the-ipad-of-1935-115653218/)
 
 
@@ -100,7 +100,7 @@ Im Gegensatz zu einem klassischen Buch ist bei einem elektronischen Buch nicht k
 Die Darstellung von Vanevar Bush im Jahre 1945 zeigt eine fixe Screen-Grösse mit fixen Inhalts-Seiten.
 
 
-![](./img/memex.jpg)
+![](../media/data/device/memex/memex.jpg)
 Quelle: [«As We May Think», Vannevar Bush, 1945, «The Atlantic Monthly»](http://www.computerhistory.org/revolution/the-web/20/370/2111?position=0)
 
 
@@ -150,7 +150,7 @@ Es gibt diverse Geräte, auf denen eBooks gelesen werden können. Grundsätzlich
 <div class="wide-grid space pad bg">
    <div class="col-1to4">
       <figure>
-         <img src="./img/SVG/mobile.svg" alt="" />
+         <img src="../media/data/device/reader-digital-categories/mobile.svg" alt="" />
          <figcaption>
             <h3>Smartphone</h3>
             <ul>
@@ -163,7 +163,7 @@ Es gibt diverse Geräte, auf denen eBooks gelesen werden können. Grundsätzlich
    </div>
    <div class="col-5to8">
       <figure>
-         <img src="./img/SVG/tablet.svg" alt="" />
+         <img src="../media/data/device/reader-digital-categories/tablet.svg" alt="" />
          <figcaption>
             <h3>Tablet/eReader</h3>
             <ul>
@@ -176,7 +176,7 @@ Es gibt diverse Geräte, auf denen eBooks gelesen werden können. Grundsätzlich
    </div>
    <div class="col-9to12">
       <figure>
-         <img src="./img/SVG/desktop.svg" alt="" />
+         <img src="../media/data/device/reader-digital-categories/desktop.svg" alt="" />
          <figcaption>
             <h3>Desktop</h3>
             <ul>
@@ -209,7 +209,7 @@ Im Gegensatz zu einem klassischen Buch ist die Benutzerführung und der Leseflus
 <Div className="wide-grid space pad">
 <Div className="col-1to6">
 
-![](./img/SVG/reading-book.svg)
+![](../media/data/device/reading-flow/reading-book.svg)
 
 
 ### Klassisches Buch
@@ -218,7 +218,7 @@ Im klassischen Satzspiegel über die Doppelseite, mit einer Spalte, gibt es pro 
 </Div>
 <Div className="col-7to12">
 
-![](./img/SVG/reading-ebook.svg)
+![](../media/data/device/reading-flow/reading-ebook.svg)
 
 ### eBook
 Wird im eBook gescrollt, so muss das Auge der Scrollbewegung folgen um die Zeile nicht zu verlieren.
@@ -243,7 +243,7 @@ Bei einem fixierten Layout wird spezifisch auf ein Gerät/Format optimiert und d
 <Div className="wide-grid space pad">
 <Div className="col-1to6">
 
-![](./img/SVG/fix-layout.svg)
+![](../media/data/device/reading-layout/fix-layout.svg)
 
 ### Fixes Layout
 Elemente richten sich nach dem Format. Layout unterliegt der Kontrolle des Designers.
@@ -253,7 +253,7 @@ Elemente richten sich nach dem Format. Layout unterliegt der Kontrolle des Desig
 <Div className="col-7to12">
 
 
-![](./img/SVG/flow-layout.svg)
+![](../media/data/device/reading-layout/flow-layout.svg)
 
 ### Fliessender Text
 Hier werden die Bilder und Layout-Elemente mit dem Text
@@ -318,7 +318,7 @@ Vor allem kleinere Verlage und unabhängige Autoren, die ihre Inhalte selber ver
 <Div className="wide-grid space pad bg">
   <Div className="col-1to12">
 
-![](./img/SVG/long-tail.svg)
+![](../media/data/business/long-tail/long-tail.svg)
 
   </Div>
 </Div>
@@ -336,21 +336,6 @@ Es gibt verschiedene Technologien und Dateiformate, wie ein Werk an einem Reader
 Gängige Formate, welche über Vertriebskanäle im Internet als eBook bezeichnet werden haben diverse Vor- und Nachteile.
 Der wohl wichtigste Vertreter von digitalen Büchern ist ePub. Es handelt sich dabei um einen Standard, der offen und in Kooperation mit diversen Experten und Firmen entstanden ist.
 eBooks werden zum Teil auch als Apps angeboten um gewisse technische Beschränkungen zu umgehen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

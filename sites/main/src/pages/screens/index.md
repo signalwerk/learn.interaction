@@ -32,14 +32,14 @@ Je nach Auflösung des Bildschirms können mehr oder weniger Pixel auf der Ausga
   <div class="col-1to4">
     <figure>
       <div class="w60">
-        <img src="./img/screensize-mobile.svg" alt="mobile screen" />
+        <img src="../media/data/device/reader-screensize/screensize-mobile.svg" alt="mobile screen" />
       </div>
       <figcaption>Bildschrim hat eine zu gerine Auflösung und kann Seite nicht vollständig anzeigen. Ungenügende technische Realisation für mobiles Gerät. Lässt sich vermeiden.</figcaption>
     </figure>
   </div>
   <div class="col-5to12">
     <figure>
-      <img src="./img/screensize-desktop.svg" alt="Desktopscreen" />
+      <img src="../media/data/device/reader-screensize/screensize-desktop.svg" alt="Desktopscreen" />
       <figcaption>Bildschrim hat eine grosse Auflösung und kann Seite vollständig anzeigen.</figcaption>
     </figure>
   </div>
@@ -75,16 +75,12 @@ Die Bildschirmabmessung wird häufig auch in Zoll (Inch) angegeben. Spricht man 
 ## Visuelle Grösse
 Die visuelle wahrgenommene Grösse eines Gestaltugnselements auf dem Bildschirm, ist abhängig von der effektiven Grösse auf dem Bildschirm und dem Betrachtungsabstand. Obwohl kleine Screens (Smartphones) weniger Platz bieten, so ist der Betrachtungsabstand auch kleiner und es können somit auch ähnliche Lesbarkeiten erreicht werden.
 
-![](./img/SizeCalculator.png)
+![](../media/data/device/reading-distance/SizeCalculator.png)
 Bildquelle: [Size Calculator](https://sizecalc.com/)
 
 
 ## Auflösungsdichte – DPI
-
-
-
 Eine Auflösungsdichte wird in DPI (Dots per Inch) angegeben. Diese Einheit gibt an, wie viele Bildpunkte pro Inch (25,4 mm = 1 Inch) – also eine Strecke – liegen. Je höher die Auflösung ist, desto weniger erkennt man die einzelnen Punkte in der Ausgabe und die Ausgabe wirkt weniger «verpixelt». Die Auflösung eines Bildschirms kann in DPI angegeben werden.
-
 
 
 
@@ -172,13 +168,6 @@ Bei elektrophoretischen Anzeigen (eInk) oder ähnlichen Technologien, werden kle
 
 
 
-
-
-
-
-
-
-
 <Div className="wide-grid space pad">
 <Div className="col-1to6">
 
@@ -186,11 +175,11 @@ Bei elektrophoretischen Anzeigen (eInk) oder ähnlichen Technologien, werden kle
 Kugeln enthalten weisse und schwarze Stellen
 Bild-Quelle: [Wikipedia](http://de.wikipedia.org/wiki/Elektronisches_Papier)
 
-![](./img/eInk-principle.svg)
+![](../media/data/screen/eInk-tft-principle/eInk-principle.svg)
 
 #### Geräte mit eInk
 eBook-Reader
-![](./img/eInk.svg)
+![](../media/data/device/category-by-screen/eInk.svg)
 
 </Div>
 <Div className="col-7to12">
@@ -198,11 +187,11 @@ eBook-Reader
 ### LCD-Anzeige
 Drei kleine leuchtende Elemente erzeugen je Pixel eine Ausgabe (Farbe)
 
-![](./img/tft-principle.svg)
+![](../media/data/screen/eInk-tft-principle/tft-principle.svg)
 
 #### Geräte mit LCD
 Smartphone, Tablet, Desktop
-![](./img/tft.svg)
+![](../media/data/device/category-by-screen/tft.svg)
 
 
 </Div>
@@ -235,13 +224,13 @@ iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)
 Quelle: Stefan Huber
 
 
-![](./img/OLED_detail.jpg)
+![](../media/data/screen/oled-principle/OLED_detail.jpg)
 
 Bildquelle: [LG](http://www.lg.com/global/business/information-display/technology-solution/oled)
 
 
 
-![](./img/OLED.png)
+![](../media/data/screen/oled-principle/OLED.png)
 
 Bildquelle: [Gamezone/LG](https://www.mweb.co.za/games/NewsArticles/tabid/2561/Article/30977/Samsung-QLED-How-does-its-display-work-and-is-it-better-than-OLED.aspx)
 
