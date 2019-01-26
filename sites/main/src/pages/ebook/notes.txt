@@ -1,0 +1,33 @@
+## Weiterführende Informationen
+
+## Buch-Generatoren & Crossmedia
+* http://www.anonymous-press.com/
+* http://digitalpublishingtoolkit.org/
+* http://www.lulu.com/
+* [Whispersync](https://youtu.be/3Uy3bBBoZ_g)
+
+## ePub-Erstellung
+* [Sigil-Editor](http://sigil-ebook.com/)
+* [InDesign ePub-Export](http://epubsecrets.com/)
+* [Konverter](http://pandoc.org/)
+
+## ePub-Reader
+* Adobe Digital Editions (Home) auf Desktop
+* Marvin auf iOS
+* [Calibre](http://calibre-ebook.com/)
+* [Social-Reading](https://sobooks.de/)
+
+## HTML und Mengentext
+* http://www.tobiaskoengeter.de/article/E-Book-Typografie.html
+* http://www.sitepoint.com/perfect-paragraph-length-even-care/
+* http://www.fastcodesign.com/3046678/the-kindle-finally-gets-typography-that-doesnt-suck
+
+## Beispiele für Apps
+* [Schrägstrich](https://itunes.apple.com/us/book/schragstrich-3.0/)
+* [Wired](http://www.wired.com/)
+
+## Beispiel für experimentelle Gedichte in ePub
+* [Megan Hoogenboom](http://meganhoogenboom.nl/)
+
+## eBook Bibliothek
+* http://bibliotecha.info/read/
