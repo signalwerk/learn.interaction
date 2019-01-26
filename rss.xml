@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Interaction]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 25 Jan 2019 13:01:29 GMT</lastBuildDate><item><title><![CDATA[Learn Interaction Design]]></title><description><![CDATA[Signalwerk GmbH – Stefan Huber · 2019 ·  CC-BY-SA 4.0 Dokumentation Screens eBook · Grundlagen Stubs Web-Typografie]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/root</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog/root</guid><content:encoded>&lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Interaction]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 26 Jan 2019 14:53:45 GMT</lastBuildDate><item><title><![CDATA[Learn Interaction Design]]></title><description><![CDATA[import Div from 'gatsby-theme-signalwerk/src/components/Div'; Signalwerk GmbH – Stefan Huber · 2019 ·  CC-BY-SA 4.0 Dokumentation eBook…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/root</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog/root</guid><content:encoded>&lt;p&gt;import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
+&lt;Div className=&quot;column__text&quot;&gt;
+&lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;h2&gt;Dokumentation&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/learn.interaction/articles/screens/&quot;&gt;Screens&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/learn.interaction/articles/ebook/&quot;&gt;eBook · Grundlagen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Stubs&lt;/h2&gt;
-&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;/learn.interaction/web-typography/&quot;&gt;Web-Typografie&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/learn.interaction/articles/ebook/&quot;&gt;eBook · Grundlagen&lt;/a&gt;&lt;/p&gt;
+&lt;!-- * [Screens](/articles/screens/) --&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ## Stubs --&gt;
+&lt;!-- * [Web-Typografie](/web-typography/) --&gt;
 &lt;!-- * [Touch-Interface](/touch/) --&gt;
 &lt;!-- * [Thesis](/thesis/) --&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Fr – Bildschirme und Fonts – 1. Morgen
+&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Fr – Bildschirme und Fonts – 1. Morgen
   – TV Interlace – 2. Morgen
   – Darstellung von Fonts >>> Hinting
   – Hinting vorbei mit neuestem…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//screens/abstract/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//screens/abstract/</guid><content:encoded>&lt;h1&gt;Fr – Bildschirme und Fonts&lt;/h1&gt;
@@ -36,7 +37,75 @@ haben wir ein iphone plus?
 – farbiger text&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Screens]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[learn.interaction.media Media files for documentations. To use]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</guid><content:encoded>&lt;h1&gt;learn.interaction.media&lt;/h1&gt;
+&lt;p&gt;Media files for documentations.&lt;/p&gt;
+&lt;h2&gt;To use&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; submodule add https://github.com/signalwerk/learn.interaction.media.git &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;path&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Bildquelle:  https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</guid><content:encoded>&lt;p&gt;Bildquelle: &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&quot;&gt;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Aufgabe eBook Abgabe Am 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden. Technologie Für die Auflösung ist…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</guid><content:encoded>&lt;h1&gt;Aufgabe eBook&lt;/h1&gt;
+&lt;h2&gt;Abgabe&lt;/h2&gt;
+&lt;p&gt;Am 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden.&lt;/p&gt;
+&lt;h2&gt;Technologie&lt;/h2&gt;
+&lt;p&gt;Für die Auflösung ist die Spezifikation von iPad 9,7&quot; (2018) zu konsultieren. Auch die Dimension muss selber ermittelt werden und der Text muss auf dem Gerät gut lesbar sein.&lt;/p&gt;
+&lt;h2&gt;Ausgangslage&lt;/h2&gt;
+&lt;p&gt;Der Verlag «LibrePress» veröffentlicht für wenig Geld qualitativ hochwertige digitale Publikationen. Die Inhalte der Bücher stehen unter freien Lizenzen oder sind Gemeinfrei (Copyright abgelaufen).
+Der Verlag ist im Aufbau und es gibt im Moment nur ein Logo, welches auf allen Titelbildern (Startseite) verwendet werden muss.&lt;/p&gt;
+&lt;h2&gt;Funktionalität&lt;/h2&gt;
+&lt;p&gt;Da der Verlag gerne frei von technischen Beschränkungen sein möchte, wird für das erste Werk im Verlagsprogramm (Franz Kafka – Die Verwandlung) eine eigene App ausschliesslich für iPad geschrieben. Die App soll folgende Funktionen haben:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Text anzeigen&lt;/li&gt;
+&lt;li&gt;Position im Inhalt (Seitenzahl oder Ähnliches) anzeigen&lt;/li&gt;
+&lt;li&gt;Eine Kapitelnavigation aufweisen&lt;/li&gt;
+&lt;li&gt;Optional: Bookmarks ermöglichen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Gestalterische Aufgabe&lt;/h2&gt;
+&lt;p&gt;Die gestaltende Person hat die Aufgabe, dem Verlag ein Konzept der App zu präsentieren und somit das erste eBook zu entwerfen.&lt;br&gt;
+Aufzuzeigen sind insbesondere:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Titelbild&lt;/li&gt;
+&lt;li&gt;3 Seiten/Bildschirmlängen des Inhalts&lt;/li&gt;
+&lt;li&gt;Alle Kapiteleinstiege&lt;/li&gt;
+&lt;li&gt;Navigation in der App (siehe Funktionalität)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Abgegeben werden muss auch eine Vermassung der eingesetzten Architektur (zum Beispiel Raster oder Hilfslinien).&lt;/p&gt;
+&lt;h2&gt;Bewertung&lt;/h2&gt;
+&lt;h3&gt;Technik (10 %)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Die Abgegebenen Visualisierungen sind für die technische Realisation aussagekräftig und vollständig&lt;/li&gt;
+&lt;li&gt;Die technischen Vorgaben sind eingehalten&lt;/li&gt;
+&lt;li&gt;Realisierbarkeit ist gegeben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Inhalt (10 %)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Inhaltliche Strukturen wurden verstärkt&lt;/li&gt;
+&lt;li&gt;Alle Inhaltselemente wurden genügend Visualisiert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Führung/Menü (30 %)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Menüstruktur ist schlüssig und schnell zugänglich&lt;/li&gt;
+&lt;li&gt;Menü wurde für Touch-Devices optimiert&lt;/li&gt;
+&lt;li&gt;Die aktuelle Position innerhalb des Buches ist stets nachvollziehbar&lt;/li&gt;
+&lt;li&gt;Die Leseführung ist überlegt und offensichtlich&lt;/li&gt;
+&lt;li&gt;Gewohnte Interface-Konzepte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Grafisches Konzept (50 %)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Das Grafische Konzept ist schlüssig und durchgängig&lt;/li&gt;
+&lt;li&gt;Grafische Sprache entspricht dem Inhalt&lt;/li&gt;
+&lt;li&gt;Typografie überlegt eingesetzt&lt;/li&gt;
+&lt;li&gt;Bucharchitektur überlegt&lt;/li&gt;
+&lt;li&gt;Zweckmässigkeit gegeben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Text&lt;/h2&gt;
+&lt;h3&gt;Titelbild&lt;/h3&gt;
+&lt;p&gt;Die Verwandlung&lt;br&gt;
+von Franz Kafka&lt;br&gt;
+{{Verlagslogo}}  &lt;/p&gt;
+&lt;h3&gt;Impressum&lt;/h3&gt;
+&lt;p&gt;2019 – LibrePress&lt;br&gt;
+Creative Commons License (CC BY-SA 4.0)&lt;br&gt;
+Gestaltung: {{Name}}&lt;br&gt;
+Text: Project Gutenberg – gutenberg.org  &lt;/p&gt;
+&lt;h3&gt;Text-Manus&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.gutenberg.org/ebooks/22367&quot;&gt;http://www.gutenberg.org/ebooks/22367&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Vergleich handschriftliche Codices vs. modernem Buch ]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</guid><content:encoded>&lt;p&gt;Vergleich handschriftliche Codices vs. modernem Buch &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Screens]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Div from 'gatsby-theme-signalwerk/src/components/Div…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/screens/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/screens/</guid><pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
 import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
 &lt;h2&gt;Bildschirmauflösung&lt;/h2&gt;
@@ -45,14 +114,14 @@ import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt
   &lt;div class=&quot;col-1to4&quot;&gt;
     &lt;figure&gt;
       &lt;div class=&quot;w60&quot;&gt;
-        &lt;img src=&quot;./img/screensize-mobile.svg&quot; alt=&quot;mobile screen&quot;&gt;
+        &lt;img src=&quot;/learn.interaction/screensize-mobile-a31008ef3e777128afcd18d9d5185f02.svg&quot; alt=&quot;mobile screen&quot;&gt;
       &lt;/div&gt;
       &lt;figcaption&gt;Bildschrim hat eine zu gerine Aufl&amp;#xF6;sung und kann Seite nicht vollst&amp;#xE4;ndig anzeigen. Ungen&amp;#xFC;gende technische Realisation f&amp;#xFC;r mobiles Ger&amp;#xE4;t. L&amp;#xE4;sst sich vermeiden.&lt;/figcaption&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
   &lt;div class=&quot;col-5to12&quot;&gt;
     &lt;figure&gt;
-      &lt;img src=&quot;./img/screensize-desktop.svg&quot; alt=&quot;Desktopscreen&quot;&gt;
+      &lt;img src=&quot;/learn.interaction/screensize-desktop-f776331c8b80590984a47b0cdd6c3cee.svg&quot; alt=&quot;Desktopscreen&quot;&gt;
       &lt;figcaption&gt;Bildschrim hat eine grosse Aufl&amp;#xF6;sung und kann Seite vollst&amp;#xE4;ndig anzeigen.&lt;/figcaption&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
@@ -71,7 +140,31 @@ import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt
 &lt;p&gt;Die Bildschirmabmessung wird häufig auch in Zoll (Inch) angegeben. Spricht man von Zoll, so meint man im allgemeinen die Diagonale des Bildschirms. Die Grösse gibt meist eher eine Bildschirm-Grössenklasse an, denn eine effektive Grösse. Ein «15&quot;-Bildschirm» hat also meist etwa 15 Zoll in der Diagonale. Die Bildschirmproportion ist dadur aber zum Beispiel nicht definiert.&lt;/p&gt;
 &lt;h2&gt;Visuelle Grösse&lt;/h2&gt;
 &lt;p&gt;Die visuelle wahrgenommene Grösse eines Gestaltugnselements auf dem Bildschirm, ist abhängig von der effektiven Grösse auf dem Bildschirm und dem Betrachtungsabstand. Obwohl kleine Screens (Smartphones) weniger Platz bieten, so ist der Betrachtungsabstand auch kleiner und es können somit auch ähnliche Lesbarkeiten erreicht werden.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./img/SizeCalculator.png&quot;&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 47.26735598227474%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABBUlEQVQoz5VQMW6DQBDcJ1gpqXmC8wGewTeMUFxQQE2BqCgQHS0/oESJnIY+2EVQLBfIJeju9u6y3ClWpESJPFqdVrOandkDROz7fpomrbVSSn+DJOKr1l5JoXX3/PJ6OHDOl2WBOI4B4HG7VRJpLM1rGybYTb5CStr4tN8nSdJ1XZZlEIYhiR82m/fTkWbImBRCodCIgjN6bSlBrvrycd7tgiiKgiDwfR/meXZdlzob9Zac3DmlIMaUNPxlur4dT8MwtG1L5pDnOTkXRUEzYdb/ChudluF6EFoSPM8jseM44ziuhuawf2E/AdboBnVd/23+E5CmqRWXZXm3uGkaK66q6l7xJzajzbYaT4wlAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;SizeCalculator&quot;
+        title=&quot;&quot;
+        src=&quot;/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/84ad3/SizeCalculator.png&quot;
+        srcset=&quot;/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/687da/SizeCalculator.png 175w,
+/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/0ab4d/SizeCalculator.png 350w,
+/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/84ad3/SizeCalculator.png 700w,
+/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/ef8d3/SizeCalculator.png 1050w,
+/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/596f7/SizeCalculator.png 1354w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
 Bildquelle: &lt;a href=&quot;https://sizecalc.com/&quot;&gt;Size Calculator&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Auflösungsdichte – DPI&lt;/h2&gt;
 &lt;p&gt;Eine Auflösungsdichte wird in DPI (Dots per Inch) angegeben. Diese Einheit gibt an, wie viele Bildpunkte pro Inch (25,4 mm = 1 Inch) – also eine Strecke – liegen. Je höher die Auflösung ist, desto weniger erkennt man die einzelnen Punkte in der Ausgabe und die Ausgabe wirkt weniger «verpixelt». Die Auflösung eines Bildschirms kann in DPI angegeben werden.&lt;/p&gt;
@@ -125,18 +218,18 @@ Bei elektrophoretischen Anzeigen (eInk) oder ähnlichen Technologien, werden kle
 &lt;h3&gt;Elektrophoretische Anzeige&lt;/h3&gt;
 &lt;p&gt;Kugeln enthalten weisse und schwarze Stellen
 Bild-Quelle: &lt;a href=&quot;http://de.wikipedia.org/wiki/Elektronisches_Papier&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./img/eInk-principle.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/eInk-principle-a691bdf1a1ea9b4b1660fdeabaf87abb.svg&quot;&gt;&lt;/p&gt;
 &lt;h4&gt;Geräte mit eInk&lt;/h4&gt;
 &lt;p&gt;eBook-Reader
-&lt;img src=&quot;./img/eInk.svg&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;/learn.interaction/eInk-97c3e51f647294ab5834549f76cec8c5.svg&quot;&gt;&lt;/p&gt;
 &lt;/Div&gt;
 &lt;Div className=&quot;col-7to12&quot;&gt;
 &lt;h3&gt;LCD-Anzeige&lt;/h3&gt;
 &lt;p&gt;Drei kleine leuchtende Elemente erzeugen je Pixel eine Ausgabe (Farbe)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./img/tft-principle.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/tft-principle-19bac93ea3f33f35a1487322d45b0b73.svg&quot;&gt;&lt;/p&gt;
 &lt;h4&gt;Geräte mit LCD&lt;/h4&gt;
 &lt;p&gt;Smartphone, Tablet, Desktop
-&lt;img src=&quot;./img/tft.svg&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;/learn.interaction/tft-161ee756c877a7a988734f7ac209a7f1.svg&quot;&gt;&lt;/p&gt;
 &lt;/Div&gt;
 &lt;/Div&gt;
 &lt;h4&gt;OLED&lt;/h4&gt;
@@ -150,9 +243,75 @@ Bild-Quelle: &lt;a href=&quot;http://de.wikipedia.org/wiki/Elektronisches_Papier
 &lt;/video&gt;
 &lt;p&gt;iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)&lt;/p&gt;
 &lt;p&gt;Quelle: Stefan Huber&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./img/OLED_detail.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/e17b4/OLED_detail.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB1GFnIgWFf//EABsQAAEEAwAAAAAAAAAAAAAAABIAAQIhAxAR/9oACAEBAAEFAodG1Ahtsev/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAABAgcAAAAAAAAAAAAAAAABECEAERIiMTJB/9oACAEBAAY/AhrV2SXZhi6//8QAGxABAAICAwAAAAAAAAAAAAAAAREhAGEQMVH/2gAIAQEAAT8hsAUOwzcyjX3GMhAU2G+f/9oADAMBAAIAAwAAABC4D//EABYRAQEBAAAAAAAAAAAAAAAAACEQEf/aAAgBAwEBPxA0n//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIf/xAAdEAEAAgICAwAAAAAAAAAAAAABETEAIRBxQVGR/9oACAEBAAE/EESZkNTddRgpoJNT4zsR6LwlBBFEqfBwo4//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;OLED detail&quot;
+        title=&quot;&quot;
+        src=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/f3a32/OLED_detail.jpg&quot;
+        srcset=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/6ba01/OLED_detail.jpg 175w,
+/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/b8ff8/OLED_detail.jpg 350w,
+/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/f3a32/OLED_detail.jpg 700w,
+/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/61d28/OLED_detail.jpg 1050w,
+/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/e17b4/OLED_detail.jpg 1200w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;p&gt;Bildquelle: &lt;a href=&quot;http://www.lg.com/global/business/information-display/technology-solution/oled&quot;&gt;LG&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./img/OLED.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/1926c/OLED.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 495px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 59.5959595959596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsSAAALEgHS3X78AAACD0lEQVQoz3VSbW/SUBjtXzP+DLNP+i/8A37RmGjY3GYy57ZkCaJQydgYsLkRI4YFVqiUlrKOttD1/f229MWH1qhx8aTJvfe595zn3HOLpRl8H6mqnMZpEidJDEOS3kNyr4jlFVH0374xit1vzIKFpaqq/X7f87z8kGGYvu8CPV8GQQBboIVBCaG420uevqo/OHn0+vnDu40CT/7geD7vhsKlh5wRKU5o0UEOFGmaOW2c2rYN5FSY0vh+4bD2svL+We3x2scna/ZCZFh2Op3C7u31Ndkb1+viLvn1ir00xpMkjpbLJQhjknTHMGN60G3jxdLGi1azdtI64m4mIM/zfBAG5FmTPjq7PS53OtvU+SF39UVRvCybBJvNZhUcr+DVHjGYjMnRkLi4bO/t7QuCAG2XYThmJsfVanl7q7O5Re5ufm4cHJTwbud7FEUr23EUsSyLVyo7O+8K6+vl8idqNIK2EFueUBwnoiQ3L9ofiqVW4xzAcTertP+OHmJcXSZNXdflOG4+n6f/Qf5sWBiGjuPoum6aJkwsy8r5vxGHETJd34DPQboT2P6fd4Ym4HkwGJAZKIqSZdnIAIorO44vDTmZ4hVyprOL0Av+JRMEMcrAMAxIDIdDSZJABU4gy1OBSQkKJdqihkzPlU3w8ss2BAPxKIoCnjVNg0neM0eEQkcyLEFzFDtjWtZC97XV3/ITJqGGGlU/a2EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;OLED&quot;
+        title=&quot;&quot;
+        src=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/1926c/OLED.png&quot;
+        srcset=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/ca206/OLED.png 175w,
+/learn.interaction/static/52c1413533978cb8173ce9f77debf968/4aeee/OLED.png 350w,
+/learn.interaction/static/52c1413533978cb8173ce9f77debf968/1926c/OLED.png 495w&quot;
+        sizes=&quot;(max-width: 495px) 100vw, 495px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;p&gt;Bildquelle: &lt;a href=&quot;https://www.mweb.co.za/games/NewsArticles/tabid/2561/Article/30977/Samsung-QLED-How-does-its-display-work-and-is-it-better-than-OLED.aspx&quot;&gt;Gamezone/LG&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OLED Varriante, bei dem zusätzlich zu RGB auch noch eine Weisskomponente angesteuert wird (&lt;a href=&quot;https://www.youtube.com/watch?v=3qRhTKOu9Pw&quot;&gt;WRGB OLED&lt;/a&gt;).&lt;/p&gt;
 &lt;h2&gt;Bildwiederholrate&lt;/h2&gt;
@@ -215,11 +374,37 @@ import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt
 &lt;p&gt;Der digitale Austausch von Information ist seit der Verbindung über elektronische Wege ein wichtiger Wirtshaft- und Kultur-Faktor. Informationsfluss und Handel waren in der Geschichte stets entscheidend für zivilisatorische Errungenschaften, die auch in der digitalen Zeit wichtig bleiben. Mit der Erfindung der elektronischen Übertragungswege, wurde die Information immer stärker vom Medium getrennt. Ein Telegramm hatte unter Umständen den selben Inhalt wie ein Brief, doch im Gegensatz zum Brief wird die reine Information und keine Erscheinung oder Gestaltung übermittelt. Mit dem Auftreten der Computer und des Internets ab Mitte des 20. Jahrhunderts wurde zuerst Information getauscht (ARPANET, WWW). Und später auch vermehrt die Form zusätzlich zur reinen Information übertragen.&lt;/p&gt;
 &lt;h3&gt;Wie schnell kommt eine Information nach London?&lt;/h3&gt;
 &lt;p&gt;Sobald die Information vom Medium getrennt wurde (Telegramm), wurde die Übertragungsgeschwindigkeit schneller.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../speed.svg&quot;&gt;
-Quelle: &lt;a href=&quot;http://beebo.org/lately/2009-07-12_speed-of-information-travel.html&quot;&gt;A Farewell to Alms, Gregory Clark, 2008&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;1935 – book reader&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/speed-c3de4b0aa9842cba0f8cac89ae20795a.svg&quot;&gt;
+Quelle: &lt;a href=&quot;https://beebo.org/lately/2009-07-12_speed-of-information-travel.html&quot;&gt;A Farewell to Alms – A Brief Economic History of the World, Gregory Clark, Princeton University Press, 2007&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Book reader · 1935&lt;/h3&gt;
 &lt;p&gt;In einer Vision von 1935 wird klar, dass der Erfinder nicht den Inhalt, sondern das traditionelle Buch wiedergeben möchte.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./img/1935-ebook-sm.jpg&quot;&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 79.63636363636364%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdgZMViw/8QAGBAAAwEBAAAAAAAAAAAAAAAAAQIRAAP/2gAIAQEAAQUCL7m1UG4qJGA5iL//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAADAQEAAAAAAAAAAAAAAAAAASEQMf/aAAgBAQAGPwJrgiDm/wD/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMVFx/9oACAEBAAE/IXWeGmWm70QlZPwcwKyFLhcPWbrP/9oADAMBAAIAAwAAABBjz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQEAAwEBAAAAAAAAAAAAAAERACExYYH/2gAIAQEAAT8Qu3oO451AtUT5kMUUquzIBAazbhONTxzmsdrarEbn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;1935 ebook sm&quot;
+        title=&quot;&quot;
+        src=&quot;/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/f3a32/1935-ebook-sm.jpg&quot;
+        srcset=&quot;/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/6ba01/1935-ebook-sm.jpg 175w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/b8ff8/1935-ebook-sm.jpg 350w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/f3a32/1935-ebook-sm.jpg 700w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/61d28/1935-ebook-sm.jpg 1050w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/be74e/1935-ebook-sm.jpg 1400w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/bf62f/1935-ebook-sm.jpg 2100w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/8bff9/1935-ebook-sm.jpg 2200w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
 Quelle: &lt;a href=&quot;http://www.smithsonianmag.com/history/the-ipad-of-1935-115653218/&quot;&gt;Everyday Science and Mechanics, April 1935&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Was ist ein eBook?&lt;/h2&gt;
 &lt;Margin&gt;
@@ -249,9 +434,34 @@ Heute wird unter dem Begriff eBook oftmals eine sehr enge Definition von zusamme
 &lt;li&gt;Einstellungen in der Software&lt;/li&gt;
 &lt;li&gt;Verfügbarkeit von Schriften&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;1945 – Memex&lt;/h3&gt;
+&lt;h3&gt;Memex · 1945&lt;/h3&gt;
 &lt;p&gt;Die Darstellung von Vanevar Bush im Jahre 1945 zeigt eine fixe Screen-Grösse mit fixen Inhalts-Seiten.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./img/memex.jpg&quot;&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 67.81071242849714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAekgDOUf/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAERID/9oACAEBAAEFAhzUTKUy5LOMo9FzZ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAAhMRD/2gAIAQEABj8CmqjEf//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQVH/2gAIAQEAAT8hKLs1HzEKk46TiU+o2lSHfgqf/9oADAMBAAIAAwAAABATz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExUXFBYYH/2gAIAQEAAT8QEKmy7t6ibYHBWx9zGFL4RDu9dOYFaG4vzzDYoApn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;memex&quot;
+        title=&quot;&quot;
+        src=&quot;/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/f3a32/memex.jpg&quot;
+        srcset=&quot;/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/6ba01/memex.jpg 175w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/b8ff8/memex.jpg 350w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/f3a32/memex.jpg 700w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/61d28/memex.jpg 1050w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/be74e/memex.jpg 1400w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/d9d06/memex.jpg 1923w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
 Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/370/2111?position=0&quot;&gt;«As We May Think», Vannevar Bush, 1945, «The Atlantic Monthly»&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Unterscheidungsmerkmale vom eBook zum normalen Buch&lt;/h2&gt;
 &lt;p&gt;Beim klassischen Buch aus Papier gibt es Formale Ausprägungen, die gegeben sind, welche jedoch nicht zwangsläufig auch bei einem eBook zutreffen. Da es sehr viele verschiedene Arten von eBooks gibt, kann nicht generell eine Aussage getroffen werden.&lt;/p&gt;
@@ -327,7 +537,7 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
 &lt;div class=&quot;wide-grid space pad bg&quot;&gt;
    &lt;div class=&quot;col-1to4&quot;&gt;
       &lt;figure&gt;
-         &lt;img src=&quot;./img/SVG/mobile.svg&quot; alt=&quot;&quot;&gt;
+         &lt;img src=&quot;/learn.interaction/mobile-294d9aef9a2ddbb5994dfbba679ce184.svg&quot; alt=&quot;&quot;&gt;
          &lt;figcaption&gt;
             &lt;h3&gt;Smartphone&lt;/h3&gt;
             &lt;ul&gt;
@@ -340,7 +550,7 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
    &lt;/div&gt;
    &lt;div class=&quot;col-5to8&quot;&gt;
       &lt;figure&gt;
-         &lt;img src=&quot;./img/SVG/tablet.svg&quot; alt=&quot;&quot;&gt;
+         &lt;img src=&quot;/learn.interaction/tablet-affc6f012bb283d9c5c22d2e13d6709e.svg&quot; alt=&quot;&quot;&gt;
          &lt;figcaption&gt;
             &lt;h3&gt;Tablet/eReader&lt;/h3&gt;
             &lt;ul&gt;
@@ -353,7 +563,7 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
    &lt;/div&gt;
    &lt;div class=&quot;col-9to12&quot;&gt;
       &lt;figure&gt;
-         &lt;img src=&quot;./img/SVG/desktop.svg&quot; alt=&quot;&quot;&gt;
+         &lt;img src=&quot;/learn.interaction/desktop-14a196c3601e868463b8efe9b2357cc9.svg&quot; alt=&quot;&quot;&gt;
          &lt;figcaption&gt;
             &lt;h3&gt;Desktop&lt;/h3&gt;
             &lt;ul&gt;
@@ -369,12 +579,12 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
 &lt;p&gt;Im Gegensatz zu einem klassischen Buch ist die Benutzerführung und der Lesefluss unter Umständen anders als bei einem eBook. Während man in einem Buch meist linear liesst und dabei von Spalte zu Spalte springt, kann bei einem Lesen an einem Bildschirm gescrollt werden, was für das Auge eine andere Leistung erfordert. Auch ein «blättern» – also Stück um Stück anschauen – ist am Bildschirm möglich.&lt;/p&gt;
 &lt;Div className=&quot;wide-grid space pad&quot;&gt;
 &lt;Div className=&quot;col-1to6&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;./img/SVG/reading-book.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/reading-book-3b5eb3a10cade3d427a50751205332a0.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Klassisches Buch&lt;/h3&gt;
 &lt;p&gt;Im klassischen Satzspiegel über die Doppelseite, mit einer Spalte, gibt es pro zwei Seiten zwei grosse Sprünge, die das Auge leiten muss. Beim springen von der linken zur rechten Seite und beim Springen auf die nächste Doppelseite.&lt;/p&gt;
 &lt;/Div&gt;
 &lt;Div className=&quot;col-7to12&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;./img/SVG/reading-ebook.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/reading-ebook-dd3617a2ed4a4da9ca3cb4fb0cf8de75.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;eBook&lt;/h3&gt;
 &lt;p&gt;Wird im eBook gescrollt, so muss das Auge der Scrollbewegung folgen um die Zeile nicht zu verlieren.
 Bei einer Applikation, die ein «Blättern» hat, ist der Lesefluss ähnlich einem Buch.&lt;/p&gt;
@@ -384,12 +594,12 @@ Bei einer Applikation, die ein «Blättern» hat, ist der Lesefluss ähnlich ein
 &lt;p&gt;Bei einem fixierten Layout wird spezifisch auf ein Gerät/Format optimiert und das Layout richtet sich exakt nach diesen Dimensionen. Die gestalterische Freiheit ist damit nicht eingeschränkt. Dafür wird keinerlei Rücksicht auf abweichende Geräte oder aber Wünsche des Lesers (Schriftgrösse, Spaltenbreite, ...) genommen.&lt;/p&gt;
 &lt;Div className=&quot;wide-grid space pad&quot;&gt;
 &lt;Div className=&quot;col-1to6&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;./img/SVG/fix-layout.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/fix-layout-ac02422fc8922f24f24f0767d840bdaa.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Fixes Layout&lt;/h3&gt;
 &lt;p&gt;Elemente richten sich nach dem Format. Layout unterliegt der Kontrolle des Designers.&lt;/p&gt;
 &lt;/Div&gt;
 &lt;Div className=&quot;col-7to12&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;./img/SVG/flow-layout.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/flow-layout-abdf9fe12ec6ba4020d5e04a20e8f177.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Fliessender Text&lt;/h3&gt;
 &lt;p&gt;Hier werden die Bilder und Layout-Elemente mit dem Text
 fliessend eingebaut. Somit ist die Dimension des Gerätes oder
@@ -431,7 +641,7 @@ Viele Anbieter bieten auch Spar-Pakete an. In diesen werden die Papier-Versionen
 &lt;p&gt;Vor allem kleinere Verlage und unabhängige Autoren, die ihre Inhalte selber vertreiben, setzen immer häufiger auf eBooks. Da die Verkaufszahlen in Nischenmärkten klein sind, ist das Drucken von Büchern in geringer Auflage teuer und der Absatz zieht sich oft über eine lange Zeit hinweg. Somit entstehen bei Papier-Büchern auch hoche Lager- und ­Logistikosten. Bei eBooks ist die Investition überschaubar und die Logistik ist zu beinahe 100 % automatisiert.&lt;/p&gt;
 &lt;Div className=&quot;wide-grid space pad bg&quot;&gt;
   &lt;Div className=&quot;col-1to12&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;./img/SVG/long-tail.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/long-tail-e995b39d159d5d48895a18c226362fdd.svg&quot;&gt;&lt;/p&gt;
   &lt;/Div&gt;
 &lt;/Div&gt;
 &lt;h3&gt;The Long Tail&lt;/h3&gt;
@@ -450,7 +660,7 @@ eBooks werden zum Teil auch als Apps angeboten um gewisse technische Beschränku
 &lt;th&gt;Eigenschaft&lt;/th&gt;
 &lt;th&gt;ePub&lt;/th&gt;
 &lt;th&gt;PDF/ePDF&lt;/th&gt;
-&lt;th&gt;MobiPocket&lt;/th&gt;
+&lt;th&gt;Kindle&lt;/th&gt;
 &lt;th&gt;Apps&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -534,8 +744,10 @@ InDesign hat in den letzten Jahren den ePub-Export stark verbessert und somit is
 Daneben gibt es ein Vielzahl von freien oder kommerziellen Tools, die eine ePub-Publikation ermöglichen. Meist lässt sich sagen, dass eine Person mit guten HTML-Kentnissen auch in der Lage ist ein ePub zu erstellen und zu optimieren.&lt;/p&gt;
 &lt;h3&gt;Audio im eBook&lt;/h3&gt;
 &lt;p&gt;Es gibt Anbieter, die Text-Bücher zusätzlich mit Sprechern versehen. So kann zum Beispiel der Text und das gesprochene Wort paralell wiedergegeben werden. Auch gibt es eBook-Reader, die den Text mit synthetisch generierter Stimme lesen.&lt;/p&gt;
-&lt;h2&gt;Weiterführende Informationen&lt;/h2&gt;
-&lt;Margin&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr /&gt;
 &lt;h3&gt;Autor&lt;/h3&gt;
 &lt;p&gt;Stefan Huber&lt;br&gt;
 sh@signalwerk.ch&lt;br&gt;
@@ -544,43 +756,5 @@ sh@signalwerk.ch&lt;br&gt;
 &lt;p&gt;April 2014: Erstellung&lt;br&gt;
 November 2015: Ergänzung&lt;br&gt;
 Januar 2019: Überarbeitung  &lt;/p&gt;
-&lt;/Margin&gt;
-&lt;h2&gt;Buch-Generatoren &amp;#x26; Crossmedia&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.anonymous-press.com/&quot;&gt;http://www.anonymous-press.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://digitalpublishingtoolkit.org/&quot;&gt;http://digitalpublishingtoolkit.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.lulu.com/&quot;&gt;http://www.lulu.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://youtu.be/3Uy3bBBoZ_g&quot;&gt;Whispersync&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;ePub-Erstellung&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://sigil-ebook.com/&quot;&gt;Sigil-Editor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://epubsecrets.com/&quot;&gt;InDesign ePub-Export&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://pandoc.org/&quot;&gt;Konverter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;ePub-Reader&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Adobe Digital Editions (Home) auf Desktop&lt;/li&gt;
-&lt;li&gt;Marvin auf iOS&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://calibre-ebook.com/&quot;&gt;Calibre&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://sobooks.de/&quot;&gt;Social-Reading&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;HTML und Mengentext&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.tobiaskoengeter.de/article/E-Book-Typografie.html&quot;&gt;http://www.tobiaskoengeter.de/article/E-Book-Typografie.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.sitepoint.com/perfect-paragraph-length-even-care/&quot;&gt;http://www.sitepoint.com/perfect-paragraph-length-even-care/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.fastcodesign.com/3046678/the-kindle-finally-gets-typography-that-doesnt-suck&quot;&gt;http://www.fastcodesign.com/3046678/the-kindle-finally-gets-typography-that-doesnt-suck&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Beispiele für Apps&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/book/schragstrich-3.0/&quot;&gt;Schrägstrich&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.wired.com/&quot;&gt;Wired&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Beispiel für experimentelle Gedichte in ePub&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://meganhoogenboom.nl/&quot;&gt;Megan Hoogenboom&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;eBook Bibliothek&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://bibliotecha.info/read/&quot;&gt;http://bibliotecha.info/read/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item></channel></rss>
+&lt;br /&gt;
+&lt;br /&gt;</content:encoded></item></channel></rss>
