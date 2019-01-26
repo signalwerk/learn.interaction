@@ -45,11 +45,10 @@ Der digitale Austausch von Information ist seit der Verbindung über elektronisc
 Sobald die Information vom Medium getrennt wurde (Telegramm), wurde die Übertragungsgeschwindigkeit schneller.
 
 ![](../media/data/information/speed-of-information-london/speed.svg)
-Quelle: [A Farewell to Alms, Gregory Clark, 2008](http://beebo.org/lately/2009-07-12_speed-of-information-travel.html)
+Quelle: [A Farewell to Alms – A Brief Economic History of the World, Gregory Clark, Princeton University Press, 2007](https://beebo.org/lately/2009-07-12_speed-of-information-travel.html)
 
 
-
-### 1935 – book reader
+### Book reader · 1935
 In einer Vision von 1935 wird klar, dass der Erfinder nicht den Inhalt, sondern das traditionelle Buch wiedergeben möchte.
 
 ![](../media/data/device/reader-microfilm/1935-ebook-sm.jpg)
@@ -96,7 +95,7 @@ Im Gegensatz zu einem klassischen Buch ist bei einem elektronischen Buch nicht k
 
 
 
-### 1945 – Memex
+### Memex · 1945
 Die Darstellung von Vanevar Bush im Jahre 1945 zeigt eine fixe Screen-Grösse mit fixen Inhalts-Seiten.
 
 
@@ -342,7 +341,7 @@ eBooks werden zum Teil auch als Apps angeboten um gewisse technische Beschränku
 <Div className="wide-grid">
   <Div className="col-1to12">
 
-| Eigenschaft                           | ePub        | PDF/ePDF   | MobiPocket | Apps   |
+| Eigenschaft                           | ePub        | PDF/ePDF   | Kindle | Apps   |
 |---------------------------------------|-------------|------------|------------|--------|
 | Fixes Layout                          | möglich     | Ja         | beschränkt | Ja     |
 | Fliessender Text                      | Ja          | beschränkt | Ja         | Ja     |
@@ -381,11 +380,12 @@ Es gibt Anbieter, die Text-Bücher zusätzlich mit Sprechern versehen. So kann z
 
 
 
+<br />
+<br />
+<br />
+<hr />
 
-## Weiterführende Informationen
 
-
-<Margin>
 
 ### Autor
 Stefan Huber  
@@ -397,36 +397,8 @@ April 2014: Erstellung
 November 2015: Ergänzung  
 Januar 2019: Überarbeitung  
 
-</Margin>
 
-## Buch-Generatoren & Crossmedia
-* http://www.anonymous-press.com/
-* http://digitalpublishingtoolkit.org/
-* http://www.lulu.com/
-* [Whispersync](https://youtu.be/3Uy3bBBoZ_g)
 
-## ePub-Erstellung
-* [Sigil-Editor](http://sigil-ebook.com/)
-* [InDesign ePub-Export](http://epubsecrets.com/)
-* [Konverter](http://pandoc.org/)
 
-## ePub-Reader
-* Adobe Digital Editions (Home) auf Desktop
-* Marvin auf iOS
-* [Calibre](http://calibre-ebook.com/)
-* [Social-Reading](https://sobooks.de/)
-
-## HTML und Mengentext
-* http://www.tobiaskoengeter.de/article/E-Book-Typografie.html
-* http://www.sitepoint.com/perfect-paragraph-length-even-care/
-* http://www.fastcodesign.com/3046678/the-kindle-finally-gets-typography-that-doesnt-suck
-
-## Beispiele für Apps
-* [Schrägstrich](https://itunes.apple.com/us/book/schragstrich-3.0/)
-* [Wired](http://www.wired.com/)
-
-## Beispiel für experimentelle Gedichte in ePub
-* [Megan Hoogenboom](http://meganhoogenboom.nl/)
-
-## eBook Bibliothek
-* http://bibliotecha.info/read/
+<br />
+<br />
