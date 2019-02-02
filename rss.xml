@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Interaction]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 26 Jan 2019 14:53:45 GMT</lastBuildDate><item><title><![CDATA[Learn Interaction Design]]></title><description><![CDATA[import Div from 'gatsby-theme-signalwerk/src/components/Div'; Signalwerk GmbH – Stefan Huber · 2019 ·  CC-BY-SA 4.0 Dokumentation eBook…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/root</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog/root</guid><content:encoded>&lt;p&gt;import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Interaction]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 02 Feb 2019 11:39:58 GMT</lastBuildDate><item><title><![CDATA[Learn Interaction Design]]></title><description><![CDATA[import Div from 'gatsby-theme-signalwerk/src/components/Div'; Signalwerk GmbH – Stefan Huber · 2019 ·  CC-BY-SA 4.0 Dokumentation eBook…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/root</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog/root</guid><content:encoded>&lt;p&gt;import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
 &lt;Div className=&quot;column__text&quot;&gt;
 &lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;h2&gt;Dokumentation&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;/learn.interaction/articles/ebook/&quot;&gt;eBook · Grundlagen&lt;/a&gt;&lt;/p&gt;
-&lt;!-- * [Screens](/articles/screens/) --&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/learn.interaction/articles/ebook/&quot;&gt;eBook · Grundlagen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/learn.interaction/articles/screens/&quot;&gt;Screens&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- ## Stubs --&gt;
 &lt;!-- * [Web-Typografie](/web-typography/) --&gt;
 &lt;!-- * [Touch-Interface](/touch/) --&gt;
 &lt;!-- * [Thesis](/thesis/) --&gt;
-&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Fr – Bildschirme und Fonts – 1. Morgen
+&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[learn.interaction.media Media files for documentations. To use]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</guid><content:encoded>&lt;h1&gt;learn.interaction.media&lt;/h1&gt;
+&lt;p&gt;Media files for documentations.&lt;/p&gt;
+&lt;h2&gt;To use&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; submodule add https://github.com/signalwerk/learn.interaction.media.git &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;path&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Fr – Bildschirme und Fonts – 1. Morgen
   – TV Interlace – 2. Morgen
   – Darstellung von Fonts >>> Hinting
   – Hinting vorbei mit neuestem…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//screens/abstract/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//screens/abstract/</guid><content:encoded>&lt;h1&gt;Fr – Bildschirme und Fonts&lt;/h1&gt;
@@ -37,10 +38,7 @@ haben wir ein iphone plus?
 – farbiger text&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[learn.interaction.media Media files for documentations. To use]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</guid><content:encoded>&lt;h1&gt;learn.interaction.media&lt;/h1&gt;
-&lt;p&gt;Media files for documentations.&lt;/p&gt;
-&lt;h2&gt;To use&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; submodule add https://github.com/signalwerk/learn.interaction.media.git &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;path&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Bildquelle:  https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</guid><content:encoded>&lt;p&gt;Bildquelle: &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&quot;&gt;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Aufgabe eBook Abgabe Am 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden. Technologie Für die Auflösung ist…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</guid><content:encoded>&lt;h1&gt;Aufgabe eBook&lt;/h1&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Aufgabe eBook Abgabe Am 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden. Technologie Für die Auflösung ist…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</guid><content:encoded>&lt;h1&gt;Aufgabe eBook&lt;/h1&gt;
 &lt;h2&gt;Abgabe&lt;/h2&gt;
 &lt;p&gt;Am 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden.&lt;/p&gt;
 &lt;h2&gt;Technologie&lt;/h2&gt;
@@ -105,24 +103,16 @@ Creative Commons License (CC BY-SA 4.0)&lt;br&gt;
 Gestaltung: {{Name}}&lt;br&gt;
 Text: Project Gutenberg – gutenberg.org  &lt;/p&gt;
 &lt;h3&gt;Text-Manus&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.gutenberg.org/ebooks/22367&quot;&gt;http://www.gutenberg.org/ebooks/22367&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Vergleich handschriftliche Codices vs. modernem Buch ]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</guid><content:encoded>&lt;p&gt;Vergleich handschriftliche Codices vs. modernem Buch &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Screens]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+&lt;p&gt;&lt;a href=&quot;http://www.gutenberg.org/ebooks/22367&quot;&gt;http://www.gutenberg.org/ebooks/22367&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Bildquelle:  https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</guid><content:encoded>&lt;p&gt;Bildquelle: &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&quot;&gt;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Vergleich handschriftliche Codices vs. modernem Buch ]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</guid><content:encoded>&lt;p&gt;Vergleich handschriftliche Codices vs. modernem Buch &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Screens]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Div from 'gatsby-theme-signalwerk/src/components/Div…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/screens/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/screens/</guid><pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
 import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
 &lt;h2&gt;Bildschirmauflösung&lt;/h2&gt;
 &lt;p&gt;Je nach Auflösung des Bildschirms können mehr oder weniger Pixel auf der Ausgabefläche ausgegeben werden. Je mehr Pixel zur Verfügung stehen, desto grösser kann das Browser-Fenster aufgezogen werden. Bei Websites mit «fixem Layout» werden somit mehr oder weniger Inhalte sichtbar.&lt;/p&gt;
 &lt;div class=&quot;wide-grid space pad bg&quot;&gt;
-  &lt;div class=&quot;col-1to4&quot;&gt;
+  &lt;div class=&quot;col-1to12&quot;&gt;
     &lt;figure&gt;
-      &lt;div class=&quot;w60&quot;&gt;
-        &lt;img src=&quot;/learn.interaction/screensize-mobile-a31008ef3e777128afcd18d9d5185f02.svg&quot; alt=&quot;mobile screen&quot;&gt;
-      &lt;/div&gt;
-      &lt;figcaption&gt;Bildschrim hat eine zu gerine Aufl&amp;#xF6;sung und kann Seite nicht vollst&amp;#xE4;ndig anzeigen. Ungen&amp;#xFC;gende technische Realisation f&amp;#xFC;r mobiles Ger&amp;#xE4;t. L&amp;#xE4;sst sich vermeiden.&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;col-5to12&quot;&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/learn.interaction/screensize-desktop-f776331c8b80590984a47b0cdd6c3cee.svg&quot; alt=&quot;Desktopscreen&quot;&gt;
-      &lt;figcaption&gt;Bildschrim hat eine grosse Aufl&amp;#xF6;sung und kann Seite vollst&amp;#xE4;ndig anzeigen.&lt;/figcaption&gt;
+      &lt;img src=&quot;/learn.interaction/screensize-desktop-mobile-69f4a90d38ee88ca93d7cdb92bb88171.svg&quot; alt=&quot;mobile screen vs. desktop screen&quot;&gt;
+      &lt;figcaption&gt;Desktop: Bildschrim hat eine grosse Aufl&amp;#xF6;sung und kann Seite vollst&amp;#xE4;ndig anzeigen. &lt;br&gt; Mobile: Bildschrim hat eine zu gerine Aufl&amp;#xF6;sung und kann Seite nicht vollst&amp;#xE4;ndig anzeigen. Ungen&amp;#xFC;gende technische Realisation f&amp;#xFC;r mobiles Ger&amp;#xE4;t. L&amp;#xE4;sst sich vermeiden.&lt;/figcaption&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 &lt;/div&gt;
