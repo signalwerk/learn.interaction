@@ -22,7 +22,7 @@ Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommo
 ## Dokumentation
 
 * [eBook · Grundlagen](/articles/ebook/)
-<!-- * [Screens](/articles/screens/) -->
+* [Screens](/articles/screens/)
 
 
 <!-- ## Stubs -->

@@ -18,37 +18,19 @@ import Div from 'gatsby-theme-signalwerk/src/components/Div';
 
 
 
-
-
 ## Bildschirmauflösung
 Je nach Auflösung des Bildschirms können mehr oder weniger Pixel auf der Ausgabefläche ausgegeben werden. Je mehr Pixel zur Verfügung stehen, desto grösser kann das Browser-Fenster aufgezogen werden. Bei Websites mit «fixem Layout» werden somit mehr oder weniger Inhalte sichtbar.
 
 
 
-
-
-
 <div class="wide-grid space pad bg">
-  <div class="col-1to4">
+  <div class="col-1to12">
     <figure>
-      <div class="w60">
-        <img src="../media/data/device/reader-screensize/screensize-mobile.svg" alt="mobile screen" />
-      </div>
-      <figcaption>Bildschrim hat eine zu gerine Auflösung und kann Seite nicht vollständig anzeigen. Ungenügende technische Realisation für mobiles Gerät. Lässt sich vermeiden.</figcaption>
-    </figure>
-  </div>
-  <div class="col-5to12">
-    <figure>
-      <img src="../media/data/device/reader-screensize/screensize-desktop.svg" alt="Desktopscreen" />
-      <figcaption>Bildschrim hat eine grosse Auflösung und kann Seite vollständig anzeigen.</figcaption>
+      <img src="../media/data/device/reader-screensize/screensize-desktop-mobile.svg" alt="mobile screen vs. desktop screen" />
+      <figcaption>Desktop: Bildschrim hat eine grosse Auflösung und kann Seite vollständig anzeigen. <br /> Mobile: Bildschrim hat eine zu gerine Auflösung und kann Seite nicht vollständig anzeigen. Ungenügende technische Realisation für mobiles Gerät. Lässt sich vermeiden.</figcaption>
     </figure>
   </div>
 </div>
-
-
-
-
-
 
 
 
