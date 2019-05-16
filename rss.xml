@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Interaction]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 18 Apr 2019 09:07:54 GMT</lastBuildDate><item><title><![CDATA[Learn Interaction Design]]></title><description><![CDATA[import Div from 'gatsby-theme-signalwerk/src/components/Div'; Signalwerk GmbH – Stefan Huber · 2019 ·  CC-BY-SA 4.0 Dokumentation eBook…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/root</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog/root</guid><content:encoded>&lt;p&gt;import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Interaction]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 16 May 2019 00:06:43 GMT</lastBuildDate><item><title><![CDATA[Learn Interaction Design]]></title><description><![CDATA[import Div from 'gatsby-theme-signalwerk/src/components/Div';Signalwerk GmbH – Stefan Huber · 2019 · CC-BY-SA 4.0DokumentationeBook…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/root</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog/root</guid><content:encoded>&lt;p&gt;import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
 &lt;Div className=&quot;column__text&quot;&gt;
 &lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
@@ -12,20 +12,20 @@
 &lt;!-- * [Web-Typografie](/web-typography/) --&gt;
 &lt;!-- * [Touch-Interface](/touch/) --&gt;
 &lt;!-- * [Thesis](/thesis/) --&gt;
-&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[learn.interaction.media Media files for documentations. To use]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</guid><content:encoded>&lt;h1&gt;learn.interaction.media&lt;/h1&gt;
+&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[learn.interaction.mediaMedia files for documentations.To use]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</guid><content:encoded>&lt;h1&gt;learn.interaction.media&lt;/h1&gt;
 &lt;p&gt;Media files for documentations.&lt;/p&gt;
 &lt;h2&gt;To use&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; submodule add https://github.com/signalwerk/learn.interaction.media.git &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;path&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Fr – Bildschirme und Fonts – 1. Morgen
-  – TV Interlace – 2. Morgen
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; submodule &lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt; https://github.com/signalwerk/learn.interaction.media.git &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;path&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Fr – Bildschirme und Fonts– 1. Morgen
+  – TV Interlace– 2. Morgen
   – Darstellung von Fonts >>> Hinting
   – Hinting vorbei mit neuestem…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//screens/abstract/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//screens/abstract/</guid><content:encoded>&lt;h1&gt;Fr – Bildschirme und Fonts&lt;/h1&gt;
 &lt;p&gt;– 1. Morgen
 – TV Interlace&lt;/p&gt;
 &lt;p&gt;– 2. Morgen
 – Darstellung von Fonts &gt;&gt;&gt; Hinting
-– Hinting vorbei mit neuestem MacOS X off&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[– vergleich bildschirmabstand zu Screengrösse – logo matsch png
+– Hinting vorbei mit neuestem MacOS X off&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[– vergleich bildschirmabstand zu Screengrösse– logo matsch png
 – rendering pixeldensity
-– 72dpi? geräte ausmessen haben wir non retinas…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//screens/examples/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//screens/examples/</guid><content:encoded>&lt;p&gt;– vergleich bildschirmabstand zu Screengrösse&lt;/p&gt;
+– 72dpi? geräte ausmessenhaben wir non retinas…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//screens/examples/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//screens/examples/</guid><content:encoded>&lt;p&gt;– vergleich bildschirmabstand zu Screengrösse&lt;/p&gt;
 &lt;p&gt;– logo matsch png
 – rendering pixeldensity
 – 72dpi? geräte ausmessen&lt;/p&gt;
@@ -38,7 +38,7 @@ haben wir ein iphone plus?
 – farbiger text&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Aufgabe eBook Abgabe Am 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden. Technologie Für die Auflösung ist…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</guid><content:encoded>&lt;h1&gt;Aufgabe eBook&lt;/h1&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Aufgabe eBookAbgabeAm 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden.TechnologieFür die Auflösung ist die…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</guid><content:encoded>&lt;h1&gt;Aufgabe eBook&lt;/h1&gt;
 &lt;h2&gt;Abgabe&lt;/h2&gt;
 &lt;p&gt;Am 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden.&lt;/p&gt;
 &lt;h2&gt;Technologie&lt;/h2&gt;
@@ -103,245 +103,8 @@ Creative Commons License (CC BY-SA 4.0)&lt;br&gt;
 Gestaltung: {{Name}}&lt;br&gt;
 Text: Project Gutenberg – gutenberg.org  &lt;/p&gt;
 &lt;h3&gt;Text-Manus&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.gutenberg.org/ebooks/22367&quot;&gt;http://www.gutenberg.org/ebooks/22367&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Bildquelle:  https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</guid><content:encoded>&lt;p&gt;Bildquelle: &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&quot;&gt;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Vergleich handschriftliche Codices vs. modernem Buch ]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</guid><content:encoded>&lt;p&gt;Vergleich handschriftliche Codices vs. modernem Buch &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Screens]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Div from 'gatsby-theme-signalwerk/src/components/Div…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/screens/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/screens/</guid><pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
-import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
-&lt;h2&gt;Bildschirmauflösung&lt;/h2&gt;
-&lt;p&gt;Je nach Auflösung des Bildschirms können mehr oder weniger Pixel auf der Ausgabefläche ausgegeben werden. Je mehr Pixel zur Verfügung stehen, desto grösser kann das Browser-Fenster aufgezogen werden. Bei Websites mit «fixem Layout» werden somit mehr oder weniger Inhalte sichtbar.&lt;/p&gt;
-&lt;div class=&quot;wide-grid space pad bg&quot;&gt;
-  &lt;div class=&quot;col-1to12&quot;&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;/learn.interaction/screensize-desktop-mobile-69f4a90d38ee88ca93d7cdb92bb88171.svg&quot; alt=&quot;mobile screen vs. desktop screen&quot;&gt;
-      &lt;figcaption&gt;Desktop: Bildschrim hat eine grosse Aufl&amp;#xF6;sung und kann Seite vollst&amp;#xE4;ndig anzeigen. &lt;br&gt; Mobile: Bildschrim hat eine zu gerine Aufl&amp;#xF6;sung und kann Seite nicht vollst&amp;#xE4;ndig anzeigen. Ungen&amp;#xFC;gende technische Realisation f&amp;#xFC;r mobiles Ger&amp;#xE4;t. L&amp;#xE4;sst sich vermeiden.&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h3&gt;Standards&lt;/h3&gt;
-&lt;p&gt;Es gibt diverse Grössen und Standards für Bildschirme und deren Auflösungen. Die Produktevielfallt (Desktop und Mobile) ist so gross, dass wir von keinem Standard mehr ausgehen können. Vielmehr muss man sich gedanken machen, wieviele Geräte man bei einer bestimmten Design-Minimalgrösse noch erreicht. Dabei helfen aktuelle &lt;a href=&quot;http://gs.statcounter.com/screen-resolution-stats&quot;&gt;Satistiken&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&quot;wide-grid space pad&quot;&gt;
-  &lt;div class=&quot;col-1to12&quot;&gt;
-    &lt;figure&gt;
-      &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/0/0c/Vector_Video_Standards8.svg&quot; alt=&quot;Screen Standards&quot;&gt;
-    	&lt;figcaption&gt;Einige Desktop-Gr&amp;#xF6;ssen und deren Namen&lt;/figcaption&gt;
-    &lt;/figure&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;h2&gt;Bildschirmabmessung&lt;/h2&gt;
-&lt;p&gt;Die Bildschirmabmessung wird häufig auch in Zoll (Inch) angegeben. Spricht man von Zoll, so meint man im allgemeinen die Diagonale des Bildschirms. Die Grösse gibt meist eher eine Bildschirm-Grössenklasse an, denn eine effektive Grösse. Ein «15&quot;-Bildschirm» hat also meist etwa 15 Zoll in der Diagonale. Die Bildschirmproportion ist dadur aber zum Beispiel nicht definiert.&lt;/p&gt;
-&lt;h2&gt;Visuelle Grösse&lt;/h2&gt;
-&lt;p&gt;Die visuelle wahrgenommene Grösse eines Gestaltugnselements auf dem Bildschirm, ist abhängig von der effektiven Grösse auf dem Bildschirm und dem Betrachtungsabstand. Obwohl kleine Screens (Smartphones) weniger Platz bieten, so ist der Betrachtungsabstand auch kleiner und es können somit auch ähnliche Lesbarkeiten erreicht werden.&lt;/p&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 47.26735598227474%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABBUlEQVQoz5VQMW6DQBDcJ1gpqXmC8wGewTeMUFxQQE2BqCgQHS0/oESJnIY+2EVQLBfIJeju9u6y3ClWpESJPFqdVrOandkDROz7fpomrbVSSn+DJOKr1l5JoXX3/PJ6OHDOl2WBOI4B4HG7VRJpLM1rGybYTb5CStr4tN8nSdJ1XZZlEIYhiR82m/fTkWbImBRCodCIgjN6bSlBrvrycd7tgiiKgiDwfR/meXZdlzob9Zac3DmlIMaUNPxlur4dT8MwtG1L5pDnOTkXRUEzYdb/ChudluF6EFoSPM8jseM44ziuhuawf2E/AdboBnVd/23+E5CmqRWXZXm3uGkaK66q6l7xJzajzbYaT4wlAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;SizeCalculator&quot;
-        title=&quot;&quot;
-        src=&quot;/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/84ad3/SizeCalculator.png&quot;
-        srcset=&quot;/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/687da/SizeCalculator.png 175w,
-/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/0ab4d/SizeCalculator.png 350w,
-/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/84ad3/SizeCalculator.png 700w,
-/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/ef8d3/SizeCalculator.png 1050w,
-/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/596f7/SizeCalculator.png 1354w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-Bildquelle: &lt;a href=&quot;https://sizecalc.com/&quot;&gt;Size Calculator&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Auflösungsdichte – DPI&lt;/h2&gt;
-&lt;p&gt;Eine Auflösungsdichte wird in DPI (Dots per Inch) angegeben. Diese Einheit gibt an, wie viele Bildpunkte pro Inch (25,4 mm = 1 Inch) – also eine Strecke – liegen. Je höher die Auflösung ist, desto weniger erkennt man die einzelnen Punkte in der Ausgabe und die Ausgabe wirkt weniger «verpixelt». Die Auflösung eines Bildschirms kann in DPI angegeben werden.&lt;/p&gt;
-&lt;h3&gt;DPI Wert ermitteln&lt;/h3&gt;
-&lt;Margin&gt;
-&lt;h3&gt;Rechnungsbeispiel&lt;/h3&gt;
-&lt;p&gt;Ein Tablet kann 3000 Pixel in der Breite anzeigen und hat eine Breite von 25,4 cm. Somit beträgt die Auflösung 300 dpi (in der Breite).&lt;/p&gt;
-&lt;p&gt;3000 Pixel ÷ 10 Inch (25,4 cm) = 300 Dots per Inch&lt;/p&gt;
-&lt;/Margin&gt;
-&lt;p&gt;Höhe oder Breite des Bildes in Pixel ÷ Höhe oder Breite in Ausgabe (in Inch) = Auflösung in DPI (Dots per Inch)&lt;/p&gt;
-&lt;div class=&quot;column__text&quot;&gt;
-&lt;div class=&quot;video&quot;&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2&gt;Auflösung im CSS&lt;/h2&gt;
-&lt;p&gt;Mit einer Media-Query lassen sich abhängig von Auflösung verschiedene definitionen ein- und ausschalten.&lt;/p&gt;
-&lt;h3&gt;Beipiel für Media-Query mit minimaler DPI-Anzahl:&lt;/h3&gt;
-&lt;Margin&gt;
-&lt;p&gt;1 Zoll (Inch) = 25.4 mm&lt;br&gt;
-1 dpi ≈ 0.39 dpcm&lt;br&gt;
-1 dpcm = 2.54 dpi  &lt;/p&gt;
-&lt;/Margin&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;@media
-only screen and ( min-resolution: 190dpi),
-only screen and ( min-resolution: 75dpcm)&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token comment&quot;&gt;/* Definitionen hier */&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://caniuse.com/#feat=css-media-resolution&quot;&gt;Support-Matrix für Browser&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Pixel zu Dots/Point (Device Pixel Ratio)&lt;/h2&gt;
-&lt;Margin&gt;
-&lt;p&gt;Microsoft verfolgt mit &lt;a href=&quot;https://docs.microsoft.com/en-us/windows/desktop/learnwin32/dpi-and-device-independent-pixels&quot;&gt;Device-Independent Pixels&lt;/a&gt; ein ähnliches Konzept für Desktop-Applikationen.&lt;/p&gt;
-&lt;/Margin&gt;
-&lt;p&gt;So genannte hochauflösende Bildschirme (High pixel density display) zeichnen einen Pixel (Ausmass) mit mehreren Bildschirmpunkten (Dots/Point) an. Ist jedoch pro Pixel mehr Information vorhanden (zum Beispiel bei Bildern), werden die effektiven Bildschirmpunkten mit voller Auflösung genutzt. Je höher die Auflösung eines Bildschrims ist, desto schärfer wirkt der Bildschirm für den Menschen.
-Apple spricht bei hochaufgelösten Bildschirmen von Retina-Auflösung.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions&quot;&gt;The Ultimate Guide To iPhone Resolutions&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Beispiel für Media-Query mit minimaler pixel density&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;@media
-only screen and ( min-device-pixel-ratio: 2),
-only screen and ( min-resolution: 2dppx)&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token comment&quot;&gt;/* Definitionen hier */&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://caniuse.com/#feat=css-media-resolution&quot;&gt;Support-Matrix für Browser&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Display Technologien&lt;/h2&gt;
-&lt;p&gt;Grundsätzlich können wir bei modernen Displays zwischen zwei Technologien unterscheiden. Bei klassischen Displays am Smartphone, Desktop oder bei Farb-Tablets werden meist Monitore mit der Technologie TFT LCD (Thin-film-transistor liquid-crystal display) verwendet. Dabei handelt es sich pro Pixel um in den drei Lichtfarben (Rot, Grün, Blau) leuchtende Elemente. Durch additive Farbmischung können Farben erzeugt werden.
-Bei elektrophoretischen Anzeigen (eInk) oder ähnlichen Technologien, werden kleine Kugeln oder deren Inhalt so polarisiert, dass es eine schwarze und eine weisse Seite gibt. Daraus können dann mit ganz vielen dieser Kugeln ein S/W-Bild erzeugt werden. Die Kugeln selber sind nicht leuchtend und müssen durch Licht in der Aufsicht (Sonne) oder Hinterleuchtung sichtbar gemacht werden.&lt;/p&gt;
-&lt;Div className=&quot;wide-grid space pad&quot;&gt;
-&lt;Div className=&quot;col-1to6&quot;&gt;
-&lt;h3&gt;Elektrophoretische Anzeige&lt;/h3&gt;
-&lt;p&gt;Kugeln enthalten weisse und schwarze Stellen
-Bild-Quelle: &lt;a href=&quot;http://de.wikipedia.org/wiki/Elektronisches_Papier&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/learn.interaction/eInk-principle-a691bdf1a1ea9b4b1660fdeabaf87abb.svg&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Geräte mit eInk&lt;/h4&gt;
-&lt;p&gt;eBook-Reader
-&lt;img src=&quot;/learn.interaction/eInk-97c3e51f647294ab5834549f76cec8c5.svg&quot;&gt;&lt;/p&gt;
-&lt;/Div&gt;
-&lt;Div className=&quot;col-7to12&quot;&gt;
-&lt;h3&gt;LCD-Anzeige&lt;/h3&gt;
-&lt;p&gt;Drei kleine leuchtende Elemente erzeugen je Pixel eine Ausgabe (Farbe)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/learn.interaction/tft-principle-19bac93ea3f33f35a1487322d45b0b73.svg&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Geräte mit LCD&lt;/h4&gt;
-&lt;p&gt;Smartphone, Tablet, Desktop
-&lt;img src=&quot;/learn.interaction/tft-161ee756c877a7a988734f7ac209a7f1.svg&quot;&gt;&lt;/p&gt;
-&lt;/Div&gt;
-&lt;/Div&gt;
-&lt;h4&gt;OLED&lt;/h4&gt;
-&lt;Margin&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.lg.com/global/business/information-display/technology-solution/oled&quot;&gt;Weitere Informationen&lt;/a&gt;&lt;/p&gt;
-&lt;/Margin&gt;
-&lt;p&gt;Seit wenigen Jahren sind OLED (organic light emitting diode) eine weitere Display-Technologie, die vermehrt Einsatz findet. Vor allem kleinere Screens, wie in Smartphones verbaut, halten vermehrt mit dieser neuen Technologie einzug. Während beim TFT LCD das Licht über eine weisse Hingergrundbeleuchtung kommt und gefiltert wird, wird beim OLED farbiges Licht ausgestrahlt.&lt;/p&gt;
-&lt;video controls&gt;
-  &lt;source src=&quot;https://cdn.jsdelivr.net/gh/signalwerk/IAD.LAB.DOC@35af6c6774dd58657eaf9a66d186d1bc36dd6505/pages/screens/img/REC016.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;source src=&quot;https://cdn.jsdelivr.net/gh/signalwerk/IAD.LAB.DOC@35af6c6774dd58657eaf9a66d186d1bc36dd6505/pages/screens/img/REC016.webm&quot; type=&quot;video/webm&quot; /&gt;
-&lt;/video&gt;
-&lt;p&gt;iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)&lt;/p&gt;
-&lt;p&gt;Quelle: Stefan Huber&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/e17b4/OLED_detail.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB1GFnIgWFf//EABsQAAEEAwAAAAAAAAAAAAAAABIAAQIhAxAR/9oACAEBAAEFAodG1Ahtsev/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAABAgcAAAAAAAAAAAAAAAABECEAERIiMTJB/9oACAEBAAY/AhrV2SXZhi6//8QAGxABAAICAwAAAAAAAAAAAAAAAREhAGEQMVH/2gAIAQEAAT8hsAUOwzcyjX3GMhAU2G+f/9oADAMBAAIAAwAAABC4D//EABYRAQEBAAAAAAAAAAAAAAAAACEQEf/aAAgBAwEBPxA0n//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIf/xAAdEAEAAgICAwAAAAAAAAAAAAABETEAIRBxQVGR/9oACAEBAAE/EESZkNTddRgpoJNT4zsR6LwlBBFEqfBwo4//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;OLED detail&quot;
-        title=&quot;&quot;
-        src=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/f3a32/OLED_detail.jpg&quot;
-        srcset=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/6ba01/OLED_detail.jpg 175w,
-/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/b8ff8/OLED_detail.jpg 350w,
-/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/f3a32/OLED_detail.jpg 700w,
-/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/61d28/OLED_detail.jpg 1050w,
-/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/e17b4/OLED_detail.jpg 1200w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;Bildquelle: &lt;a href=&quot;http://www.lg.com/global/business/information-display/technology-solution/oled&quot;&gt;LG&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/1926c/OLED.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 495px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 59.5959595959596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsSAAALEgHS3X78AAACD0lEQVQoz3VSbW/SUBjtXzP+DLNP+i/8A37RmGjY3GYy57ZkCaJQydgYsLkRI4YFVqiUlrKOttD1/f229MWH1qhx8aTJvfe595zn3HOLpRl8H6mqnMZpEidJDEOS3kNyr4jlFVH0374xit1vzIKFpaqq/X7f87z8kGGYvu8CPV8GQQBboIVBCaG420uevqo/OHn0+vnDu40CT/7geD7vhsKlh5wRKU5o0UEOFGmaOW2c2rYN5FSY0vh+4bD2svL+We3x2scna/ZCZFh2Op3C7u31Ndkb1+viLvn1ir00xpMkjpbLJQhjknTHMGN60G3jxdLGi1azdtI64m4mIM/zfBAG5FmTPjq7PS53OtvU+SF39UVRvCybBJvNZhUcr+DVHjGYjMnRkLi4bO/t7QuCAG2XYThmJsfVanl7q7O5Re5ufm4cHJTwbud7FEUr23EUsSyLVyo7O+8K6+vl8idqNIK2EFueUBwnoiQ3L9ofiqVW4xzAcTertP+OHmJcXSZNXdflOG4+n6f/Qf5sWBiGjuPoum6aJkwsy8r5vxGHETJd34DPQboT2P6fd4Ym4HkwGJAZKIqSZdnIAIorO44vDTmZ4hVyprOL0Av+JRMEMcrAMAxIDIdDSZJABU4gy1OBSQkKJdqihkzPlU3w8ss2BAPxKIoCnjVNg0neM0eEQkcyLEFzFDtjWtZC97XV3/ITJqGGGlU/a2EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;OLED&quot;
-        title=&quot;&quot;
-        src=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/1926c/OLED.png&quot;
-        srcset=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/ca206/OLED.png 175w,
-/learn.interaction/static/52c1413533978cb8173ce9f77debf968/4aeee/OLED.png 350w,
-/learn.interaction/static/52c1413533978cb8173ce9f77debf968/1926c/OLED.png 495w&quot;
-        sizes=&quot;(max-width: 495px) 100vw, 495px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;Bildquelle: &lt;a href=&quot;https://www.mweb.co.za/games/NewsArticles/tabid/2561/Article/30977/Samsung-QLED-How-does-its-display-work-and-is-it-better-than-OLED.aspx&quot;&gt;Gamezone/LG&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;OLED Varriante, bei dem zusätzlich zu RGB auch noch eine Weisskomponente angesteuert wird (&lt;a href=&quot;https://www.youtube.com/watch?v=3qRhTKOu9Pw&quot;&gt;WRGB OLED&lt;/a&gt;).&lt;/p&gt;
-&lt;h2&gt;Bildwiederholrate&lt;/h2&gt;
-&lt;Margin&gt;
-&lt;ul&gt;
-&lt;li&gt;Animation flüssig: ab &lt;a href=&quot;https://en.wikipedia.org/wiki/Frame_rate#/media/File:Animhorse.gif&quot;&gt;20 – 30 Frames pro Sekunde (fps)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Gut: 60 Frames pro Sekunde&lt;/li&gt;
-&lt;li&gt;Ideal: einige Geräte haben heute 120 fps&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/Margin&gt;
-&lt;p&gt;Damit eine Animation flüssig auf dem Bildschirm erscheint, sollten zwischen 20 – 30 Frames pro Sekunde (fps) neu gezeichnet werden. 60 Frames pro Sekunde sind ideal. Viele Monitore können 60 Frames pro Sekunde anzeigen. Die limitierende Komponente ist meist eher ob der Computer in der Lage ist, so schnell die Bilder zu berechnen.&lt;/p&gt;
-&lt;h2&gt;Weiterführende Informationen&lt;/h2&gt;
-&lt;Margin&gt;
-&lt;h3&gt;Autor&lt;/h3&gt;
-&lt;p&gt;Stefan Huber&lt;br&gt;
-sh@signalwerk.ch&lt;br&gt;
-+41 78 744 37 38&lt;/p&gt;
-&lt;h3&gt;Dokumentgeschichte&lt;/h3&gt;
-&lt;p&gt;Juni 2018: Erstellung&lt;br&gt;
-Januar 2019: Überarbeitung  &lt;/p&gt;
-&lt;/Margin&gt;
-&lt;h3&gt;Kennzahlen zu Bildschirmen&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Lumen_(Einheit)&quot;&gt;Lichtstärke – Lumen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Leuchtdichte&quot;&gt;Leuchtdichte – Nits&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Farbraum&quot;&gt;Farbraum&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Übliche Bildschirmauflösungen&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://gs.statcounter.com/&quot;&gt;Browser Market&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.w3schools.com/browsers/browsers_display.asp&quot;&gt;Browser Display Statistics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Screens&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://youtu.be/3BJU2drrtCM?t=2m17s&quot;&gt;Kathodenstrahlröhre (Cathode ray tube – CRT)&lt;/a&gt; &amp;#x26; &lt;a href=&quot;https://de.wikipedia.org/wiki/Kathodenstrahlr%C3%B6hre&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://spectrum.ieee.org/consumer-electronics/audiovideo/your-guide-to-televisions-quantumdot-future&quot;&gt;Quantum-Dot Displays&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2017/10/31/16579748/apple-iphone-x-review&quot;&gt;iPhone X Display&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mjYjFEp9Yx0&quot;&gt;Framerate&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[eBook · Grundlagen]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Div from 'gatsby-theme-signalwerk/src/components/Div…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/ebook/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/ebook/</guid><pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+&lt;p&gt;&lt;a href=&quot;http://www.gutenberg.org/ebooks/22367&quot;&gt;http://www.gutenberg.org/ebooks/22367&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Bildquelle: https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</guid><content:encoded>&lt;p&gt;Bildquelle: &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&quot;&gt;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Vergleich handschriftliche Codices vs. modernem Buch ]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</guid><content:encoded>&lt;p&gt;Vergleich handschriftliche Codices vs. modernem Buch &lt;/p&gt;</content:encoded></item><item><title><![CDATA[eBook · Grundlagen]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Div from 'gatsby-theme-signalwerk/src/components/Div';Information…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/ebook/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/ebook/</guid><pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
 import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
 &lt;h2&gt;Information wird vom Medium getrennt&lt;/h2&gt;
 &lt;Margin&gt;
@@ -364,7 +127,7 @@ import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt
 &lt;p&gt;Der digitale Austausch von Information ist seit der Verbindung über elektronische Wege ein wichtiger Wirtshaft- und Kultur-Faktor. Informationsfluss und Handel waren in der Geschichte stets entscheidend für zivilisatorische Errungenschaften, die auch in der digitalen Zeit wichtig bleiben. Mit der Erfindung der elektronischen Übertragungswege, wurde die Information immer stärker vom Medium getrennt. Ein Telegramm hatte unter Umständen den selben Inhalt wie ein Brief, doch im Gegensatz zum Brief wird die reine Information und keine Erscheinung oder Gestaltung übermittelt. Mit dem Auftreten der Computer und des Internets ab Mitte des 20. Jahrhunderts wurde zuerst Information getauscht (ARPANET, WWW). Und später auch vermehrt die Form zusätzlich zur reinen Information übertragen.&lt;/p&gt;
 &lt;h3&gt;Wie schnell kommt eine Information nach London?&lt;/h3&gt;
 &lt;p&gt;Sobald die Information vom Medium getrennt wurde (Telegramm), wurde die Übertragungsgeschwindigkeit schneller.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/learn.interaction/speed-c3de4b0aa9842cba0f8cac89ae20795a.svg&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/signalwerk/IAD.Chart@gh-pages/charts/SpeedOfInformation_km.svg&quot;&gt;
 Quelle: &lt;a href=&quot;https://beebo.org/lately/2009-07-12_speed-of-information-travel.html&quot;&gt;A Farewell to Alms – A Brief Economic History of the World, Gregory Clark, Princeton University Press, 2007&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Book reader · 1935&lt;/h3&gt;
 &lt;p&gt;In einer Vision von 1935 wird klar, dass der Erfinder nicht den Inhalt, sondern das traditionelle Buch wiedergeben möchte.&lt;/p&gt;
@@ -382,14 +145,14 @@ Quelle: &lt;a href=&quot;https://beebo.org/lately/2009-07-12_speed-of-informatio
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;1935 ebook sm&quot;
         title=&quot;&quot;
-        src=&quot;/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/f3a32/1935-ebook-sm.jpg&quot;
-        srcset=&quot;/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/6ba01/1935-ebook-sm.jpg 175w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/b8ff8/1935-ebook-sm.jpg 350w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/f3a32/1935-ebook-sm.jpg 700w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/61d28/1935-ebook-sm.jpg 1050w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/be74e/1935-ebook-sm.jpg 1400w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/bf62f/1935-ebook-sm.jpg 2100w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/8bff9/1935-ebook-sm.jpg 2200w&quot;
+        src=&quot;/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/67d4f/1935-ebook-sm.jpg&quot;
+        srcset=&quot;/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/3cfb5/1935-ebook-sm.jpg 175w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/3a2a3/1935-ebook-sm.jpg 350w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/67d4f/1935-ebook-sm.jpg 700w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/35dd2/1935-ebook-sm.jpg 1050w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/8dcf2/1935-ebook-sm.jpg 1400w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/36a65/1935-ebook-sm.jpg 2100w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/7db3f/1935-ebook-sm.jpg 2200w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
       /&gt;
     &lt;/span&gt;
@@ -440,13 +203,13 @@ Heute wird unter dem Begriff eBook oftmals eine sehr enge Definition von zusamme
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;memex&quot;
         title=&quot;&quot;
-        src=&quot;/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/f3a32/memex.jpg&quot;
-        srcset=&quot;/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/6ba01/memex.jpg 175w,
-/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/b8ff8/memex.jpg 350w,
-/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/f3a32/memex.jpg 700w,
-/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/61d28/memex.jpg 1050w,
-/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/be74e/memex.jpg 1400w,
-/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/d9d06/memex.jpg 1923w&quot;
+        src=&quot;/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/67d4f/memex.jpg&quot;
+        srcset=&quot;/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/3cfb5/memex.jpg 175w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/3a2a3/memex.jpg 350w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/67d4f/memex.jpg 700w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/35dd2/memex.jpg 1050w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/8dcf2/memex.jpg 1400w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/63d39/memex.jpg 1923w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
       /&gt;
     &lt;/span&gt;
@@ -527,7 +290,7 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
 &lt;div class=&quot;wide-grid space pad bg&quot;&gt;
    &lt;div class=&quot;col-1to4&quot;&gt;
       &lt;figure&gt;
-         &lt;img src=&quot;/learn.interaction/mobile-294d9aef9a2ddbb5994dfbba679ce184.svg&quot; alt=&quot;&quot;&gt;
+         &lt;img src=&quot;/learn.interaction/mobile-294d9aef9a2ddbb5994dfbba679ce184.svg&quot; alt&gt;
          &lt;figcaption&gt;
             &lt;h3&gt;Smartphone&lt;/h3&gt;
             &lt;ul&gt;
@@ -540,7 +303,7 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
    &lt;/div&gt;
    &lt;div class=&quot;col-5to8&quot;&gt;
       &lt;figure&gt;
-         &lt;img src=&quot;/learn.interaction/tablet-affc6f012bb283d9c5c22d2e13d6709e.svg&quot; alt=&quot;&quot;&gt;
+         &lt;img src=&quot;/learn.interaction/tablet-affc6f012bb283d9c5c22d2e13d6709e.svg&quot; alt&gt;
          &lt;figcaption&gt;
             &lt;h3&gt;Tablet/eReader&lt;/h3&gt;
             &lt;ul&gt;
@@ -553,7 +316,7 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
    &lt;/div&gt;
    &lt;div class=&quot;col-9to12&quot;&gt;
       &lt;figure&gt;
-         &lt;img src=&quot;/learn.interaction/desktop-14a196c3601e868463b8efe9b2357cc9.svg&quot; alt=&quot;&quot;&gt;
+         &lt;img src=&quot;/learn.interaction/desktop-14a196c3601e868463b8efe9b2357cc9.svg&quot; alt&gt;
          &lt;figcaption&gt;
             &lt;h3&gt;Desktop&lt;/h3&gt;
             &lt;ul&gt;
@@ -747,4 +510,241 @@ sh@signalwerk.ch&lt;br&gt;
 November 2015: Ergänzung&lt;br&gt;
 Januar 2019: Überarbeitung  &lt;/p&gt;
 &lt;br /&gt;
-&lt;br /&gt;</content:encoded></item></channel></rss>
+&lt;br /&gt;</content:encoded></item><item><title><![CDATA[Screens]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Div from 'gatsby-theme-signalwerk/src/components/Div…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/screens/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/screens/</guid><pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
+&lt;h2&gt;Bildschirmauflösung&lt;/h2&gt;
+&lt;p&gt;Je nach Auflösung des Bildschirms können mehr oder weniger Pixel auf der Ausgabefläche ausgegeben werden. Je mehr Pixel zur Verfügung stehen, desto grösser kann das Browser-Fenster aufgezogen werden. Bei Websites mit «fixem Layout» werden somit mehr oder weniger Inhalte sichtbar.&lt;/p&gt;
+&lt;div class=&quot;wide-grid space pad bg&quot;&gt;
+  &lt;div class=&quot;col-1to12&quot;&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;/learn.interaction/screensize-desktop-mobile-69f4a90d38ee88ca93d7cdb92bb88171.svg&quot; alt=&quot;mobile screen vs. desktop screen&quot;&gt;
+      &lt;figcaption&gt;Desktop: Bildschrim hat eine grosse Aufl&amp;#xF6;sung und kann Seite vollst&amp;#xE4;ndig anzeigen. &lt;br&gt; Mobile: Bildschrim hat eine zu gerine Aufl&amp;#xF6;sung und kann Seite nicht vollst&amp;#xE4;ndig anzeigen. Ungen&amp;#xFC;gende technische Realisation f&amp;#xFC;r mobiles Ger&amp;#xE4;t. L&amp;#xE4;sst sich vermeiden.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Standards&lt;/h3&gt;
+&lt;p&gt;Es gibt diverse Grössen und Standards für Bildschirme und deren Auflösungen. Die Produktevielfallt (Desktop und Mobile) ist so gross, dass wir von keinem Standard mehr ausgehen können. Vielmehr muss man sich gedanken machen, wieviele Geräte man bei einer bestimmten Design-Minimalgrösse noch erreicht. Dabei helfen aktuelle &lt;a href=&quot;http://gs.statcounter.com/screen-resolution-stats&quot;&gt;Satistiken&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;wide-grid space pad&quot;&gt;
+  &lt;div class=&quot;col-1to12&quot;&gt;
+    &lt;figure&gt;
+      &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/0/0c/Vector_Video_Standards8.svg&quot; alt=&quot;Screen Standards&quot;&gt;
+    	&lt;figcaption&gt;Einige Desktop-Gr&amp;#xF6;ssen und deren Namen&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Bildschirmabmessung&lt;/h2&gt;
+&lt;p&gt;Die Bildschirmabmessung wird häufig auch in Zoll (Inch) angegeben. Spricht man von Zoll, so meint man im allgemeinen die Diagonale des Bildschirms. Die Grösse gibt meist eher eine Bildschirm-Grössenklasse an, denn eine effektive Grösse. Ein «15&quot;-Bildschirm» hat also meist etwa 15 Zoll in der Diagonale. Die Bildschirmproportion ist dadur aber zum Beispiel nicht definiert.&lt;/p&gt;
+&lt;h2&gt;Visuelle Grösse&lt;/h2&gt;
+&lt;p&gt;Die visuelle wahrgenommene Grösse eines Gestaltugnselements auf dem Bildschirm, ist abhängig von der effektiven Grösse auf dem Bildschirm und dem Betrachtungsabstand. Obwohl kleine Screens (Smartphones) weniger Platz bieten, so ist der Betrachtungsabstand auch kleiner und es können somit auch ähnliche Lesbarkeiten erreicht werden.&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 47.26735598227474%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABBUlEQVQoz5VQMW6DQBDcJ1gpqXmC8wGewTeMUFxQQE2BqCgQHS0/oESJnIY+2EVQLBfIJeju9u6y3ClWpESJPFqdVrOandkDROz7fpomrbVSSn+DJOKr1l5JoXX3/PJ6OHDOl2WBOI4B4HG7VRJpLM1rGybYTb5CStr4tN8nSdJ1XZZlEIYhiR82m/fTkWbImBRCodCIgjN6bSlBrvrycd7tgiiKgiDwfR/meXZdlzob9Zac3DmlIMaUNPxlur4dT8MwtG1L5pDnOTkXRUEzYdb/ChudluF6EFoSPM8jseM44ziuhuawf2E/AdboBnVd/23+E5CmqRWXZXm3uGkaK66q6l7xJzajzbYaT4wlAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;SizeCalculator&quot;
+        title=&quot;&quot;
+        src=&quot;/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/a8200/SizeCalculator.png&quot;
+        srcset=&quot;/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/52d5c/SizeCalculator.png 175w,
+/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/1bae2/SizeCalculator.png 350w,
+/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/a8200/SizeCalculator.png 700w,
+/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/0ab52/SizeCalculator.png 1050w,
+/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/5bee8/SizeCalculator.png 1354w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+Bildquelle: &lt;a href=&quot;https://sizecalc.com/&quot;&gt;Size Calculator&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Auflösungsdichte – DPI&lt;/h2&gt;
+&lt;p&gt;Eine Auflösungsdichte wird in DPI (Dots per Inch) angegeben. Diese Einheit gibt an, wie viele Bildpunkte pro Inch (25,4 mm = 1 Inch) – also eine Strecke – liegen. Je höher die Auflösung ist, desto weniger erkennt man die einzelnen Punkte in der Ausgabe und die Ausgabe wirkt weniger «verpixelt». Die Auflösung eines Bildschirms kann in DPI angegeben werden.&lt;/p&gt;
+&lt;h3&gt;DPI Wert ermitteln&lt;/h3&gt;
+&lt;Margin&gt;
+&lt;h3&gt;Rechnungsbeispiel&lt;/h3&gt;
+&lt;p&gt;Ein Tablet kann 3000 Pixel in der Breite anzeigen und hat eine Breite von 25,4 cm. Somit beträgt die Auflösung 300 dpi (in der Breite).&lt;/p&gt;
+&lt;p&gt;3000 Pixel ÷ 10 Inch (25,4 cm) = 300 Dots per Inch&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;Höhe oder Breite des Bildes in Pixel ÷ Höhe oder Breite in Ausgabe (in Inch) = Auflösung in DPI (Dots per Inch)&lt;/p&gt;
+&lt;div class=&quot;column__text&quot;&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Auflösung im CSS&lt;/h2&gt;
+&lt;p&gt;Mit einer Media-Query lassen sich abhängig von Auflösung verschiedene definitionen ein- und ausschalten.&lt;/p&gt;
+&lt;h3&gt;Beipiel für Media-Query mit minimaler DPI-Anzahl:&lt;/h3&gt;
+&lt;Margin&gt;
+&lt;p&gt;1 Zoll (Inch) = 25.4 mm&lt;br&gt;
+1 dpi ≈ 0.39 dpcm&lt;br&gt;
+1 dpcm = 2.54 dpi  &lt;/p&gt;
+&lt;/Margin&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token atrule&quot;&gt;&lt;span class=&quot;token rule&quot;&gt;@media&lt;/span&gt;
+only screen and &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;min-resolution&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 190dpi&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+only screen and &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;min-resolution&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 75dpcm&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token comment&quot;&gt;/* Definitionen hier */&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://caniuse.com/#feat=css-media-resolution&quot;&gt;Support-Matrix für Browser&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Pixel zu Dots/Point (Device Pixel Ratio)&lt;/h2&gt;
+&lt;Margin&gt;
+&lt;p&gt;Microsoft verfolgt mit &lt;a href=&quot;https://docs.microsoft.com/en-us/windows/desktop/learnwin32/dpi-and-device-independent-pixels&quot;&gt;Device-Independent Pixels&lt;/a&gt; ein ähnliches Konzept für Desktop-Applikationen.&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;So genannte hochauflösende Bildschirme (High pixel density display) zeichnen einen Pixel (Ausmass) mit mehreren Bildschirmpunkten (Dots/Point) an. Ist jedoch pro Pixel mehr Information vorhanden (zum Beispiel bei Bildern), werden die effektiven Bildschirmpunkten mit voller Auflösung genutzt. Je höher die Auflösung eines Bildschrims ist, desto schärfer wirkt der Bildschirm für den Menschen.
+Apple spricht bei hochaufgelösten Bildschirmen von Retina-Auflösung.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions&quot;&gt;The Ultimate Guide To iPhone Resolutions&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Beispiel für Media-Query mit minimaler pixel density&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token atrule&quot;&gt;&lt;span class=&quot;token rule&quot;&gt;@media&lt;/span&gt;
+only screen and &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;min-device-pixel-ratio&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 2&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+only screen and &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;min-resolution&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 2dppx&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token comment&quot;&gt;/* Definitionen hier */&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://caniuse.com/#feat=css-media-resolution&quot;&gt;Support-Matrix für Browser&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Display Technologien&lt;/h2&gt;
+&lt;p&gt;Grundsätzlich können wir bei modernen Displays zwischen zwei Technologien unterscheiden. Bei klassischen Displays am Smartphone, Desktop oder bei Farb-Tablets werden meist Monitore mit der Technologie TFT LCD (Thin-film-transistor liquid-crystal display) verwendet. Dabei handelt es sich pro Pixel um in den drei Lichtfarben (Rot, Grün, Blau) leuchtende Elemente. Durch additive Farbmischung können Farben erzeugt werden.
+Bei elektrophoretischen Anzeigen (eInk) oder ähnlichen Technologien, werden kleine Kugeln oder deren Inhalt so polarisiert, dass es eine schwarze und eine weisse Seite gibt. Daraus können dann mit ganz vielen dieser Kugeln ein S/W-Bild erzeugt werden. Die Kugeln selber sind nicht leuchtend und müssen durch Licht in der Aufsicht (Sonne) oder Hinterleuchtung sichtbar gemacht werden.&lt;/p&gt;
+&lt;Div className=&quot;wide-grid space pad&quot;&gt;
+&lt;Div className=&quot;col-1to6&quot;&gt;
+&lt;h3&gt;Elektrophoretische Anzeige&lt;/h3&gt;
+&lt;p&gt;Kugeln enthalten weisse und schwarze Stellen
+Bild-Quelle: &lt;a href=&quot;http://de.wikipedia.org/wiki/Elektronisches_Papier&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/eInk-principle-a691bdf1a1ea9b4b1660fdeabaf87abb.svg&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Geräte mit eInk&lt;/h4&gt;
+&lt;p&gt;eBook-Reader
+&lt;img src=&quot;/learn.interaction/eInk-97c3e51f647294ab5834549f76cec8c5.svg&quot;&gt;&lt;/p&gt;
+&lt;/Div&gt;
+&lt;Div className=&quot;col-7to12&quot;&gt;
+&lt;h3&gt;LCD-Anzeige&lt;/h3&gt;
+&lt;p&gt;Drei kleine leuchtende Elemente erzeugen je Pixel eine Ausgabe (Farbe)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/tft-principle-19bac93ea3f33f35a1487322d45b0b73.svg&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Geräte mit LCD&lt;/h4&gt;
+&lt;p&gt;Smartphone, Tablet, Desktop
+&lt;img src=&quot;/learn.interaction/tft-161ee756c877a7a988734f7ac209a7f1.svg&quot;&gt;&lt;/p&gt;
+&lt;/Div&gt;
+&lt;/Div&gt;
+&lt;h4&gt;OLED&lt;/h4&gt;
+&lt;Margin&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.lg.com/global/business/information-display/technology-solution/oled&quot;&gt;Weitere Informationen&lt;/a&gt;&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;Seit wenigen Jahren sind OLED (organic light emitting diode) eine weitere Display-Technologie, die vermehrt Einsatz findet. Vor allem kleinere Screens, wie in Smartphones verbaut, halten vermehrt mit dieser neuen Technologie einzug. Während beim TFT LCD das Licht über eine weisse Hingergrundbeleuchtung kommt und gefiltert wird, wird beim OLED farbiges Licht ausgestrahlt.&lt;/p&gt;
+&lt;video controls&gt;
+  &lt;source src=&quot;https://cdn.jsdelivr.net/gh/signalwerk/IAD.LAB.DOC@35af6c6774dd58657eaf9a66d186d1bc36dd6505/pages/screens/img/REC016.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  &lt;source src=&quot;https://cdn.jsdelivr.net/gh/signalwerk/IAD.LAB.DOC@35af6c6774dd58657eaf9a66d186d1bc36dd6505/pages/screens/img/REC016.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+&lt;p&gt;iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)&lt;/p&gt;
+&lt;p&gt;Quelle: Stefan Huber&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/c35de/OLED_detail.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB1GFnIgWFf//EABsQAAEEAwAAAAAAAAAAAAAAABIAAQIhAxAR/9oACAEBAAEFAodG1Ahtsev/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAABAgcAAAAAAAAAAAAAAAABECEAERIiMTJB/9oACAEBAAY/AhrV2SXZhi6//8QAGxABAAICAwAAAAAAAAAAAAAAAREhAGEQMVH/2gAIAQEAAT8hsAUOwzcyjX3GMhAU2G+f/9oADAMBAAIAAwAAABC4D//EABYRAQEBAAAAAAAAAAAAAAAAACEQEf/aAAgBAwEBPxA0n//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIf/xAAdEAEAAgICAwAAAAAAAAAAAAABETEAIRBxQVGR/9oACAEBAAE/EESZkNTddRgpoJNT4zsR6LwlBBFEqfBwo4//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;OLED detail&quot;
+        title=&quot;&quot;
+        src=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/67d4f/OLED_detail.jpg&quot;
+        srcset=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/3cfb5/OLED_detail.jpg 175w,
+/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/3a2a3/OLED_detail.jpg 350w,
+/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/67d4f/OLED_detail.jpg 700w,
+/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/35dd2/OLED_detail.jpg 1050w,
+/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/c35de/OLED_detail.jpg 1200w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Bildquelle: &lt;a href=&quot;http://www.lg.com/global/business/information-display/technology-solution/oled&quot;&gt;LG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/fa082/OLED.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 495px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 59.5959595959596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsSAAALEgHS3X78AAACD0lEQVQoz3VSbW/SUBjtXzP+DLNP+i/8A37RmGjY3GYy57ZkCaJQydgYsLkRI4YFVqiUlrKOttD1/f229MWH1qhx8aTJvfe595zn3HOLpRl8H6mqnMZpEidJDEOS3kNyr4jlFVH0374xit1vzIKFpaqq/X7f87z8kGGYvu8CPV8GQQBboIVBCaG420uevqo/OHn0+vnDu40CT/7geD7vhsKlh5wRKU5o0UEOFGmaOW2c2rYN5FSY0vh+4bD2svL+We3x2scna/ZCZFh2Op3C7u31Ndkb1+viLvn1ir00xpMkjpbLJQhjknTHMGN60G3jxdLGi1azdtI64m4mIM/zfBAG5FmTPjq7PS53OtvU+SF39UVRvCybBJvNZhUcr+DVHjGYjMnRkLi4bO/t7QuCAG2XYThmJsfVanl7q7O5Re5ufm4cHJTwbud7FEUr23EUsSyLVyo7O+8K6+vl8idqNIK2EFueUBwnoiQ3L9ofiqVW4xzAcTertP+OHmJcXSZNXdflOG4+n6f/Qf5sWBiGjuPoum6aJkwsy8r5vxGHETJd34DPQboT2P6fd4Ym4HkwGJAZKIqSZdnIAIorO44vDTmZ4hVyprOL0Av+JRMEMcrAMAxIDIdDSZJABU4gy1OBSQkKJdqihkzPlU3w8ss2BAPxKIoCnjVNg0neM0eEQkcyLEFzFDtjWtZC97XV3/ITJqGGGlU/a2EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;OLED&quot;
+        title=&quot;&quot;
+        src=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/fa082/OLED.png&quot;
+        srcset=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/52d5c/OLED.png 175w,
+/learn.interaction/static/52c1413533978cb8173ce9f77debf968/1bae2/OLED.png 350w,
+/learn.interaction/static/52c1413533978cb8173ce9f77debf968/fa082/OLED.png 495w&quot;
+        sizes=&quot;(max-width: 495px) 100vw, 495px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Bildquelle: &lt;a href=&quot;https://www.mweb.co.za/games/NewsArticles/tabid/2561/Article/30977/Samsung-QLED-How-does-its-display-work-and-is-it-better-than-OLED.aspx&quot;&gt;Gamezone/LG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OLED Varriante, bei dem zusätzlich zu RGB auch noch eine Weisskomponente angesteuert wird (&lt;a href=&quot;https://www.youtube.com/watch?v=3qRhTKOu9Pw&quot;&gt;WRGB OLED&lt;/a&gt;).&lt;/p&gt;
+&lt;h2&gt;Bildwiederholrate&lt;/h2&gt;
+&lt;Margin&gt;
+&lt;ul&gt;
+&lt;li&gt;Animation flüssig: ab &lt;a href=&quot;https://en.wikipedia.org/wiki/Frame_rate#/media/File:Animhorse.gif&quot;&gt;20 – 30 Frames pro Sekunde (fps)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gut: 60 Frames pro Sekunde&lt;/li&gt;
+&lt;li&gt;Ideal: einige Geräte haben heute 120 fps&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/Margin&gt;
+&lt;p&gt;Damit eine Animation flüssig auf dem Bildschirm erscheint, sollten zwischen 20 – 30 Frames pro Sekunde (fps) neu gezeichnet werden. 60 Frames pro Sekunde sind ideal. Viele Monitore können 60 Frames pro Sekunde anzeigen. Die limitierende Komponente ist meist eher ob der Computer in der Lage ist, so schnell die Bilder zu berechnen.&lt;/p&gt;
+&lt;h2&gt;Weiterführende Informationen&lt;/h2&gt;
+&lt;Margin&gt;
+&lt;h3&gt;Autor&lt;/h3&gt;
+&lt;p&gt;Stefan Huber&lt;br&gt;
+sh@signalwerk.ch&lt;br&gt;
++41 78 744 37 38&lt;/p&gt;
+&lt;h3&gt;Dokumentgeschichte&lt;/h3&gt;
+&lt;p&gt;Juni 2018: Erstellung&lt;br&gt;
+Januar 2019: Überarbeitung  &lt;/p&gt;
+&lt;/Margin&gt;
+&lt;h3&gt;Kennzahlen zu Bildschirmen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Lumen_(Einheit)&quot;&gt;Lichtstärke – Lumen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Leuchtdichte&quot;&gt;Leuchtdichte – Nits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Farbraum&quot;&gt;Farbraum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Übliche Bildschirmauflösungen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://gs.statcounter.com/&quot;&gt;Browser Market&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.w3schools.com/browsers/browsers_display.asp&quot;&gt;Browser Display Statistics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Screens&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://youtu.be/3BJU2drrtCM?t=2m17s&quot;&gt;Kathodenstrahlröhre (Cathode ray tube – CRT)&lt;/a&gt; &amp;#x26; &lt;a href=&quot;https://de.wikipedia.org/wiki/Kathodenstrahlr%C3%B6hre&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://spectrum.ieee.org/consumer-electronics/audiovideo/your-guide-to-televisions-quantumdot-future&quot;&gt;Quantum-Dot Displays&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2017/10/31/16579748/apple-iphone-x-review&quot;&gt;iPhone X Display&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mjYjFEp9Yx0&quot;&gt;Framerate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
