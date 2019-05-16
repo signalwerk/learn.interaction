@@ -44,7 +44,7 @@ Der digitale Austausch von Information ist seit der Verbindung über elektronisc
 ### Wie schnell kommt eine Information nach London?
 Sobald die Information vom Medium getrennt wurde (Telegramm), wurde die Übertragungsgeschwindigkeit schneller.
 
-![](https://cdn.jsdelivr.net/gh/signalwerk/IAD.Chart@gh-pages/charts/SpeedOfInformation_km.svg)
+![](https://signalwerk.github.io/IAD.Chart/charts/SpeedOfInformation_km.svg)
 Quelle: [A Farewell to Alms – A Brief Economic History of the World, Gregory Clark, Princeton University Press, 2007](https://beebo.org/lately/2009-07-12_speed-of-information-travel.html)
 
 
