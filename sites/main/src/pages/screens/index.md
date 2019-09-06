@@ -1,7 +1,7 @@
 ---
 title: "Screens"
 author: "Stefan Huber"
-date: "2019-01-21"
+date: "2019-09-04"
 draft: false
 path: "/articles/screens/"
 category: "Case Study"
@@ -14,7 +14,6 @@ description: "Der Bildschirm (engl. Screen) ist für die meiste Interaktion im d
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Div from 'gatsby-theme-signalwerk/src/components/Div';
-
 
 
 
@@ -186,7 +185,7 @@ Smartphone, Tablet, Desktop
 
 
 
-#### OLED
+### OLED
 <Margin>
 
 [Weitere Informationen](http://www.lg.com/global/business/information-display/technology-solution/oled)
@@ -218,6 +217,20 @@ Bildquelle: [Gamezone/LG](https://www.mweb.co.za/games/NewsArticles/tabid/2561/A
 
 OLED Varriante, bei dem zusätzlich zu RGB auch noch eine Weisskomponente angesteuert wird ([WRGB OLED](https://www.youtube.com/watch?v=3qRhTKOu9Pw)).
 
+### OLED & Darkmode
+
+<Margin>
+
+### Betriebsystem mit Darkmode
+* **MacOS Mojave (2018)** <br />erster Dark Mode auf Desktop
+* **Android 9 (2018)** <br />erster Dark Mode auf Mobile
+* **iOS 13 (2019)** <br />Dark Mode auch auf Apple Mobiles
+
+</Margin>
+
+
+Da mit OLED lediglich die beleuchteten Stellen auf dem Screen energie benötigen, kann es sinnvoll sein, möglichst grosse flächen des Screens dunkel zu belassen um zum Beispiel bei mobilen Geräten möglichst wenig Akku zu brauchen.  
+Seit etwa 2018 gibt es auf diversen Betriebsystemen Unterstüztung für so genannte «Dark Modes», bei denen der User seine Präferenz für ein Farbschema auf Systemebene festlegen kann.
 
 
 ## Bildwiederholrate
@@ -255,6 +268,7 @@ sh@signalwerk.ch
 ### Dokumentgeschichte
 Juni 2018: Erstellung  
 Januar 2019: Überarbeitung  
+September 2019: Überarbeitung  
 
 </Margin>
 
