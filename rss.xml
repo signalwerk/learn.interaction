@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Interaction]]></title><description><![CDATA[Articles of Stefan Huber]]></description><link>https://signalwerk.github.io/learn.interaction</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Sep 2019 22:20:56 GMT</lastBuildDate><item><title><![CDATA[Learn Interaction Design]]></title><description><![CDATA[Signalwerk GmbH – Stefan Huber · 2019 · CC-BY-SA 4.0 Dokumentation eBook · Grundlagen Screens Technologiegeschichte der Schrift]]></description><link>https://signalwerk.github.io/learn.interactionroot</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interactionroot</guid><content:encoded>&lt;Div className=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Interaction]]></title><description><![CDATA[Articles of Stefan Huber]]></description><link>https://signalwerk.github.io/learn.interaction</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Sep 2019 22:40:32 GMT</lastBuildDate><item><title><![CDATA[Learn Interaction Design]]></title><description><![CDATA[Signalwerk GmbH – Stefan Huber · 2019 · CC-BY-SA 4.0 Dokumentation eBook · Grundlagen Screens Technologiegeschichte der Schrift]]></description><link>https://signalwerk.github.io/learn.interactionroot</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interactionroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -12,7 +12,7 @@
 &lt;!-- * [Web-Typografie](/web-typography/) --&gt;
 &lt;!-- * [Touch-Interface](/touch/) --&gt;
 &lt;!-- * [Thesis](/thesis/) --&gt;
-&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[learn.interaction.media Media files for documentations. To use]]></description><link>https://signalwerk.github.io/learn.interaction/media/README/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/media/README/</guid><content:encoded>&lt;h1&gt;learn.interaction.media&lt;/h1&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[learn.interaction.media Media files for documentations. To use]]></description><link>https://signalwerk.github.io/learn.interaction/media/README/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/media/README/</guid><content:encoded>&lt;h1&gt;learn.interaction.media&lt;/h1&gt;
 &lt;p&gt;Media files for documentations.&lt;/p&gt;
 &lt;h2&gt;To use&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; submodule &lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt; https://github.com/signalwerk/learn.interaction.media.git &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;path&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Fr – Bildschirme und Fonts – 1. Morgen
@@ -1387,8 +1387,8 @@ only screen and &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &
 &lt;h2&gt;Display Technologien&lt;/h2&gt;
 &lt;p&gt;Grundsätzlich können wir bei modernen Displays zwischen zwei Technologien unterscheiden. Bei klassischen Displays am Smartphone, Desktop oder bei Farb-Tablets werden meist Monitore mit der Technologie TFT LCD (Thin-film-transistor liquid-crystal display) verwendet. Dabei handelt es sich pro Pixel um in den drei Lichtfarben (Rot, Grün, Blau) leuchtende Elemente. Durch additive Farbmischung können Farben erzeugt werden.
 Bei elektrophoretischen Anzeigen (eInk) oder ähnlichen Technologien, werden kleine Kugeln oder deren Inhalt so polarisiert, dass es eine schwarze und eine weisse Seite gibt. Daraus können dann mit ganz vielen dieser Kugeln ein S/W-Bild erzeugt werden. Die Kugeln selber sind nicht leuchtend und müssen durch Licht in der Aufsicht (Sonne) oder Hinterleuchtung sichtbar gemacht werden.&lt;/p&gt;
-&lt;Div className=&quot;wide-grid space pad&quot;&gt;
-&lt;Div className=&quot;col-1to6&quot;&gt;
+&lt;div class=&quot;wide-grid space pad&quot;&gt;
+&lt;div class=&quot;col-1to6&quot;&gt;
 &lt;h3&gt;Elektrophoretische Anzeige&lt;/h3&gt;
 &lt;p&gt;Kugeln enthalten weisse und schwarze Stellen
 Bild-Quelle: &lt;a href=&quot;http://de.wikipedia.org/wiki/Elektronisches_Papier&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
@@ -1396,16 +1396,16 @@ Bild-Quelle: &lt;a href=&quot;http://de.wikipedia.org/wiki/Elektronisches_Papier
 &lt;h4&gt;Geräte mit eInk&lt;/h4&gt;
 &lt;p&gt;eBook-Reader
 &lt;img src=&quot;/learn.interaction/97c3e51f647294ab5834549f76cec8c5/eInk.svg&quot;&gt;&lt;/p&gt;
-&lt;/Div&gt;
-&lt;Div className=&quot;col-7to12&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7to12&quot;&gt;
 &lt;h3&gt;LCD-Anzeige&lt;/h3&gt;
 &lt;p&gt;Drei kleine leuchtende Elemente erzeugen je Pixel eine Ausgabe (Farbe)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/learn.interaction/19bac93ea3f33f35a1487322d45b0b73/tft-principle.svg&quot;&gt;&lt;/p&gt;
 &lt;h4&gt;Geräte mit LCD&lt;/h4&gt;
 &lt;p&gt;Smartphone, Tablet, Desktop
 &lt;img src=&quot;/learn.interaction/161ee756c877a7a988734f7ac209a7f1/tft.svg&quot;&gt;&lt;/p&gt;
-&lt;/Div&gt;
-&lt;/Div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;OLED&lt;/h3&gt;
 &lt;Margin&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.lg.com/global/business/information-display/technology-solution/oled&quot;&gt;Weitere Informationen&lt;/a&gt;&lt;/p&gt;
@@ -1629,9 +1629,9 @@ Heute wird unter dem Begriff eBook oftmals eine sehr enge Definition von zusamme
 Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/370/2111?position=0&quot;&gt;«As We May Think», Vannevar Bush, 1945, «The Atlantic Monthly»&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Unterscheidungsmerkmale vom eBook zum normalen Buch&lt;/h2&gt;
 &lt;p&gt;Beim klassischen Buch aus Papier gibt es Formale Ausprägungen, die gegeben sind, welche jedoch nicht zwangsläufig auch bei einem eBook zutreffen. Da es sehr viele verschiedene Arten von eBooks gibt, kann nicht generell eine Aussage getroffen werden.&lt;/p&gt;
-&lt;Div className=&quot;wide-grid&quot;&gt;
-  &lt;Div className=&quot;col-1to12&quot;&gt;
-  &lt;Div className=&quot;tab-col-33p&quot;&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to12&quot;&gt;
+&lt;div class=&quot;tab-col-33p&quot;&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1693,9 +1693,9 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-  &lt;/Div&gt;
-  &lt;/Div&gt;
-&lt;/Div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h2&gt;Geräte für eBooks&lt;/h2&gt;
 &lt;p&gt;Es gibt diverse Geräte, auf denen eBooks gelesen werden können. Grundsätzlich kann man drei verschiedene Formate unterscheiden, welche alle verschiedene Vor- und Nachteile haben&lt;/p&gt;
 &lt;div class=&quot;wide-grid space pad bg&quot;&gt;
@@ -1741,35 +1741,35 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
 &lt;/div&gt;
 &lt;h2&gt;Lesefluss im Buch und im eBook&lt;/h2&gt;
 &lt;p&gt;Im Gegensatz zu einem klassischen Buch ist die Benutzerführung und der Lesefluss unter Umständen anders als bei einem eBook. Während man in einem Buch meist linear liesst und dabei von Spalte zu Spalte springt, kann bei einem Lesen an einem Bildschirm gescrollt werden, was für das Auge eine andere Leistung erfordert. Auch ein «blättern» – also Stück um Stück anschauen – ist am Bildschirm möglich.&lt;/p&gt;
-&lt;Div className=&quot;wide-grid space pad&quot;&gt;
-&lt;Div className=&quot;col-1to6&quot;&gt;
+&lt;div class=&quot;wide-grid space pad&quot;&gt;
+&lt;div class=&quot;col-1to6&quot;&gt;
 &lt;p&gt;&lt;img src=&quot;/learn.interaction/3b5eb3a10cade3d427a50751205332a0/reading-book.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Klassisches Buch&lt;/h3&gt;
 &lt;p&gt;Im klassischen Satzspiegel über die Doppelseite, mit einer Spalte, gibt es pro zwei Seiten zwei grosse Sprünge, die das Auge leiten muss. Beim springen von der linken zur rechten Seite und beim Springen auf die nächste Doppelseite.&lt;/p&gt;
-&lt;/Div&gt;
-&lt;Div className=&quot;col-7to12&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7to12&quot;&gt;
 &lt;p&gt;&lt;img src=&quot;/learn.interaction/dd3617a2ed4a4da9ca3cb4fb0cf8de75/reading-ebook.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;eBook&lt;/h3&gt;
 &lt;p&gt;Wird im eBook gescrollt, so muss das Auge der Scrollbewegung folgen um die Zeile nicht zu verlieren.
 Bei einer Applikation, die ein «Blättern» hat, ist der Lesefluss ähnlich einem Buch.&lt;/p&gt;
-&lt;/Div&gt;
-&lt;/Div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Fixes Layout oder fliessender Text&lt;/h3&gt;
 &lt;p&gt;Bei einem fixierten Layout wird spezifisch auf ein Gerät/Format optimiert und das Layout richtet sich exakt nach diesen Dimensionen. Die gestalterische Freiheit ist damit nicht eingeschränkt. Dafür wird keinerlei Rücksicht auf abweichende Geräte oder aber Wünsche des Lesers (Schriftgrösse, Spaltenbreite, ...) genommen.&lt;/p&gt;
-&lt;Div className=&quot;wide-grid space pad&quot;&gt;
-&lt;Div className=&quot;col-1to6&quot;&gt;
+&lt;div class=&quot;wide-grid space pad&quot;&gt;
+&lt;div class=&quot;col-1to6&quot;&gt;
 &lt;p&gt;&lt;img src=&quot;/learn.interaction/ac02422fc8922f24f24f0767d840bdaa/fix-layout.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Fixes Layout&lt;/h3&gt;
 &lt;p&gt;Elemente richten sich nach dem Format. Layout unterliegt der Kontrolle des Designers.&lt;/p&gt;
-&lt;/Div&gt;
-&lt;Div className=&quot;col-7to12&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7to12&quot;&gt;
 &lt;p&gt;&lt;img src=&quot;/learn.interaction/abdf9fe12ec6ba4020d5e04a20e8f177/flow-layout.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Fliessender Text&lt;/h3&gt;
 &lt;p&gt;Hier werden die Bilder und Layout-Elemente mit dem Text
 fliessend eingebaut. Somit ist die Dimension des Gerätes oder
 die Grösse der Schrift entscheidend, wie das Layout erscheint.&lt;/p&gt;
-&lt;/Div&gt;
-&lt;/Div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Desktop&lt;/h3&gt;
 &lt;p&gt;Obwohl der Desktop-Rechner oft nicht als explizites Lesegerät gedacht ist, wird durch seine universelle Einsetzbarkeit und die grosse Verbreitung oft darauf gelesen. Klassische eBook-Formate wie ePub werden jedoch eher selten am Desktop gelesen. Hier werden eher Internet-Basierte Werke konsumiert.&lt;/p&gt;
 &lt;h3&gt;Tablet/eReader&lt;/h3&gt;
@@ -1803,11 +1803,11 @@ Meist ist der Preis unabhängig vom Datei-Format und oft kann nicht nur ein Form
 Viele Anbieter bieten auch Spar-Pakete an. In diesen werden die Papier-Versionen und eBooks oder aber auch Audio-Bücher des selben Werkes gemeinsam und somit auch im Vergleich zum Einzelkauf stark vergünstigt verkauft.&lt;/p&gt;
 &lt;h3&gt;Auflage- und Verkaufszahlen&lt;/h3&gt;
 &lt;p&gt;Vor allem kleinere Verlage und unabhängige Autoren, die ihre Inhalte selber vertreiben, setzen immer häufiger auf eBooks. Da die Verkaufszahlen in Nischenmärkten klein sind, ist das Drucken von Büchern in geringer Auflage teuer und der Absatz zieht sich oft über eine lange Zeit hinweg. Somit entstehen bei Papier-Büchern auch hoche Lager- und ­Logistikosten. Bei eBooks ist die Investition überschaubar und die Logistik ist zu beinahe 100 % automatisiert.&lt;/p&gt;
-&lt;Div className=&quot;wide-grid space pad bg&quot;&gt;
-  &lt;Div className=&quot;col-1to12&quot;&gt;
+&lt;div class=&quot;wide-grid space pad bg&quot;&gt;
+&lt;div class=&quot;col-1to12&quot;&gt;
 &lt;p&gt;&lt;img src=&quot;/learn.interaction/e995b39d159d5d48895a18c226362fdd/long-tail.svg&quot;&gt;&lt;/p&gt;
-  &lt;/Div&gt;
-&lt;/Div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;The Long Tail&lt;/h3&gt;
 &lt;p&gt;Chris Anderson hat in seinem Buch
 «The Long Tail» aufgezeigt, dass nur wenige Produkte sehr populär sind. Doch die Masse aller Nischenmärkte zusammen macht mehr Umsatz als die Verkaufs­schlager.  &lt;/p&gt;
@@ -1816,8 +1816,8 @@ Viele Anbieter bieten auch Spar-Pakete an. In diesen werden die Papier-Versionen
 Gängige Formate, welche über Vertriebskanäle im Internet als eBook bezeichnet werden haben diverse Vor- und Nachteile.
 Der wohl wichtigste Vertreter von digitalen Büchern ist ePub. Es handelt sich dabei um einen Standard, der offen und in Kooperation mit diversen Experten und Firmen entstanden ist.
 eBooks werden zum Teil auch als Apps angeboten um gewisse technische Beschränkungen zu umgehen.&lt;/p&gt;
-&lt;Div className=&quot;wide-grid&quot;&gt;
-  &lt;Div className=&quot;col-1to12&quot;&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to12&quot;&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1894,8 +1894,8 @@ eBooks werden zum Teil auch als Apps angeboten um gewisse technische Beschränku
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-  &lt;/Div&gt;
-&lt;/Div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;ePub erstellen&lt;/h3&gt;
 &lt;Margin&gt;
 &lt;h3&gt;Möglichkeiten&lt;/h3&gt;
