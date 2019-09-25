@@ -12,5 +12,6 @@ module.exports = {
     title: 'Learn Interaction',
     author: 'Stefan Huber',
     authorUrl: 'http://signalwerk.ch/',
+    description: 'Articles of Stefan Huber'
   },
 };

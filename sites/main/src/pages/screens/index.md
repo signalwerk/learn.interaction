@@ -4,7 +4,7 @@ author: "Stefan Huber"
 date: "2019-09-04"
 draft: false
 path: "/articles/screens/"
-category: "Case Study"
+category: "article"
 tags:
   - "eBook"
   - "Screen"
@@ -258,19 +258,6 @@ Damit eine Animation flüssig auf dem Bildschirm erscheint, sollten zwischen 20�
 
 ## Weiterführende Informationen
 
-<Margin>
-
-### Autor
-Stefan Huber  
-sh@signalwerk.ch  
-+41 78 744 37 38
-
-### Dokumentgeschichte
-Juni 2018: Erstellung  
-Januar 2019: Überarbeitung  
-September 2019: Überarbeitung  
-
-</Margin>
 
 ### Kennzahlen zu Bildschirmen
 * [Lichtstärke – Lumen](https://de.wikipedia.org/wiki/Lumen_(Einheit))
@@ -287,3 +274,24 @@ September 2019: Überarbeitung
 * [Quantum-Dot Displays](https://spectrum.ieee.org/consumer-electronics/audiovideo/your-guide-to-televisions-quantumdot-future)
 * [iPhone X Display](https://www.theverge.com/2017/10/31/16579748/apple-iphone-x-review)
 * [Framerate](https://www.youtube.com/watch?v=mjYjFEp9Yx0)
+
+
+
+<br />
+<br />
+<br />
+<hr />
+
+### Autor
+Stefan Huber  
+sh@signalwerk.ch  
++41 78 744 37 38
+
+### Dokumentgeschichte
+Juni 2018: Erstellung  
+Januar 2019: Überarbeitung  
+September 2019: Überarbeitung  
+
+
+<br />
+<br />
