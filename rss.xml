@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Interaction]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 06 Sep 2019 22:32:13 GMT</lastBuildDate><item><title><![CDATA[Learn Interaction Design]]></title><description><![CDATA[import Div from 'gatsby-theme-signalwerk/src/components/Div';Signalwerk GmbH – Stefan Huber · 2019 · CC-BY-SA 4.0DokumentationeBook…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/root</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog/root</guid><content:encoded>&lt;p&gt;import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
-&lt;Div className=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Interaction]]></title><description><![CDATA[Articles of Stefan Huber]]></description><link>https://signalwerk.github.io/learn.interaction</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Sep 2019 22:20:56 GMT</lastBuildDate><item><title><![CDATA[Learn Interaction Design]]></title><description><![CDATA[Signalwerk GmbH – Stefan Huber · 2019 · CC-BY-SA 4.0 Dokumentation eBook · Grundlagen Screens Technologiegeschichte der Schrift]]></description><link>https://signalwerk.github.io/learn.interactionroot</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interactionroot</guid><content:encoded>&lt;Div className=&quot;column__text&quot;&gt;
 &lt;p&gt;Signalwerk GmbH – Stefan Huber · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -7,25 +6,26 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;/learn.interaction/articles/ebook/&quot;&gt;eBook · Grundlagen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/learn.interaction/articles/screens/&quot;&gt;Screens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/learn.interaction/articles/font-history/&quot;&gt;Technologiegeschichte der Schrift&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- ## Stubs --&gt;
 &lt;!-- * [Web-Typografie](/web-typography/) --&gt;
 &lt;!-- * [Touch-Interface](/touch/) --&gt;
 &lt;!-- * [Thesis](/thesis/) --&gt;
-&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[learn.interaction.mediaMedia files for documentations.To use]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/README/</guid><content:encoded>&lt;h1&gt;learn.interaction.media&lt;/h1&gt;
+&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[learn.interaction.media Media files for documentations. To use]]></description><link>https://signalwerk.github.io/learn.interaction/media/README/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/media/README/</guid><content:encoded>&lt;h1&gt;learn.interaction.media&lt;/h1&gt;
 &lt;p&gt;Media files for documentations.&lt;/p&gt;
 &lt;h2&gt;To use&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; submodule &lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt; https://github.com/signalwerk/learn.interaction.media.git &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;path&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Fr – Bildschirme und Fonts– 1. Morgen
-  – TV Interlace– 2. Morgen
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; submodule &lt;span class=&quot;token function&quot;&gt;add&lt;/span&gt; https://github.com/signalwerk/learn.interaction.media.git &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;path&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Fr – Bildschirme und Fonts – 1. Morgen
+  – TV Interlace – 2. Morgen
   – Darstellung von Fonts >>> Hinting
-  – Hinting vorbei mit neuestem…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//screens/abstract/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//screens/abstract/</guid><content:encoded>&lt;h1&gt;Fr – Bildschirme und Fonts&lt;/h1&gt;
+  – Hinting vorbei mit neuestem…]]></description><link>https://signalwerk.github.io/learn.interaction/screens/abstract/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/screens/abstract/</guid><content:encoded>&lt;h1&gt;Fr – Bildschirme und Fonts&lt;/h1&gt;
 &lt;p&gt;– 1. Morgen
 – TV Interlace&lt;/p&gt;
 &lt;p&gt;– 2. Morgen
 – Darstellung von Fonts &gt;&gt;&gt; Hinting
-– Hinting vorbei mit neuestem MacOS X off&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[– vergleich bildschirmabstand zu Screengrösse– logo matsch png
+– Hinting vorbei mit neuestem MacOS X off&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[– vergleich bildschirmabstand zu Screengrösse – logo matsch png
 – rendering pixeldensity
-– 72dpi? geräte ausmessenhaben wir non retinas…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//screens/examples/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//screens/examples/</guid><content:encoded>&lt;p&gt;– vergleich bildschirmabstand zu Screengrösse&lt;/p&gt;
+– 72dpi? geräte ausmessen haben wir non retinas…]]></description><link>https://signalwerk.github.io/learn.interaction/screens/examples/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/screens/examples/</guid><content:encoded>&lt;p&gt;– vergleich bildschirmabstand zu Screengrösse&lt;/p&gt;
 &lt;p&gt;– logo matsch png
 – rendering pixeldensity
 – 72dpi? geräte ausmessen&lt;/p&gt;
@@ -38,7 +38,7 @@ haben wir ein iphone plus?
 – farbiger text&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Aufgabe eBookAbgabeAm 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden.TechnologieFür die Auflösung ist die…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/task/ebook/</guid><content:encoded>&lt;h1&gt;Aufgabe eBook&lt;/h1&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Aufgabe eBook Abgabe Am 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden. Technologie Für die Auflösung ist…]]></description><link>https://signalwerk.github.io/learn.interaction/media/task/ebook/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/media/task/ebook/</guid><content:encoded>&lt;h1&gt;Aufgabe eBook&lt;/h1&gt;
 &lt;h2&gt;Abgabe&lt;/h2&gt;
 &lt;p&gt;Am 2. Februar 2019 müssen von allen relevanten Teilen PNG-Bilder abgegeben werden.&lt;/p&gt;
 &lt;h2&gt;Technologie&lt;/h2&gt;
@@ -103,15 +103,1204 @@ Creative Commons License (CC BY-SA 4.0)&lt;br&gt;
 Gestaltung: {{Name}}&lt;br&gt;
 Text: Project Gutenberg – gutenberg.org  &lt;/p&gt;
 &lt;h3&gt;Text-Manus&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.gutenberg.org/ebooks/22367&quot;&gt;http://www.gutenberg.org/ebooks/22367&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Bildquelle: https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/__not used yet/Morseschreiber/</guid><content:encoded>&lt;p&gt;Bildquelle: &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&quot;&gt;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Vergleich handschriftliche Codices vs. modernem Buch ]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//media/data/device/reader-bookproduction/</guid><content:encoded>&lt;p&gt;Vergleich handschriftliche Codices vs. modernem Buch &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Screens]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Div from 'gatsby-theme-signalwerk/src/components/Div…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/screens/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/screens/</guid><pubDate>Wed, 04 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
-import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.gutenberg.org/ebooks/22367&quot;&gt;http://www.gutenberg.org/ebooks/22367&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Bildquelle: https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg]]></description><link>https://signalwerk.github.io/learn.interaction/media/data/__not used yet/Morseschreiber/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/media/data/__not used yet/Morseschreiber/</guid><content:encoded>&lt;p&gt;Bildquelle: &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&quot;&gt;https://upload.wikimedia.org/wikipedia/commons/c/c7/Morseschreiber.jpg&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><description><![CDATA[Vergleich handschriftliche Codices vs. modernem Buch]]></description><link>https://signalwerk.github.io/learn.interaction/media/data/device/reader-bookproduction/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/media/data/device/reader-bookproduction/</guid><content:encoded>&lt;p&gt;Vergleich handschriftliche Codices vs. modernem Buch &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Technologiegeschichte der Schrift]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin'; Intro Die Nachfolgende Dokumentation soll die wichtigsten…]]></description><link>https://signalwerk.github.io/learn.interaction/articles/font-history/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/articles/font-history/</guid><pubDate>Wed, 25 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;&lt;/p&gt;
+&lt;!--
+::: TOC
+**Content**
+[[TOC]]
+:::
+--&gt;
+&lt;h2&gt;Intro&lt;/h2&gt;
+&lt;p&gt;Die Nachfolgende Dokumentation soll die wichtigsten technologischen Schritte aufzeigen, die sich im 20. und 21. Jahrhunder auf die Schriftform ausgewirkt haben. Die Dokumentation beansprucht keine Vollständigkeit. Die hier dargestellte Technologiegeschichte hat einen Fokus auf die Europäische Geschichte.&lt;/p&gt;
+&lt;h2&gt;Der Buchstabe&lt;/h2&gt;
+&lt;p&gt;Um sich schriftlich auszudrücken, werden Buchstaben benutzt. Zu Wörtern und Sätzen zusammengestellt vermitteln sie eine Aussage, die nicht nur inhaltlich, sondern auch optisch beinfluss- und manipulierbar sind. Die Buchstaben sind die Einzelteile des Alphabets und repräsentieren einen einzelnen Laut (Phonem) der menschlichen Sprache. Die Versalformen (Grossbuchstaben) basieren auf der Römischen Kapitalis (in Stein geschlagene Schrift), das gemeine Alphabet (Kleinbuchstaben) auf der Weiterentwicklung dieser Formen (karolingische Minuskel, humanistische Minuskel). Der Buchstabe als visuelles Zeichen der Sprache hat vorwiegend bei der Darstellung oder Übermittlung von Botschaften eine Bedeutung. Nur in seltenen Fällen, wird auch im gesprochenen Kontext auf Buchstaben zurückgegriffen (Buchstabieren).&lt;/p&gt;
+&lt;h2&gt;Römische Capitalis Monumentalis&lt;/h2&gt;
+&lt;p&gt;Die Capitalis Monumentalis ist eine der wichtigsten römischen Schriften aus der Antike. Sie wird auch als Lapidarschrift bezeichnet, da sie vorwiegend mit Pinsel auf Stein (lateinisch lapis = Stein) geschrieben wurde und dann die form aus dem Stein gemeisselt. Sie gilt massgebend für die Formgebung der heutigen Grossbuchstaben. Die Capitalis Monumentalis besteht nur aus Grossbuchstaben (Versalschrift) und beinhaltet noch nicht alle heutezutage gebräuchlichen Schriftzeichen.&lt;/p&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to12&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1206px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/134f0fcb309a1ffc210b7a1e4034a87e/be3c5/capitalis_monumentalis.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 34.24543946932007%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABrENwP//EABcQAQEBAQAAAAAAAAAAAAAAAAERAgD/2gAIAQEAAQUC2zjbRZ//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAADAAAAAAAAAAAAAAAAAAAAEDH/2gAIAQEABj8CKv/EABcQAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQEAAT8hbWsckSNP/9oADAMBAAIAAwAAABBzz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAAICAwAAAAAAAAAAAAAAAAERADEhQWH/2gAIAQEAAT8QPGABaiKvhKDXOz//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;capitalis monumentalis&quot;
+        title=&quot;capitalis monumentalis&quot;
+        src=&quot;/learn.interaction/static/134f0fcb309a1ffc210b7a1e4034a87e/be3c5/capitalis_monumentalis.jpg&quot;
+        srcset=&quot;/learn.interaction/static/134f0fcb309a1ffc210b7a1e4034a87e/df2c7/capitalis_monumentalis.jpg 450w,
+/learn.interaction/static/134f0fcb309a1ffc210b7a1e4034a87e/2d017/capitalis_monumentalis.jpg 900w,
+/learn.interaction/static/134f0fcb309a1ffc210b7a1e4034a87e/be3c5/capitalis_monumentalis.jpg 1206w&quot;
+        sizes=&quot;(max-width: 1206px) 100vw, 1206px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Römisches Nationalmuseum in den Thermen des Diolektian, Rom&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Karolingische Minuskel&lt;/h2&gt;
+&lt;p&gt;Die karolingische Minuskel wurde zum Ende des 8. Jahrhunderts im Auftrag von Karl dem Grossen als einheitliche Buch- und Schreibschrift entwickelt. Sie gilt als massgebend für die Formgebung der heutigen Kleinbuchstaben.&lt;/p&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to12&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1211px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/0d28f6f0f635a228e5e566c592db6f05/89c89/karolingische.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 33.60858794384806%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMC/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABroKA/8QAFhABAQEAAAAAAAAAAAAAAAAAABEB/9oACAEBAAEFAqrH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAGBAAAgMAAAAAAAAAAAAAAAAAAAEQMUH/2gAIAQEAAT8hUFdP/9oADAMBAAIAAwAAABDwD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABgQAQEBAQEAAAAAAAAAAAAAAAERACFB/9oACAEBAAE/EAEroercrYwvjN//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;karolingische&quot;
+        title=&quot;karolingische&quot;
+        src=&quot;/learn.interaction/static/0d28f6f0f635a228e5e566c592db6f05/89c89/karolingische.jpg&quot;
+        srcset=&quot;/learn.interaction/static/0d28f6f0f635a228e5e566c592db6f05/df2c7/karolingische.jpg 450w,
+/learn.interaction/static/0d28f6f0f635a228e5e566c592db6f05/2d017/karolingische.jpg 900w,
+/learn.interaction/static/0d28f6f0f635a228e5e566c592db6f05/89c89/karolingische.jpg 1211w&quot;
+        sizes=&quot;(max-width: 1211px) 100vw, 1211px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Karolingische Minuskel, Pergament, im Kloster Reichenau Ende des 10.Jahrhunderts geschrieben worden.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Handschrift &amp;#x26; Buchschrift&lt;/h2&gt;
+&lt;p&gt;Über Jahrhunderte war es üblich Kulturgüter wie Wissen, Technik, Verträge, Gesetze oder Geschichten in eine handschriftliche Form zu überführen um diese dauerhalft zu festigen und unabhängig von Zeit und Ort zu konservieren.  &lt;/p&gt;
+&lt;p&gt;Wollte man mehrere Kopien eines Buches oder einer Notiz, so beanspruchte jede «Kopie» genau gleich viel Zeit wie das erstellen des «Originals». Bücher wurden somit von Hand in Skriptorien in Klöstern (Schreibstuben) abgeschrieben. Eine Kopie mit meist aufwendigen Ausschmückungen konnte mehrere Jahre Arbeit in Anspruch nehmen. Erst ab ende des Mittelalters gab es auch mehr und mehr kommerzielle Berufsschreiber ausserhalb von Kölstern.&lt;/p&gt;
+&lt;p&gt;Ab dem 14. Jahrundert verdrängte der Informationsträger Papier aus Hadern (in Europa meist Leinen, Hanf oder Baumwolle) die Pergamente aus Tierhäuten mehr und mehr.&lt;/p&gt;
+&lt;h3&gt;Werkzeug&lt;/h3&gt;
+&lt;p&gt;Je nach Werkzeug, Achslage und Federdruckent entsteht ein anderes Schriftbild.&lt;/p&gt;
+&lt;Margin&gt;
+&lt;p&gt;links: Breitfeder&lt;br&gt;
+rechts: Spitzfeder  &lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/4f5267f21293a17b6b22e253399327c9/8ff1e/ambroise_noordzij.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 115.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAIAAACEf/j0AAAACXBIWXMAAAsSAAALEgHS3X78AAAB7klEQVQ4y6WUSc8pYRCF+79i4xeIHRtbdhIWQiLhB9iJiCV2iCGGmKeY5+m7z9cl3a27JTf31qJp9Z4651TVS/n5j1Dk43w+t9vt7XZrPfF6vXj2er3RaNRsNuv1+gf4+XxOp9NsNptKpS6Xiy2Jy+XiAHiPx3M8HqWooqWBJZNJqmhsRuZCoVAqlcbjsdvtnkwmOvhwONRqtWq1Gg6HF4uFCSzhdDrj8TgnHQ6HgN+yM5lMLBbr9/vpdJoqtmCv1xsIBDabjc/nK5fL1+v1DUYMfqQZxWLxfr9bPfMjhnnibrfbfXT7L8OkSNF+ouePx+OlhhVDClrhlFedGTPMGdv7/Z4qVk5Mkup2uyBZCh18Op0wnMvlGMZqtaKlkjMavt1uDIJZrtdrXoXgF4wYaKPRaDAYHA6H4DlqtcqE/H7/bDZDBeS/YBIw08N8Pp9IJCqVCmlTw+EBQNFQKMRhrfR7PZfLJZwgG40GI5HCRtk88RyJRKRzumxeOD2fz+kHMzdp1oKVRp3NrZLdFgbrqDR+lH8F4/bbrRJ3GLYHo4oxMOpvdwO3nU7HuAU6GNsUpqs4t7VNttVqiXIprRiHKarualg144iGMwszGBiLtVRDrpsVfFBDNuxDtoYcDAZ8t4IxPFaDPzPw/3IlTfEHnl8fKErg7n4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ambroise noordzij&quot;
+        title=&quot;ambroise noordzij&quot;
+        src=&quot;/learn.interaction/static/4f5267f21293a17b6b22e253399327c9/8ff1e/ambroise_noordzij.png&quot;
+        srcset=&quot;/learn.interaction/static/4f5267f21293a17b6b22e253399327c9/44727/ambroise_noordzij.png 450w,
+/learn.interaction/static/4f5267f21293a17b6b22e253399327c9/8ff1e/ambroise_noordzij.png 800w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Quelle: «The Stroke» – Gerrit Noordzij&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Achslage&lt;/h3&gt;
+&lt;p&gt;Seit der karolingischen Minuskel hat sich eine kleinschreibung in Kombination zu einer Feder-Lage von etwa 30° breit etabliert. Viele Serifen-Schriften die über die Jahrhunderte entstanden sind orientieren sich an dieser Achslage und der Breitfeder.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 908px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/ccfdcd8a03690181cfac242a8776a545/b47b0/GeenBitter.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 36.45374449339207%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsTAAALEwEAmpwYAAABPElEQVQoz21R226CUBDk/7/Hh/piTaiJRuUSEA3ghSCXAh4vCFSLTtlNSzDpJJtzwtmdnRkk/CKOY3QhhMDxeGzfLpcLzuczF+H5fLZnt6Sqqnh4Pp9jv9+jKAqcTidYiwU2mw08z8No9MGkw+EQk8kE1+v1hbQLqa6/MZvNoOs6+v03aJoGy7J4Qa/Xg23bUBQFqqpClmXuG4/HPFzXNcqyZAG7nceLpDRNmcQ0DWRZivV6jSiKsFwu4bou30klLSB19/u9jYcIyZWmatzz1biV6OF2u7Ftsv8fKEvDMNpMCY/Hg88gCDAYvPNitpw3Yf/ZIhWUG9mjb6RyOp2yUqpFk6tpmnAdtyUmEdRD/XmeQxLigNVqxVZpG+Xh+z6SJGE72+0WjuPgs7EZhiEooizLXlQeDgJhM0s/6QfXPAjPRrrASwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;GeenBitter&quot;
+        title=&quot;GeenBitter&quot;
+        src=&quot;/learn.interaction/static/ccfdcd8a03690181cfac242a8776a545/b47b0/GeenBitter.png&quot;
+        srcset=&quot;/learn.interaction/static/ccfdcd8a03690181cfac242a8776a545/44727/GeenBitter.png 450w,
+/learn.interaction/static/ccfdcd8a03690181cfac242a8776a545/fea0e/GeenBitter.png 900w,
+/learn.interaction/static/ccfdcd8a03690181cfac242a8776a545/b47b0/GeenBitter.png 908w&quot;
+        sizes=&quot;(max-width: 908px) 100vw, 908px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Quelle: «Gewone letters: Gerrit Noordzij&apos;s early models» – Albert-Jan Pool, 2013&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;Breitfeder&lt;/h4&gt;
+&lt;div class=&quot;column__text&quot;&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/i6fWPSMwJT8?start=322&amp;end=345&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Spitzfeder&lt;/h4&gt;
+&lt;div class=&quot;column__text&quot;&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/62849657&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Buchdruck&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 965px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/b14435baffd8521749d8b8f1308f02b2/f7856/102r1l.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 144.04145077720207%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHY1UY1tGDEnQIgQr//xAAcEAEAAgEFAAAAAAAAAAAAAAABAAISAxETMTL/2gAIAQEAAQUC5Es6iMv6e5cckcoRm8//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAYEAADAQEAAAAAAAAAAAAAAAAAAREgMf/aAAgBAQAGPwJqEmeFz//EABoQAQACAwEAAAAAAAAAAAAAAAEAERAhQVH/2gAIAQEAAT8hdnDkqYSn2VHHd17i5pRDA0uNyaEFP//aAAwDAQACAAMAAAAQ6Ahw/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAQ/9oACAEDAQE/EHW//8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQETH/2gAIAQIBAT8QUWLD/8QAHRABAAICAwEBAAAAAAAAAAAAAQARITFBUZFxgf/aAAgBAQABPxChAatgzyfkYsAgKvMbml7AEGwXyUgFRnvUvLXceiMGheJRByisGoba7lrLl8DAX9n/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;102r1l&quot;
+        title=&quot;102r1l&quot;
+        src=&quot;/learn.interaction/static/b14435baffd8521749d8b8f1308f02b2/f7856/102r1l.jpg&quot;
+        srcset=&quot;/learn.interaction/static/b14435baffd8521749d8b8f1308f02b2/df2c7/102r1l.jpg 450w,
+/learn.interaction/static/b14435baffd8521749d8b8f1308f02b2/2d017/102r1l.jpg 900w,
+/learn.interaction/static/b14435baffd8521749d8b8f1308f02b2/f7856/102r1l.jpg 965w&quot;
+        sizes=&quot;(max-width: 965px) 100vw, 965px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Eine rechte Seite aus dem ersten Band der bekannten Bibel, die Gutenberg hergestellt hat (B42 Bd. / Vol. 1 - fol. 102r)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Johannes Gutenberg (Johannes Gensfleisch zur Laden zum Gutenberg) gilt als Erfinder des Buchdrucks mit beweglichen Bleilettern und auch des mechanischen Buchdrucks. Als Goldschmied konnte Gutenberg mit Metall umgehen und erfand ein Handgiessinstrument das es ihm ermöglicht hat, dieselben Buchstaben aus einer Legierung (mit dem Hauptanteil Blei) immer wieder zu giessen. Die so gegossenen Zeichen waren wie kleine erhabene Stempel. Dazu musste die Druckfarbe, die nun auf Bleibuchstaben haften musste, als auch eine abgeänderte Spindelpresse erfunden oder weiterentwickelt werden, um die ersten Druckprodukte mit dieser neuartigen Technik zu produzieren.
+Diese Erfindung des Buchdruck (Hochdruckverfahren) verbreitete sich ab ~1450 ausgehend von Mainz (Deutschland) innert weniger Jahre über die ganze Welt und wurde technisch beinahe unverändert bis ins 20. Jahrhundert beibehalten.
+~1455 erschien Gutenbergs 42-zeilige Biebel (B42), welches als erstes gedrucktes Buch mit beweglichen Bleilettern gillt. Gutenberg hatte dafür die damals übliche Textura (Schriftart) der Schreibstuben in Bleibuchstaben überführt und mit vielen verschiedenen Ligaturen und Zeichenformen das «künschtliche Schreiben» möglichst ähnlich dem damals vorherschenden Schreibstiel angepasst.&lt;/p&gt;
+&lt;p&gt;Der Wachsende Bedarf an Bedruckstoffen fürhte dazu, dass prozentual immer weniger Bücher auf Pergament gedruckt wurden. Jedoch galten bis ins 19. Jahrhundert Pergament-Bände als besonders Wertvoll.&lt;/p&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to6&quot;&gt;
+&lt;h4&gt;Johannes Gutenberg&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/d12bdcd942614d6196be1d45ef4eafa4/11ddf/gutenberg.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 129.99999999999997%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAIAAAA44esqAAAACXBIWXMAAAsSAAALEgHS3X78AAAEeElEQVQ4yz2UWSxeaxSG96W7XorEDVENQhApMSRCQ0ytMaSIsaaa5yOGxMyF6ShqnulR89DEPEdRKlHELDFPkaBFE87z/3/P+S52vv3tb633Xe961xb29va+itfo6OjY2Njw8PDg4ODU1NQ/4vX9+/fFxcXp6Wk+jYqXZMO14+Njgav5+fkfPnzIzc39+PFjcXExewJWV1ffv3+vpaWVmpra1NTU19fHs7m5uaGhoaWlpby8nAsCINXV1ZzW1NQ0NjaWlZV9/vwZwNLS0nfv3j179kxBQeHly5ek7urqggsp2JBia2tLmJycrK+v7+zsbBAvYjIyMuzs7JSUlOTl5dXV1XV1dWVkZFRVVYlpbW0ldUdHB8/d3V2BAsCsra2tq6sjOCws7Pnz5/r6+tra2ioqKnp6esrKyuCbmJj09PQQ1t3dLckiCh4aGpIEFxUVVVRUqKmpKSoqampqElZYWEg6KgecCwTAmcufPn1iv7OzI4yMjNSIFxrAWVZWVk5Ojtv+/v5IYG5uHhgYaGNjQ11IAwBySjhubm6KaAPIB6TmiUgvXrxwcHAgAM25hIQ+Pj5VVVU5OTn0paSkpLKyEplEghHMuwSWe21tbZSNWmZmZu3t7W5ubtLS0rympaX9LV5gcJOkoprHx8fhTGKOeBIQExNjbGwMYeqnTxQvJSX15s0b2kl2LhMJ8z/BHFEekfCBmIWFhZOT06tXrwjr7e3lnD1qo9n/reZwe3tbRJtigOWJsB4eHtbW1q6urra2tnBGAl9f34CAAB0dHQMDA4oHiRTU/KdVoBUUFGRlZUVGRl5dXSFjXFycp6enlZWVpaVlUlKSu7u7oaEhEoLv5eUlMawoGKOnpKSQ6fz8HFVw7MTExF/i9fbtW8QjNWEw8vPzgwUiR0VFAbO/vy9CJvfMzMzp6SkpwcftbCjB3t4+PT2dRrq4uGDYoKAgCP769YsQ+IsGg+HCMQcHByDn5eWR/suXLwTjDQTHZOgErLe3d2xsLDoziUxxYmKiiPbCwgKSXlxc/Pz5k1kLDg4mBTi0hLJDQkKQJyEhgVJDQ0P7+/slY0elP378EObm5mZnZ6mEMWQDAto6OjpCh37Ai0mmF9yGKns+MaHR0dGi4Pn5eRTmH4AqsKI3RkZG4CAEteH+tbU1GCUnJ9M/akZwU1NT2gl5gcbgYXTiNvbAScywhoYGJPn73N3dQQF5keD169eoTRczMzO5SZSwsrJCP7Kzs7EOPgsPD4cCgjFAIEPb2dmZSMk5nNnQV6pYXl4W0Jbp4x2rHR4eIsHGxgZtQzkKw6cIi+b0nD8E04aFyYhh4SUgHZMQHx/PhpYCjvhgIhuF0R7aiyW4bSVeEKF5UGAoBALwLX6gGOgRExERgUPABIci0R+dvn37RjuXlpYomJFCGqwprK+vM6LMM8PIMNNJyc+UP4bkTzwwMIAXsCA8Uffk5IQCAT86OhKenp5+//6N6W5ubh4eHni9vb1l8/j4yDnOub6+Pjs7u7y8pKNocX9///Tf+heRO4Ms4lWFXQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;gutenberg&quot;
+        title=&quot;gutenberg&quot;
+        src=&quot;/learn.interaction/static/d12bdcd942614d6196be1d45ef4eafa4/79a4a/gutenberg.png&quot;
+        srcset=&quot;/learn.interaction/static/d12bdcd942614d6196be1d45ef4eafa4/44727/gutenberg.png 450w,
+/learn.interaction/static/d12bdcd942614d6196be1d45ef4eafa4/fea0e/gutenberg.png 900w,
+/learn.interaction/static/d12bdcd942614d6196be1d45ef4eafa4/79a4a/gutenberg.png 1800w,
+/learn.interaction/static/d12bdcd942614d6196be1d45ef4eafa4/11ddf/gutenberg.png 2220w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Johann Gensfleisch zum Gutenberg, Kupferstich nach André Thevet, 1584.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7to12&quot;&gt;
+&lt;h4&gt;Bleiletter&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1016px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/4b09cdb28e9b6f5e5a168c6f8b02bd5b/644a5/Bleiletter.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 129.03543307086616%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAIAAAA44esqAAAACXBIWXMAAAsSAAALEgHS3X78AAACt0lEQVQ4y32UyWoqURCG+/30KQwGN+6MeQMFwa0LX8CdGxGELCSgYqKgosbZGOM8Ro2z8d7vpvq2HYk29KH6nPpr+P/qo/y58Hx9fRWLxeVyqd/cbrfpdDqfz8u+8ivyeDyyjsfjw+Gg39/v9/1+n7jio5wBNBuPdrs9n8/Bg9ntduyMRiOSa24KW5vNZrVacczKJyXF4/FkMhmLxVqtFkYikaBUj8cTDAaj0ehwOOx2uxwpIN/f38vlMh6FQuHz8zMUCtlsNrvdjp/b7b6/v3c6nXd3dy6XK5fL4UYt1WqVuv6VTW1kazabpVLJ5/M9PDw8Pj4+PT2Rzev1kp9Nh8NBXTQ8GAx6vR5HKmEvLy98EyIQCJhMptvb25ubG6PRaDAYrFar2Wy2WCx+v5+0+GSz2VQqBQsqmB5Ya7UayfGgmclkgo0xnU7hfDabgRF5cIMdlTBeKqGNTqdDPAJpZ3oVCCT7tKrpp2aGZMDIQB4R4/j/EVXf3t4EDLs/wKgnqnIM+NfMdCH7GAJWhwQO+QZMTrq9nhmRhK0fZUvmj48P7eysZ3wWiwVUwxxzAZeKzDArIjMktEQsDtAP5pkkbEp7fn6mukqlghulwfF6vVZ46/U6ISEMSfBj3X0/OAEgIclplbjEkihq2XgzLlRFMGx+Q2JTvFawrBSFwuAxNDrUsrGu90xEkhNdBJfNc8LOpBInfh66pTu9VCpYMkvISzpnMhlUxBCesdWy+dDAl8YTnUkIu41Gg78IwdTMejDTJuCj7tHArJACnkZUsHB7vWxEgi3kpGD6P/Us4ylgbGpDavkZuQDEj2wQjhBC0AlMA3CI2nhwe3G5vr6+RiIRDCYZm7ThcBi2ceBTK0fRLLrlAkMzUYIqxJAhk99G7tDT7anvinmm7O73Q05GCgx9kpOp1N/N8vwFKDGgfIKc+CAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bleiletter&quot;
+        title=&quot;Bleiletter&quot;
+        src=&quot;/learn.interaction/static/4b09cdb28e9b6f5e5a168c6f8b02bd5b/644a5/Bleiletter.png&quot;
+        srcset=&quot;/learn.interaction/static/4b09cdb28e9b6f5e5a168c6f8b02bd5b/44727/Bleiletter.png 450w,
+/learn.interaction/static/4b09cdb28e9b6f5e5a168c6f8b02bd5b/fea0e/Bleiletter.png 900w,
+/learn.interaction/static/4b09cdb28e9b6f5e5a168c6f8b02bd5b/644a5/Bleiletter.png 1016w&quot;
+        sizes=&quot;(max-width: 1016px) 100vw, 1016px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Schriftherstellung&lt;/h3&gt;
+&lt;p&gt;Für die Herstellung von Bleilettern benötigt man eine Matrize, von der man giessen kann. Diese Matrize wird von einer Patrize – dem so genannten Stempel – geschlagen.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1200px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/c176cee8b75e2464744d26b82c57a953/c35de/dbb86878-c493-11e3-899e-14dae9b62a82.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.16666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB2wUH/8QAGBAAAwEBAAAAAAAAAAAAAAAAARARADH/2gAIAQEAAQUCPFLoF//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABoQAAIDAQEAAAAAAAAAAAAAAAERABAxIUH/2gAIAQEAAT8hfGxljnKIaivK/9oADAMBAAIAAwAAABArz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAAICAwEAAAAAAAAAAAAAAAERACEQQVHB/9oACAEBAAE/ELDkaJexiE2LwotRYRSgIBFglfMf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;dbb86878 c493 11e3 899e 14dae9b62a82&quot;
+        title=&quot;dbb86878 c493 11e3 899e 14dae9b62a82&quot;
+        src=&quot;/learn.interaction/static/c176cee8b75e2464744d26b82c57a953/c35de/dbb86878-c493-11e3-899e-14dae9b62a82.jpg&quot;
+        srcset=&quot;/learn.interaction/static/c176cee8b75e2464744d26b82c57a953/df2c7/dbb86878-c493-11e3-899e-14dae9b62a82.jpg 450w,
+/learn.interaction/static/c176cee8b75e2464744d26b82c57a953/2d017/dbb86878-c493-11e3-899e-14dae9b62a82.jpg 900w,
+/learn.interaction/static/c176cee8b75e2464744d26b82c57a953/c35de/dbb86878-c493-11e3-899e-14dae9b62a82.jpg 1200w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Stempel können geschnitten oder geschlagen werden.&lt;br&gt;
+Quelle: Counterpunch. 2nd ed. Hyphen Press. London, 2011.&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;Stempel schneiden&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/8/8e/Cutting_a_punch_for_a_Qu_ligature.jpg&quot;&gt;
+Quelle: &lt;a href=&quot;https://en.wikipedia.org/wiki/Punchcutting#/media/File:Cutting_a_punch_for_a_Qu_ligature.jpg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Stempel schlagen&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1200px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/9250d59c616b2a56b34f060c1454ce81/c35de/00b26873-c494-11e3-8184-14dae9b62a82.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.16666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAQACBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe2aBmP/xAAXEAADAQAAAAAAAAAAAAAAAAABEBEg/9oACAEBAAEFAjiL/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAACAx/9oACAEBAAY/Air/AP/EABoQAAIDAQEAAAAAAAAAAAAAAAERABAhMVH/2gAIAQEAAT8h46omModgAF+1/9oADAMBAAIAAwAAABBzD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQEBAQEBAAAAAAAAAAAAAAERACEQUf/aAAgBAQABPxCRKx9y++VtwQC3AESmRC2B7znn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;00b26873 c494 11e3 8184 14dae9b62a82&quot;
+        title=&quot;00b26873 c494 11e3 8184 14dae9b62a82&quot;
+        src=&quot;/learn.interaction/static/9250d59c616b2a56b34f060c1454ce81/c35de/00b26873-c494-11e3-8184-14dae9b62a82.jpg&quot;
+        srcset=&quot;/learn.interaction/static/9250d59c616b2a56b34f060c1454ce81/df2c7/00b26873-c494-11e3-8184-14dae9b62a82.jpg 450w,
+/learn.interaction/static/9250d59c616b2a56b34f060c1454ce81/2d017/00b26873-c494-11e3-8184-14dae9b62a82.jpg 900w,
+/learn.interaction/static/9250d59c616b2a56b34f060c1454ce81/c35de/00b26873-c494-11e3-8184-14dae9b62a82.jpg 1200w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Durch die wiederverwendung von Negativ-Stempeln (Counterpunch) kann Zeit gespart werden.&lt;br&gt;
+Quelle: Counterpunch. 2nd ed. Hyphen Press. London, 2011.&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;Matrizen schlagen&lt;/h4&gt;
+&lt;Margin&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 510px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/44a1865904e88e3a1570faa15a69c6f5/26e15/Flamande_news_2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMCBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAP/aAAwDAQACEAMQAAABhaFa2gFxchGoK//EABwQAAICAgMAAAAAAAAAAAAAAAABAhMRISIjMf/aAAgBAQABBQKzlCSZ1miPiwWMtaLpH//EABcRAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8BMV//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREQ/9oACAECAQE/AaV7/8QAGhAAAgIDAAAAAAAAAAAAAAAAABABETFBcf/aAAgBAQAGPwKqWFL6aP/EABwQAAMBAAIDAAAAAAAAAAAAAAABESExQVGRof/aAAgBAQABPyGtPotXS+BexJta0lZjxwiORDxKCXQ//9oADAMBAAIAAwAAABAgAMD/xAAWEQEBAQAAAAAAAAAAAAAAAAAhESD/2gAIAQMBAT8Qi4P/xAAWEQEBAQAAAAAAAAAAAAAAAAAhASD/2gAIAQIBAT8QoMX/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMVHRYZHB/9oACAEBAAE/EC0rdCfEsxbIFjLNo4QRKq7X5mJA0wOtniXEcOnuNhV2w9xch63uf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Flamande news 2&quot;
+        title=&quot;Flamande news 2&quot;
+        src=&quot;/learn.interaction/static/44a1865904e88e3a1570faa15a69c6f5/26e15/Flamande_news_2.jpg&quot;
+        srcset=&quot;/learn.interaction/static/44a1865904e88e3a1570faa15a69c6f5/df2c7/Flamande_news_2.jpg 450w,
+/learn.interaction/static/44a1865904e88e3a1570faa15a69c6f5/26e15/Flamande_news_2.jpg 510w&quot;
+        sizes=&quot;(max-width: 510px) 100vw, 510px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Quelle: &lt;a href=&quot;https://www.dutchtypelibrary.nl/index_desktop.html&quot;&gt;Dutchtypelibrary&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/8/86/De_Vinne_1904_-_Punch_and_matrix.jpg&quot;&gt;
+&lt;em&gt;Quelle: &lt;a href=&quot;https://en.wikipedia.org/wiki/Punchcutting#/media/File:De_Vinne_1904_-_Punch_and_matrix.jpg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Handsatz&lt;/h3&gt;
+&lt;p&gt;Der Handsatz ist das Aneinanderreihen von Bleitypen, welche der Setzer von Hand aus dem Setzkasten in den Winkelhaken stellt und zu Wörtern und Zeilen zusammenfügt. Durch das Aneinanderreihen von Zeile an Zeile entsteht die Textspalte (Kolumne). Gesetzt wird in Spiegelschrift. Alle druckenden Teile sind erhöht. Das nichtdruckende Material wird Blindmaterial genannt.&lt;/p&gt;
+&lt;Margin&gt;
+&lt;p&gt;Einzelne Bleibuchstaben werden im Winkelhaken zu Zeilen zusammengestellt.&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/e8508bb91144e65aaa84bf2fc774274c/9140f/P1010771_sh.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.55187477247908%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB31JYikZK/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECAxESE//aAAgBAQABBQJvS9uiYo4eQmVKP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAABESECECIycf/aAAgBAQAGPwKxrBS0d48OToha/8QAGRABAQEBAQEAAAAAAAAAAAAAAREAIRBB/9oACAEBAAE/IQRUDBaSJhnUlsxEnb8NAMPP/9oADAMBAAIAAwAAABB4D//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB4QAQACAQQDAAAAAAAAAAAAAAEAEUEQITFhcYGh/9oACAEBAAE/EASAtXEsG1iVv74O2KVgIRBe0tjuQ6XqyBwl98udP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;P1010771 sh&quot;
+        title=&quot;P1010771 sh&quot;
+        src=&quot;/learn.interaction/static/e8508bb91144e65aaa84bf2fc774274c/98235/P1010771_sh.jpg&quot;
+        srcset=&quot;/learn.interaction/static/e8508bb91144e65aaa84bf2fc774274c/df2c7/P1010771_sh.jpg 450w,
+/learn.interaction/static/e8508bb91144e65aaa84bf2fc774274c/2d017/P1010771_sh.jpg 900w,
+/learn.interaction/static/e8508bb91144e65aaa84bf2fc774274c/98235/P1010771_sh.jpg 1800w,
+/learn.interaction/static/e8508bb91144e65aaa84bf2fc774274c/b94e1/P1010771_sh.jpg 2700w,
+/learn.interaction/static/e8508bb91144e65aaa84bf2fc774274c/9140f/P1010771_sh.jpg 2747w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Quelle: Stefan Huber&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Setzmaschinen&lt;/h3&gt;
+&lt;p&gt;Die Erfindungen des maschinellen Einzelbuchstabensatzes (Monotype ~1890) und des Zeilensatzes (Linotype ~1886) änderten im Grunde das Prinzip des Herstellungsverfahrens nicht, sondern es wurde nur mechanisierten und beschleunigten. Beim Monotypesatz und später auch – etwa ab dem Jahr 1950 – beim lochbandgesteuerten Zeilensatz, fand die Arbeitsteilung Eingang in die Setzereien und brachte dem traditionell handwerklichen Gewerbe einen industriellen Akzent. Fortan war das Setzen von der eigentlichen Satzherstellung getrennt.
+Anfangs mechanisch, später auch optisch arbeitende Abtastgeräte steuern die Setzmaschinen.&lt;/p&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to6&quot;&gt;
+&lt;h4&gt;Monotype&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/87ec6b52e9fb1e22fe399eb5ba4d4a90/a2c29/monotype.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 85.01059322033898%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAAsSAAALEgHS3X78AAACHUlEQVQ4y6VTuWticRB+f4m9IHaSQjxABEXx1hQKxgsxWihiJdaihXaikICCNhFSiJ0KghcIHgQRrdQiAcWjEDXxSPbLvsU1jyW7sFO938x838x8M4/4+Gd7/2mXHuLjP4w4s36ft9vtOp3Odru9TCb+iiSjw+HQ5XLNZjMq+Hg8vry8kC4KEZ6I4qNer5dKpcVi8QV8Op16vV4ulxuNRnjjSalMetrtdrFYnE6nl8oRh8NhMBh0u93xeFyr1SKRyH6/P2NarRZg+KhWq5lM5vn5+bIAAQ7wLZfL19dXhBUKBakKmREKhfR6fTAYVKvVNpstFouVy+VUKrVarT7Bm82m0WgA9vj46HQ62Wx2Pp+fz+eI9ft9u90uEolYLBaPxxMIBCaTyWq1er1edAQtfqndbDa1Wi2TyeRyuUiqVCrwR6NRPp+v0+mAkUqlSAAXlEMIowFFkKMHAgEajYaekSQWi7PZLIgBMxgMEonEbDbf3NyoVCqfz4eFnwX/rIztyWQyDodjNBpB//DwgEYwjsfjub6+lsvlbrf79vYWHSUSCeqeYW9vb1AS8qCFyWQC5eEEGDoplUqQgiUcDlMO4feFAeP3+x0ORzKZRFl4cDm4KovFIhQKIVg8HscsVDAM2wbg/v7+7u4OZZFBriqdTtPpdAaDcXV1pdFocA5f9nx5Rk9PT+v1mnJb2CoEKxQKGO0PbZ8Nd0Jp7Pt/5gdsmEg9zhHj1AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;monotype&quot;
+        title=&quot;monotype&quot;
+        src=&quot;/learn.interaction/static/87ec6b52e9fb1e22fe399eb5ba4d4a90/79a4a/monotype.png&quot;
+        srcset=&quot;/learn.interaction/static/87ec6b52e9fb1e22fe399eb5ba4d4a90/44727/monotype.png 450w,
+/learn.interaction/static/87ec6b52e9fb1e22fe399eb5ba4d4a90/fea0e/monotype.png 900w,
+/learn.interaction/static/87ec6b52e9fb1e22fe399eb5ba4d4a90/79a4a/monotype.png 1800w,
+/learn.interaction/static/87ec6b52e9fb1e22fe399eb5ba4d4a90/a2c29/monotype.png 1888w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7to12&quot;&gt;
+&lt;h4&gt;Linotype&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1391px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/4e0abec30560f0f2f28f7778be8fd377/832fe/linotype.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 115.38461538461537%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAIAAACEf/j0AAAACXBIWXMAAAsSAAALEgHS3X78AAADUklEQVQ4y42U6SusURzHnz9ASfJCUQhNSlLKkn3wwlZkyzJ2ykRJ1ixJiuxykzUjyvDCTpZSFGNJkUZSQqK84dqXcd3PnedeLk3uPS+eOc8z53u+39/3+ztHeNU1fvwZr18O4fVfgy0eHx9vbm6+a8fT09NX4Pv7+52dnbW1NaVSOT09PT4+3t7ePjAwMDk5WV1dXVVVxRqNRqMbzN77+/uDg4MVFRVgWltb29raFAoF87KyspycHFGODrD49eLiAk5HR0cXFxc/P7+wsLDY2NigoKDKysqioqKXlxdxpfAJRm1LS0vHx8fLy8uBgYESicTZ2dnDwyMrKysxMbGhoaGmpoa6PoPF/TY2NtB2enpKwXDCFh4eDjI4ONjV1bWzs5MqLi8vdYPVanV/f//Z2RkK6+rqRkdHR0ZGJiYmLC0tZTIZyOLiYjzXLfv8/Bxv1tfXa2tre3p6urq6cA4JRkZGSUlJyC4sLNQBhhnM0NAQMNiys7NjYmJgy8zMRDDFJycnQ5uSknJ1dfUBzAzw0dFRX1/f8PBwXFxcZGTk3Nwcc5ghxOTo6Oj4+Hjwn2sWNfO1qakpPz/f3d09IyMD2d3d3Ty/aYdMO0pLS+/u7t7B/JBNc3NzSUlJfX19enp6aGhoXl5eY2NjeXl5S0tLR0cHrwEBAampqXx5j0o0eXNzUyqV+vj4pKWlEQy01Lm4uEg/4RO1zM/PIzskJIR/Hx4ePoDpZJKUy+Uw4K2DgwO95ebmZmNjY2dnh4S9vT388/T0ZKPV1dXt7e1f7SlWe3h4uLCwMDU1RSfq6+sDxhjmFIn5qGAXU1NTLy8v+o+V9AKhCm/x0o+zs7O+vr6sYzVIf39/Kysr2sPa2lpPT8/c3Dw3N3dsbAwObIf/HYxykjQxMXFycjI0NDQzM0N/REQEbMbGxgYGBt7e3vQcgqGJiopSqVTC2zHa2toqKChAMDmB5FTQD6zmDFtYWAiCgIvYTiMBJo6VlZXfOT8/P/Ps7e3FtoSEBAhtbW0hRDAl2NvbIwrbaJXd3V3wOEcWH87z7e0tfXJ9fX1yckKHwgMzaRES/pEZOR8cHFAtx5ML47/uMJ4chpmZGazikuBJ7F9dgOSv0Y6/71Be6U024s7g9SdPMsbrU0nVBQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;linotype&quot;
+        title=&quot;linotype&quot;
+        src=&quot;/learn.interaction/static/4e0abec30560f0f2f28f7778be8fd377/832fe/linotype.png&quot;
+        srcset=&quot;/learn.interaction/static/4e0abec30560f0f2f28f7778be8fd377/44727/linotype.png 450w,
+/learn.interaction/static/4e0abec30560f0f2f28f7778be8fd377/fea0e/linotype.png 900w,
+/learn.interaction/static/4e0abec30560f0f2f28f7778be8fd377/832fe/linotype.png 1391w&quot;
+        sizes=&quot;(max-width: 1391px) 100vw, 1391px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Linotype&lt;/h4&gt;
+&lt;div class=&quot;column__text&quot;&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/13trF0_XIMs?start=34&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class=&quot;column__text&quot;&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/avDuKuBNuCk&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Montoype Keyboard&lt;/h4&gt;
+&lt;div class=&quot;column__text&quot;&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/LcphfMlOzk4?start=20&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Montoype Caster&lt;/h4&gt;
+&lt;div class=&quot;column__text&quot;&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/M9DV95IEKGU?start=690&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Fotosatz&lt;/h2&gt;
+&lt;p&gt;Fotosatz lösste ab etwa 1960 (zweite Generation) den Bleisatz langsam ab und ermöglichte mit fotografischen Mitteln eine Produktion von Typografie. Durch den geringeren Materialbedarf und die schnellere Handhabung konnten Kosten gesenkt werden.
+Fotosatz ist ein opto-mechanisches System und erfordert ein anderes Druckverfahren (Offsetdruck) als noch Bleisatz.&lt;/p&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to12&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/2fdcd864f12360e1cdbb371a6a3a5721/d6807/optomechanisch.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.69908079342042%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAACT0lEQVQoz11Sa28SURDlv6m1MbXgF19N1X9RicbYajRtgQaoFSgvv0iNxfJMacUaHk0osoYFA5RSYHd5FNhdWFjeDx16G0RvspO7M3Nmztwzgt//ntFohC7D4RBsuVTGw5FWq5XJZAuFwnQCHAF8/X6fYViO45rNFsTgd1Lo/Dy9rdG69g9sFpvD4fgf3GjwsVj8LHlWLpdzubzp4044jEMgEom63d8Igjg5CT5dEqu2VH7fcb1er1QqiNQluN4gSdLvP07EExiG6bT6arUKAY6rw91qsRoMxvVVydHR91gshmhOmo9ps2wVYlDyzeu3N2/MipfEOYpq8nzoR4iicul0xml3KhVKr8cbjf7qdrsAaTQa3W5vDDbojQ67893mlmj+jk6rm525pVZpoINSvqmQK0iCBJhCrsxms4cHh8FgEMhnMplOpyPI5wswUjQSXVx4ZDR8iMfjapVaJpUlT5Ncjfti3ltZfuX+6vZ4vLVaDTqBhXJAczAYCECGdruNYT8fLz5x7bsse9bllyuSNYn5s7lYKDAMgyaEVJCDZVlgTlEUz/NjMIqlUqnr12Y0qm3Ve/W9uw9Mpk+7u2a9zmDUG21WOxbCJiKVLkqArND0FRh5pRLZ7Tnhw/sLPq8PxyPwzmur64AXzok2pBuQAHtCkhRwAamyWQIoC9AywSTgDQQCNE2DB54EZDeZdp4/eyGcF3k9PnBWKjTox9VqF8UiTTNXUiE8kn5C5HLOIR7GYUmm/YnEKUGQf3WeXuzp3Yb+SFXkRJZvNnu9Hsr5AzIJk/LJgjhpAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;optomechanisch&quot;
+        title=&quot;optomechanisch&quot;
+        src=&quot;/learn.interaction/static/2fdcd864f12360e1cdbb371a6a3a5721/79a4a/optomechanisch.png&quot;
+        srcset=&quot;/learn.interaction/static/2fdcd864f12360e1cdbb371a6a3a5721/44727/optomechanisch.png 450w,
+/learn.interaction/static/2fdcd864f12360e1cdbb371a6a3a5721/fea0e/optomechanisch.png 900w,
+/learn.interaction/static/2fdcd864f12360e1cdbb371a6a3a5721/79a4a/optomechanisch.png 1800w,
+/learn.interaction/static/2fdcd864f12360e1cdbb371a6a3a5721/d6807/optomechanisch.png 2067w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Arbeitsweise von Fotosatzsystem mit Schriftscheibe. Die Optik steuert dabei die Schriftgrösse.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/2518163826029666f8702c35ec7f8eb3/326d5/lumitype.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 73.55533790401567%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAD9ElEQVQ4y12TeVBVZRjGz1/+Y1g51FTSpjmaOqOoLBKaSyqKbILiAuo1ZdgRFVTsomCkIgKyXkRUuNBlUxa3kqEGL6tk0BCmgIBN4gpIoDOJ8Ou9x2nG6Zt553znnHd9nudVqmuMBO4IIHxvGME7gvEP8ic1PYVzJUUUFhkoKDTwfX4uxecKOF9STJ5BT+bpk6SkJXEiOYHjiXEcPXaEyCgtukwdSn9/H+kZKZzNycTV3RlFUVi0dAE+fho027xU268NZ3d4CPYLbbFfNI9VLstZvnIxCxbZYTffCiu72UyePgnPjWtRkNPf30tDg5F934QzxmwMnhvcpeNQgnb4Ef2tlgsXz5OuS8Lmi7lYTJrA0hWL8d6yHjcPJ0nuwHLHr7CWf1u2bUZ5+PA+TU2NGI2VhO4Owsz8DTRfe3PgYAQ7dwWh12eRX6DnZGYqEVJw7rzZanBgiC9em9fh7LYSB1NCuzl4a7xQ/rjVSm7eGa431kiHYXw8+UPpKpLy8mLS0hKpq7tGU3Mj2gN7CQn1Z91GD6bNmsrx+CPs2bdLfXdydcBWinis90B50vuYXrG2tpsciIpgmWCTnXOK6EORODo5EBjsR2trCy0tTcTFHyZIOnOSrmrrqsjPzxE/rfrNzX0VmzTeKI+fPKKzs416wdAUsH7jGuZYWzJxykQcXRyxtLHE0noWZeUlGAw5ErSBZSuWkKZLpvGXWkpLC/nucJRaZNNWSfhi+AWmLisqLqlMT5/5uTBpT01tNcbqnwWKerb7b1cJOiRQmMhwFTJMBDmvXkVyagKxx2IES0e0grsy8PdTng700/L7r+qoH3zyPmf1ZziVpWPKjMmirwgqKn8kQEaPE9wORu+nqNigEmRlOwcbeysWLpnP6jUuanLl/oMemptvUHWtUk04/r23yMnLJiklno8+syA6JpJs/SnesTCnutbI5SsXaGiswyDM+wX6sEUUMW68GW++O464hKOvWNZlJBGfGMvFS6XqSCucHcg6nUFpWbHKsLunG+PMzbh69TIN1+sFiir133ZfDe5r3UTcrwSvYvjo8UPp7iepXMZFEXBBYa6qp7Fvj0Xjs1U0Z82ETycQI8B3dNympLRIVvOEOv60mVNZsHi+mjw2Lgb/YF+UwWeDPHhwT+wvcS5QEwaHBgg504TNpfgH+hG2ZyddXXe4L37Nv93gyg/lssuJsqJfCnZu1DVUczj2kDqlMvRsiCciHZN8urs7uftnN603W0SXtxgaGpTFHKW9vY0+2fmBgac8f/6Mvr5eenrucfdul3Tdzj25t7XfpuNOB8rw8DAjo6OMSOD/z8vREf4RWf13N9nwyEvV93Xv0dee/wLlSiNohd8qTQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;lumitype&quot;
+        title=&quot;lumitype&quot;
+        src=&quot;/learn.interaction/static/2518163826029666f8702c35ec7f8eb3/79a4a/lumitype.png&quot;
+        srcset=&quot;/learn.interaction/static/2518163826029666f8702c35ec7f8eb3/44727/lumitype.png 450w,
+/learn.interaction/static/2518163826029666f8702c35ec7f8eb3/fea0e/lumitype.png 900w,
+/learn.interaction/static/2518163826029666f8702c35ec7f8eb3/79a4a/lumitype.png 1800w,
+/learn.interaction/static/2518163826029666f8702c35ec7f8eb3/326d5/lumitype.png 2042w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Adrian Frutiger mit Lumitypescheibe&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Optische Korrekturen&lt;/h3&gt;
+&lt;p&gt;Um trotz einer leichten Unschärfe, beim Belichten der Negativvorlagen auf den Film, möglichst scharfe Ecken zu erhalten durden diese im Schriftentwurf überhöht.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1540px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/20c164c3924913ff41cffc3178f40a4c/cfb56/toshi_unica.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.01298701298701%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAZpUOmwP/8QAGxAAAgIDAQAAAAAAAAAAAAAAAgQBAxEiMyP/2gAIAQEAAQUCZu2x5U8mhgbWRgAW4f/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAIBBQEAAAAAAAAAAAAAAAACARIhIjFhI//aAAgBAQAGPwKlGtwX2jeyMqulhIUU/8QAHBAAAwACAwEAAAAAAAAAAAAAAAERITFhkaHw/9oACAEBAAE/IXNMBvkVostn0fEUwLKqxNEVbPCf/9oADAMBAAIAAwAAABCTD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExoVFxscH/2gAIAQEAAT8QbiA7otcPrHRNoqbo6fuWGhR1VNnzvI2DnrVW4qhUFu0LnafXP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;toshi unica&quot;
+        title=&quot;toshi unica&quot;
+        src=&quot;/learn.interaction/static/20c164c3924913ff41cffc3178f40a4c/cfb56/toshi_unica.jpg&quot;
+        srcset=&quot;/learn.interaction/static/20c164c3924913ff41cffc3178f40a4c/df2c7/toshi_unica.jpg 450w,
+/learn.interaction/static/20c164c3924913ff41cffc3178f40a4c/2d017/toshi_unica.jpg 900w,
+/learn.interaction/static/20c164c3924913ff41cffc3178f40a4c/cfb56/toshi_unica.jpg 1540w&quot;
+        sizes=&quot;(max-width: 1540px) 100vw, 1540px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Vorlage für Haas Unica mit optischen Korrekturen&lt;br&gt;
+Quelle: &lt;a href=&quot;https://www.monotype.com/resources/articles/new-from-old-the-why-and-how-of-reviving-a-typeface/&quot;&gt;Monotype&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Rubbelbuchstaben (Lettraset)&lt;/h2&gt;
+&lt;p&gt;Vor allem in Grafik-Studios konnte man sich keine Satzanlagen leisten. Somit wurden – vor allem für Poster und Headlines – Rubbelbuchstaben verwendet. Diese wurden dann später reprografisch für den Offsetdruck aufbereitet.&lt;/p&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to6&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 900px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/b7220143a500620400d664b36e241cbc/2d017/20100917SAWG_fg02a.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.88888888888889%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAXjRnGphSH//xAAbEAABBQEBAAAAAAAAAAAAAAABAAIDETEEE//aAAgBAQABBQJxpeyEil3o1pNf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BJ//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/Aaf/xAAaEAACAgMAAAAAAAAAAAAAAAAAARAxESJR/9oACAEBAAY/AqFrhvpQhR//xAAbEAADAAIDAAAAAAAAAAAAAAAAAREhUTFBgf/aAAgBAQABPyF8SqO1TJWBkynh1NCx+0Ncj//aAAwDAQACAAMAAAAQuC//xAAVEQEBAAAAAAAAAAAAAAAAAAABAP/aAAgBAwEBPxACM3//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QUJbf/8QAGxAAAgMBAQEAAAAAAAAAAAAAAREAIUGRofH/2gAIAQEAAT8QUnQJTRKwRATgJfYWV56qPYSp2aOeFx2IMFO79n//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;20100917SAWG fg02a&quot;
+        title=&quot;20100917SAWG fg02a&quot;
+        src=&quot;/learn.interaction/static/b7220143a500620400d664b36e241cbc/2d017/20100917SAWG_fg02a.jpg&quot;
+        srcset=&quot;/learn.interaction/static/b7220143a500620400d664b36e241cbc/df2c7/20100917SAWG_fg02a.jpg 450w,
+/learn.interaction/static/b7220143a500620400d664b36e241cbc/2d017/20100917SAWG_fg02a.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Quelle: &lt;a href=&quot;https://creativepro.com/scanning-around-gene-when-letraset-was-king/&quot;&gt;CreativePro&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7to12&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 900px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/64526bea38fead4a67e69d42bf8088de/2d017/20100917SAWG_fg03a.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.22222222222221%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHsTIjRMT//xAAZEAEAAwEBAAAAAAAAAAAAAAABAAIDERP/2gAIAQEAAQUCjoT1m86jeqW//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AYx//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAES/9oACAECAQE/Aa0//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAERITFBUXH/2gAIAQEABj8CIzosIU8KM//EABoQAQEBAQADAAAAAAAAAAAAAAERAEFRYZH/2gAIAQEAAT8hdShoL5TS9/dUhmCiHj1kwQb/2gAMAwEAAgADAAAAEJPf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EALjKG//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QSGkBL//EABwQAAICAwEBAAAAAAAAAAAAAAERACExQXFRgf/aAAgBAQABPxA0qN7VDsPHG1voJmcKmGoUESUcwGZJFNtp+VM7Soif/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;20100917SAWG fg03a&quot;
+        title=&quot;20100917SAWG fg03a&quot;
+        src=&quot;/learn.interaction/static/64526bea38fead4a67e69d42bf8088de/2d017/20100917SAWG_fg03a.jpg&quot;
+        srcset=&quot;/learn.interaction/static/64526bea38fead4a67e69d42bf8088de/df2c7/20100917SAWG_fg03a.jpg 450w,
+/learn.interaction/static/64526bea38fead4a67e69d42bf8088de/2d017/20100917SAWG_fg03a.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Licht- &amp;#x26; Lasersatzsysteme&lt;/h2&gt;
+&lt;p&gt;Die dritte Generation im Fotosatz brachte ab etwa 1965 Belichtungssysteme, die auf Kathodenstrahlröhre oder Laser basierten. Dabei wurde Zeilenweise ein fotografischer Film verwendet belichtet und die Kathodenstralröhre diente als kontrollierte Lichtquelle. Somit konnten auch aus der EDV-Verarbeitung digitale Signale analog ausgegeben werden.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/4048a9fd40e603fe349f0af07a147555/38000/crt2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 76.21167161226508%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsSAAALEgHS3X78AAAB8UlEQVQoz4VSaW/TQBT0//8NfESID4AKqrCEhGiMCJTWiWPTHL7Pxoljr2tvvL7Ny25rRSrHSF5Zb3fezpsdrqHI89wwDMdxDoeD53llWQ5P6Pse1rZt0zRNkiSKoqqq2Bbn+77ruqZprlarCUWKECOcA7rDGbgGuiQURVFwtm3DHkLI0PUC59mxWBsmnBhp+/0+DMMgCOAMrLvdDopxHMM/Z1lWnmWwVk1zOlsRa/oVpemoGcZRVTWicFw3ThAwQUWWZRz0gz0YtQ+ch7cvi1cvNP4DPh4Zk+mHXce2SV0POGvjKMUYhgXlXEnItSjiH5P8/et6KTfLhSbNOyB1XUO1dF0Ha1kS03U9SdwqUlaQnhY5+L5Pp1vfO1k6DJquo/lNqa9B7UycBb7/aDjVQByzTQ7jE3C0a7nRNDBMXa9hHqjYsuTZ1lySRGmR0vnZVZWpdjhjZjyS2TMSQkaTNdP6eXvblCRcKg59jpPtUXTNXwaug1DKgsCdJ2H8ATMEQbjfbuVPfLVcdEXBbPvy7o1PI8Ts4IZnGPkQm6brepyXC7EKXCg2m7v+LAJ/IDMQinG8/t57kGeh8NnUdUVR2B1/JZ+jrmtRVpTpt1+XFx95HhLyH/KYkJPaphEmVzfi7G6jsnj2/5b9HBjj4il5rPIbnohO0OQbCpgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;crt2&quot;
+        title=&quot;crt2&quot;
+        src=&quot;/learn.interaction/static/4048a9fd40e603fe349f0af07a147555/79a4a/crt2.png&quot;
+        srcset=&quot;/learn.interaction/static/4048a9fd40e603fe349f0af07a147555/44727/crt2.png 450w,
+/learn.interaction/static/4048a9fd40e603fe349f0af07a147555/fea0e/crt2.png 900w,
+/learn.interaction/static/4048a9fd40e603fe349f0af07a147555/79a4a/crt2.png 1800w,
+/learn.interaction/static/4048a9fd40e603fe349f0af07a147555/38000/crt2.png 2022w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Quelle: &lt;a href=&quot;https://kosamari.com/presentation/bangbangcon-2016/#44&quot;&gt;kosamari.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Erste WYSIWYG-Systeme&lt;/h3&gt;
+&lt;p&gt;Die ersten Systeme der digitaler Satzherstellung hatten noch keine grafische Ausgabe. Die Satzanweisungen wurden ohne visuelle Kontrolle in den Computer eingegeben. Erst säter wurden so genannte WYSIWYG-Monitore (what you see is what you get) entwickelt, die noch vor der Ausgabe eine visuelle Kontrolle der Typografie ermöglichten.&lt;/p&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to6&quot;&gt;
+&lt;h4&gt;Digiset-System ohne Monitor&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/6afc2e3dffc84cec0d3207b935315a41/a111b/digise1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.69230769230769%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGLWw5hw//EABsQAQABBQEAAAAAAAAAAAAAAAERAAIQEiEz/9oACAEBAAEFAtxZ5N1Hm4//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARARMTKB/9oACAEBAAY/AqVmOGop/8QAHBABAQACAgMAAAAAAAAAAAAAAREAQSAhMWGB/9oACAEBAAE/ISQdtzGaGoyjz7y+p94H/9oADAMBAAIAAwAAABDDz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQADAAIDAAAAAAAAAAAAAAEAETEhoUFRcf/aAAgBAQABPxA+lRpUL+sZeYxSiYR8Td6tHadUmI7P/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;digise1&quot;
+        title=&quot;digise1&quot;
+        src=&quot;/learn.interaction/static/6afc2e3dffc84cec0d3207b935315a41/a111b/digise1.jpg&quot;
+        srcset=&quot;/learn.interaction/static/6afc2e3dffc84cec0d3207b935315a41/df2c7/digise1.jpg 450w,
+/learn.interaction/static/6afc2e3dffc84cec0d3207b935315a41/a111b/digise1.jpg 650w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/f6e6db5c8aee6eb00cd27d76b37d6c27/a111b/digise2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.76923076923077%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAb25LCB//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECAxARIf/aAAgBAQABBQKuPGaQs//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAABAiAxUf/aAAgBAQAGPwJPpkTaf//EABsQAQACAgMAAAAAAAAAAAAAAAEAESFREEGR/9oACAEBAAE/IbLuBEBnwi7dJr1qJx//2gAMAwEAAgADAAAAEMDP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAMBAAMBAAAAAAAAAAAAAQARIUExUZGh/9oACAEBAAE/EHTugpX27+Q4YMt1GIK9o8E45DXBsLGj5Os//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;digise2&quot;
+        title=&quot;digise2&quot;
+        src=&quot;/learn.interaction/static/f6e6db5c8aee6eb00cd27d76b37d6c27/a111b/digise2.jpg&quot;
+        srcset=&quot;/learn.interaction/static/f6e6db5c8aee6eb00cd27d76b37d6c27/df2c7/digise2.jpg 450w,
+/learn.interaction/static/f6e6db5c8aee6eb00cd27d76b37d6c27/a111b/digise2.jpg 650w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Quelle: &lt;a href=&quot;http://51666937.de.strato-hosting.eu/Produkte/Digiset/digiset400t1.htm&quot;&gt;Hell Verein Kiel&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7to12&quot;&gt;
+&lt;h4&gt;Scantext mit WYSIWYG&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/80436b8aea8711d9eb342ea14bb40aac/3836f/9013683843_df249dd8b6_o.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.55995538204128%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABp2iXNeTh/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxIRIv/aAAgBAQABBQJWraee2FO5yEuONif/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAADAAMBAAAAAAAAAAAAAAAAARECITFR/9oACAEBAAY/ApjBrw1BtLEfKah//8QAGhABAAMBAQEAAAAAAAAAAAAAAQARIUExUf/aAAgBAQABPyFixdnEMW5Emzz5A+RWNTWfMyWhQfSuz//aAAwDAQACAAMAAAAQ1N//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMUFRYYHR8P/aAAgBAQABPxBytBidXnN9rJZgecXBCGRuvrLi0uH6zVbQQl7D+7xVpxomUrv5z//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;9013683843 df249dd8b6 o&quot;
+        title=&quot;9013683843 df249dd8b6 o&quot;
+        src=&quot;/learn.interaction/static/80436b8aea8711d9eb342ea14bb40aac/98235/9013683843_df249dd8b6_o.jpg&quot;
+        srcset=&quot;/learn.interaction/static/80436b8aea8711d9eb342ea14bb40aac/df2c7/9013683843_df249dd8b6_o.jpg 450w,
+/learn.interaction/static/80436b8aea8711d9eb342ea14bb40aac/2d017/9013683843_df249dd8b6_o.jpg 900w,
+/learn.interaction/static/80436b8aea8711d9eb342ea14bb40aac/98235/9013683843_df249dd8b6_o.jpg 1800w,
+/learn.interaction/static/80436b8aea8711d9eb342ea14bb40aac/b94e1/9013683843_df249dd8b6_o.jpg 2700w,
+/learn.interaction/static/80436b8aea8711d9eb342ea14bb40aac/3836f/9013683843_df249dd8b6_o.jpg 3586w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/e746e87979b7fee84b28372f91319ab6/7c4f7/9014869362_f3b6fa1689_o.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.46578194119178%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAc1MhKH/xAAaEAEAAgMBAAAAAAAAAAAAAAABAAIREhMU/9oACAEBAAEFAkvlLyo44LPOs56T/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAgEEAwAAAAAAAAAAAAAAAAERAhAhMVFxkf/aAAgBAQAGPwJ79F1yZJmkWVq3/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFBYXGx/9oACAEBAAE/IcA09ZfIt+OfA2jL6dNLIu69OJbKlu5P/9oADAMBAAIAAwAAABAk7//EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oACAEDAQE/EEf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEBAQADAAMAAAAAAAAAAAABESEAMUFhccH/2gAIAQEAAT8QppKMCzJC5xNSC5l23d83lpFV7BPsvt4zEEJdsY8zIDe+y9fG8YnfFgefnP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;9014869362 f3b6fa1689 o&quot;
+        title=&quot;9014869362 f3b6fa1689 o&quot;
+        src=&quot;/learn.interaction/static/e746e87979b7fee84b28372f91319ab6/98235/9014869362_f3b6fa1689_o.jpg&quot;
+        srcset=&quot;/learn.interaction/static/e746e87979b7fee84b28372f91319ab6/df2c7/9014869362_f3b6fa1689_o.jpg 450w,
+/learn.interaction/static/e746e87979b7fee84b28372f91319ab6/2d017/9014869362_f3b6fa1689_o.jpg 900w,
+/learn.interaction/static/e746e87979b7fee84b28372f91319ab6/98235/9014869362_f3b6fa1689_o.jpg 1800w,
+/learn.interaction/static/e746e87979b7fee84b28372f91319ab6/b94e1/9014869362_f3b6fa1689_o.jpg 2700w,
+/learn.interaction/static/e746e87979b7fee84b28372f91319ab6/0d528/9014869362_f3b6fa1689_o.jpg 3600w,
+/learn.interaction/static/e746e87979b7fee84b28372f91319ab6/7c4f7/9014869362_f3b6fa1689_o.jpg 3843w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Quelle: &lt;a href=&quot;https://www.flickr.com/photos/albert-jan_pool/sets/72157634061121533&quot;&gt;Albert-Jan Pool&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Fonts werden Digital&lt;/h3&gt;
+&lt;p&gt;Die digitalisierung der Schrift erforderte eine Umsetzung der Schriftform in ein fixes gefügtes zweidimensionales Raster. Aus heutiger Sicht könnte man von einem Pixelraster sprechen. Auch wenn damals noch eher in Linien gedacht wurde.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1080px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/4e774bdbf6a5254abb960ae5e74f65b9/b4133/pixel.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECBAUD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAehHhSOsoM0hoB//xAAbEAEBAQACAwAAAAAAAAAAAAABAgMABBESIf/aAAgBAQABBQKm3QpNTlX7b+ZOzKJWcWuUIfD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAeEAACAgICAwAAAAAAAAAAAAABEQACECESEzFRsf/aAAgBAQAGPwJDVfc4N6x1tD7Kiq8RiOwcANRrH//EABsQAQADAAMBAAAAAAAAAAAAAAEAETEhQWFx/9oACAEBAAE/IcLZdO4PVbbnSYjdBW1viFLAMfsvZY9wxZETAMeQlBk//9oADAMBAAIAAwAAABAgEL//xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAwEBPxBj/8QAFREBAQAAAAAAAAAAAAAAAAAAESD/2gAIAQIBAT8QI//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExQVGB/9oACAEBAAE/EL/NwqVeF6lsNg0EONR2r9mY4XlSeHhHAogcbd6w2dWB2Gi0VmlGWq+IIGhgDk//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;pixel&quot;
+        title=&quot;pixel&quot;
+        src=&quot;/learn.interaction/static/4e774bdbf6a5254abb960ae5e74f65b9/b4133/pixel.jpg&quot;
+        srcset=&quot;/learn.interaction/static/4e774bdbf6a5254abb960ae5e74f65b9/df2c7/pixel.jpg 450w,
+/learn.interaction/static/4e774bdbf6a5254abb960ae5e74f65b9/2d017/pixel.jpg 900w,
+/learn.interaction/static/4e774bdbf6a5254abb960ae5e74f65b9/b4133/pixel.jpg 1080w&quot;
+        sizes=&quot;(max-width: 1080px) 100vw, 1080px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Linienbildung bei der Belichtung mit Kathodenstrahlröhre (CRT)&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Nadeldrucker&lt;/h2&gt;
+&lt;p&gt;Auch heute können noch Nadeldrucker problemlos gekauft werden.&lt;/p&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to6&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/6babb5ce74ba3681de0999a26fb218e3/Nadeldrucker_Prinzip.svg&quot;&gt;
+&lt;em&gt;Quelle: &lt;a href=&quot;https://de.wikipedia.org/wiki/Nadeldrucker&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7to12&quot;&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/d0e0eca5bbca61de4c704ee202eab60d/d7d8f/EpsonFX-2190.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAG/HoTJWF//xAAZEAEAAwEBAAAAAAAAAAAAAAACAAEDBBL/2gAIAQEAAQUC31VQ9KgXo3mbixUzFZn/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAADAAIDAAAAAAAAAAAAAAAAARECcSExQf/aAAgBAQAGPwKYJ7PGUvTOI9kR/8QAHRAAAgIBBQAAAAAAAAAAAAAAAAEhQVERMWGBsf/aAAgBAQABPyGslypa7Ba486MeuWRDnjbCTNluz//aAAwDAQACAAMAAAAQvw//xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAwEBPxCn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAQACAwEAAAAAAAAAAAAAAREAITFBUWH/2gAIAQEAAT8QQ7KLQnWFI0OhHBU2mlI+YZKGqzec4W6Qv1jFO15C9z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;EpsonFX 2190&quot;
+        title=&quot;EpsonFX 2190&quot;
+        src=&quot;/learn.interaction/static/d0e0eca5bbca61de4c704ee202eab60d/98235/EpsonFX-2190.jpg&quot;
+        srcset=&quot;/learn.interaction/static/d0e0eca5bbca61de4c704ee202eab60d/df2c7/EpsonFX-2190.jpg 450w,
+/learn.interaction/static/d0e0eca5bbca61de4c704ee202eab60d/2d017/EpsonFX-2190.jpg 900w,
+/learn.interaction/static/d0e0eca5bbca61de4c704ee202eab60d/98235/EpsonFX-2190.jpg 1800w,
+/learn.interaction/static/d0e0eca5bbca61de4c704ee202eab60d/d7d8f/EpsonFX-2190.jpg 2400w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Quelle: Epson&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Nadeldrucker fanden vor allem mit dem Aufkommen von Heimcomputern ab den 1980er Jahren weite Verbreitung. Das Verfahren ist simpel und durch den mechanischen Druck konnten auch Durchschlagpapiere verwendet werden. Für die grafische Branche spielte der Nadeldrucker keine wesentliche Rolle, da die Qualität zu gering war.&lt;/p&gt;
+&lt;h3&gt;Schriftbild&lt;/h3&gt;
+&lt;Margin&gt;
+&lt;p&gt;Die Anzahl Nadeln ergibt die Auflösung der Schriftzeichen.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 145px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/1a5d71c7a65f44992c7c1dc4206508d6/09833/5x8matrix.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 146.20689655172413%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAdCAIAAAAl5NuSAAAACXBIWXMAAAsSAAALEgHS3X78AAAD5UlEQVQ4y3WVSyisYRjHv7K0YEchOxZ2bJWmLEgUi0kkl5SyQCkLZUES5b5gMRm3JBGG3Oa43++XGZRbiAm5hHEvl5/zfOcbo84sznm/93n//+f/PM//fSl//v2GhobMZrMs+LEYHh6enJyU6ODg4K8oP0VDTk1NjY6OcmhsbAyM+e+vsbFxZGTkZ3R8fHxiYkLwirDOz89/fn5eXV2R7fb29u3tbW1tLTY2VlGUjIyM7e3tj4+P8/NziB4fH19fX2EH7wATBsyngFdXV+Pi4gBnZmYK+OzsDPDDw4MTWPDoEf0zMzOzs7OIZKetrQ3BAwMDEmUBXvSrsgHAdHl5ub+/j+zo6OigoKD+/v78/PyAgICysrKlpSWiOzs7dOHk5AQJ4FkrnIZveXmZmqmnt7fXw8MDtUajERYWCQkJkBK9ubkhPxVRAupU2XBAcXh4uL6+DmV5eXlubi7nOjs7CwoK+vr6iK6srExPT0t3FhcX1W4Lkt20tLTi4mLAW1tbEDGw5uZmWt3R0QERmwsLCxxjChsbGzJzRTpUUlKCQl9fX3ZfXl4QZrVaQ0ND2YyPjz84OBDZTBjZrOkoRN+ZydbV1aXT6dLT00lIY46PjxEJY0hISG1t7dzcnM1m29zcJBNER0dH9Py7YVIzHxQswjSHQdrQ0EA2NhkYZ2RmsuNwGDARJh5CNoVFRkYiOzU1dXd3V/wHHQ55f39Hl8Nh1EAxGJBPDoGnvcnJyS4uLjk5OdRP9PT0VMxLVOzt5DBpO8lRTowT7e3tPx0m0d8O4wSU9IlSyUByCsnOzvb29i4sLMTnRGkVh1FHFPbfDru7u4NVarZYLOHh4dSclJS0t7dH9Pr6Ggw1OzlMGo5vRCHNwEaQYtXS0lIxE1FGIN1hco77LKNivMgjTJ+5gxRsMBgSExNbWlqAEUUdUZpHVH1JRDa9Rdj9/T2NeXp6Yq05jFv9X4dJZorBNwDYgpjTlFBVVRUVFVVXV0eFRFGEWiTIzXV6wyAjLWDoOS2Dqamp4RzsREkgVhOHqLLZ4rojhnlo3SZPREQEslNSUjSHad12OIz/+Hh+fsb9rC8uLux2O+3lnri5ueXl5XENiYoLGBitUecsNZMQGCpYCB0LxPf09CBYXl8tKue/wexSKu+zp6dnWFgY54KDg318fLq7u7OyslxdXYuKioi6u7vHxMSADAwM9PPz45EBr4jmiooKyvP398cYXl5erJuamvR6PQsoJMqraDKZYOG2EKWvDtmVlZW8O0itr6+vrq7GGBzlPcAFRHlDW1tbSYNzGAFi1ZoFD5NUzr9y47S/VXLDpHJaBVJG9QWL+NHxL7K5PAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;5x8matrix&quot;
+        title=&quot;5x8matrix&quot;
+        src=&quot;/learn.interaction/static/1a5d71c7a65f44992c7c1dc4206508d6/09833/5x8matrix.png&quot;
+        srcset=&quot;/learn.interaction/static/1a5d71c7a65f44992c7c1dc4206508d6/09833/5x8matrix.png 145w&quot;
+        sizes=&quot;(max-width: 145px) 100vw, 145px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/b723f827e0273217a48c5ef742985b35/nadel_ink.gif&quot;&gt;
+&lt;em&gt;links: Nadeldrucker, rechts: Tintenstrahldrucker&lt;br&gt;
+Quelle: &lt;a href=&quot;http://www.dma.ufg.ac.at/app/link/Hardware%3AAusgabe/module/10161?step=2&quot;&gt;Digital Media for Artists&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Ikarus&lt;/h2&gt;
+&lt;p&gt;Im Jahr 1975 wurde von der Firma URW ein System namens Ikarus eingführt damit war es möglich mit einem für den Benutzer relativ einfachen System eine Aussenlinie eines Fonts zu beschreiben. Das System wird bis heute weiter entwickelt und viele hochwertige fonts wurden in den 1980–1990er Jahren mit diesem System gemacht.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/82013261&quot;&gt;Making Faces: Metal Type in the 21st Century (nur Trailer)&lt;/a&gt; (Zeitmarke: 12:15 im Originalfilm)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 560px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/08c1f7c577b8f2c60f063fc183234f1d/ae25f/Index_News_Nov_1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHvRJbBmBsH/8QAFRABAQAAAAAAAAAAAAAAAAAAIAH/2gAIAQEAAQUCEP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwIf/8QAGhAAAQUBAAAAAAAAAAAAAAAAEAABESFBMf/aAAgBAQABPyEzDKmQMTX0f//aAAwDAQACAAMAAAAQ+C+C/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAGxAAAgMBAQEAAAAAAAAAAAAAAREAITEQUUH/2gAIAQEAAT8QGTUWXMh0leRBthP3hG/JfZq+f//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Index News Nov 1&quot;
+        title=&quot;Index News Nov 1&quot;
+        src=&quot;/learn.interaction/static/08c1f7c577b8f2c60f063fc183234f1d/ae25f/Index_News_Nov_1.jpg&quot;
+        srcset=&quot;/learn.interaction/static/08c1f7c577b8f2c60f063fc183234f1d/df2c7/Index_News_Nov_1.jpg 450w,
+/learn.interaction/static/08c1f7c577b8f2c60f063fc183234f1d/ae25f/Index_News_Nov_1.jpg 560w&quot;
+        sizes=&quot;(max-width: 560px) 100vw, 560px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Zeichnung für die DLT Dorian mit den für Ikarus typischen Markierungen die für die digitale Erfassung nötig sind.&lt;br&gt;
+Quelle: &lt;a href=&quot;https://www.dutchtypelibrary.nl/index_desktop.html&quot;&gt;Dutchtypelibrary&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Apple und TrueType&lt;/h2&gt;
+&lt;Margin&gt;
+&lt;h3&gt;Quadratische Kurve (TrueType)&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/e40165c7c4d059db8c913daecf337d85/bezier_2_big.gif&quot;&gt;
+&lt;em&gt;Quelle: &lt;a href=&quot;https://en.wikipedia.org/wiki/B%C3%A9zier_curve&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1140px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/814500fab95efb3a3727d5ed7f0e504f/a7625/retouchphoto_apple_macintosh_1984_high_res_clean-1140x640.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.14035087719298%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABccUUBqZi/wD/xAAbEAADAAIDAAAAAAAAAAAAAAABAgMABCEiM//aAAgBAQABBQKvnrt3y3LzAyYCr//EABYRAAMAAAAAAAAAAAAAAAAAABARQf/aAAgBAwEBPwFUf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABsQAAIBBQAAAAAAAAAAAAAAAAABEQIQIUFx/9oACAEBAAY/Aqhy9WZ3BCP/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAxcSH/2gAIAQEAAT8hSMMZ3J1/WET43dHEgHVeaKYXf//aAAwDAQACAAMAAAAQa8//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBCkf/EABYRAAMAAAAAAAAAAAAAAAAAABARQf/aAAgBAgEBPxBwf//EABoQAQEAAwEBAAAAAAAAAAAAAAERACExUUH/2gAIAQEAAT8Q+TIcTGgg22mbyyIejcMFpZLqYqCHP6tzI13MPc//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;retouchphoto apple macintosh 1984 high res clean 1140x640&quot;
+        title=&quot;retouchphoto apple macintosh 1984 high res clean 1140x640&quot;
+        src=&quot;/learn.interaction/static/814500fab95efb3a3727d5ed7f0e504f/a7625/retouchphoto_apple_macintosh_1984_high_res_clean-1140x640.jpg&quot;
+        srcset=&quot;/learn.interaction/static/814500fab95efb3a3727d5ed7f0e504f/df2c7/retouchphoto_apple_macintosh_1984_high_res_clean-1140x640.jpg 450w,
+/learn.interaction/static/814500fab95efb3a3727d5ed7f0e504f/2d017/retouchphoto_apple_macintosh_1984_high_res_clean-1140x640.jpg 900w,
+/learn.interaction/static/814500fab95efb3a3727d5ed7f0e504f/a7625/retouchphoto_apple_macintosh_1984_high_res_clean-1140x640.jpg 1140w&quot;
+        sizes=&quot;(max-width: 1140px) 100vw, 1140px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Als Apple den Macintosh 1984 auf den Markt brachte, war eine von vielen Erneuerungen, dass der Benutzern die Wahl zwischen verschiedenen Schriften hatte. Nebst Monospace-Schriften gab es auch proportionale Schriften, was für diese Zeit unüblich war. Die Anzahl Fonts waren jedoch noch stark begrenzt und bis 1991 unterstützte der Macintosh nur Bitmap-Fonts, also aus einzelnen Bildern bestehe Schriften.
+Mit der Einführung von MacOS System 7 im Mai 1991 brachte Apple mit dem neu entwickelten TrueType-Schriftformat (Quadratische Funktion) zum ersten mal Vektor-Fonts auf den Massenmarkt. Von nun an konnten Fonts beliebig skalliert werden und die passende Darstellung für den Bildschirm wurde aufgrund der Vektordaten errechnet.
+Die TrueType-Technologie wurde später auch an Microsoft lizenziert.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 381px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/c175873c01a1d9815aeb5724dfe2c3a5/e37cd/Original_Mac_fonts.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.20472440944882%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsTAAALEwEAmpwYAAABp0lEQVQozz3S2WpiQRAG4PP+b+GloOCVeiFiIBAVVFQkaAaXjNu4aybuJPN5mkxdNNXd9S9V3dGvnxgOh/1+f7Va/Y3jcDh8fn5Op9P9fv/x8WE7Go3G47H1dxyLxSICaDabtVrt/f19MBgoOp/Pu93ucrmA2R6PRyy2f+LYbDa41uu1wwiyWCym0+l8Pp9IJFKpVL1eLxQKpVIpmUxiwVsul0ndbrdsNvv29kZfDbGIMQYUocRH9jsOUqEF4hydTqf5fE7JITy/riIEmDZxcPL9E9fr1dXz83O3261UKi8vL7lcLpPJtFot541G436/R5hmsxmkDW8UaAITZETb2+0WaWiVc7kaW7OITK9areLudDpPT0/8t9vtyWRCeblc6ggFw3IrPC5IT/MYmH6U2jD/9fXFyDgOyhTQc8SIK6uJLOOAxx6xShwrh45Cw6FU8IkCkRND4g4vvV6v9+gZjLHwgFgoyz2BYVrDK7BqEHz6SwYEgghvxANi1+qwmKQ8/I1gW9uqw+cJeZjFAxw09QxmHnKa/51T09vr66s/49nCX5R4Obz/AOeHjFFI8cuQAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Original Mac fonts&quot;
+        title=&quot;Original Mac fonts&quot;
+        src=&quot;/learn.interaction/static/c175873c01a1d9815aeb5724dfe2c3a5/e37cd/Original_Mac_fonts.png&quot;
+        srcset=&quot;/learn.interaction/static/c175873c01a1d9815aeb5724dfe2c3a5/e37cd/Original_Mac_fonts.png 381w&quot;
+        sizes=&quot;(max-width: 381px) 100vw, 381px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Fonts von Susan Kare für Apple Macintosh entwickelt.&lt;br&gt;
+Quelle: &lt;a href=&quot;https://en.wikipedia.org/wiki/Susan_Kare#/media/File:Original_Mac_fonts.png&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 596px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/ee7cb49d7bcc09a1f74cb904397fd24a/67e88/3065804-inline-i-1-how-apple-helped-democratize-type.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.58389261744966%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAAAAAAD6AF+hNEZAAACYklEQVQ4y21TS0uyYRDt7xi2ULPQsI3dbFHb/kWLNu1Ughbuy2pjRKALMTHtqqhYVtrFbop2sygvmYWKUKvzcSa6fy+M88w8w3nOnBlbNBoNenp6YDKZ0N/fj4GBAfT19Ynv7e2VXHd3N9ra2mAwGCQeHBzE0NCQ2PDwMIxGI1QqFYjV0tnZCbvdjoWFBczNzcHhcEg8Pz+PqakpLC0tYXp6GiMjI1hcXES5XMbOzg68Xq/cbW5uwmazyYPt7e1oIfLs7Cy2trawtraG1dVV8R6PR3w4HEYymUQikcDDwwNeX18RDAbhdDoRCATg8/kwOjoKpVL5DkiGZBWPx/H4+IhGoyFAKysr2N7eFru/v5d4fX1d7pnb2NjA8vKygJvNZigUCmi12ndAvnJ8fIyTkxNcXFwgl8vh/PxcztlsVjzbc7lcAr67u4ujoyOpowQWi+ULsKOjQ15m4fX1NU5PT5FKpaQ4nU5/GnN7e3u4vb0VHwqFEIlEcHV1BavV+pchNTo7O0M+nxcwWiaTEYalUknOl5eX4FcsFhGNRkV31v1hyEmRHcHq9bqIT5BKpYJarSYsxsfHMTk5KWxmZmbw/fvBkJOhyM1mE09PT2IEq1arAkh/d3cn4rvdbjw/P0tM5mT68vLyE5AM/X4/9vf3EYvFxNg+B0RP/Q4ODmQL+DDjw8NDuaPehULhZ8v8oRZsjcw4tQ+mXCMOgUzJjHdkR//29vbZ8sTExBegWq2WZSbYzc2NAFBL2vfz9xyNtdSd2zE2NobW1tb3xSagTqdDV1cX9Hq9GM8f8f/yv42yEYf/5X/qGO8PBZ9RZwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;3065804 inline i 1 how apple helped democratize type&quot;
+        title=&quot;3065804 inline i 1 how apple helped democratize type&quot;
+        src=&quot;/learn.interaction/static/ee7cb49d7bcc09a1f74cb904397fd24a/67e88/3065804-inline-i-1-how-apple-helped-democratize-type.png&quot;
+        srcset=&quot;/learn.interaction/static/ee7cb49d7bcc09a1f74cb904397fd24a/44727/3065804-inline-i-1-how-apple-helped-democratize-type.png 450w,
+/learn.interaction/static/ee7cb49d7bcc09a1f74cb904397fd24a/67e88/3065804-inline-i-1-how-apple-helped-democratize-type.png 596w&quot;
+        sizes=&quot;(max-width: 596px) 100vw, 596px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;MacOS 1 startete bereits mit diversen vorinstallierten Schriften&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 596px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/8920885270c4fe6ef8677f48f90a1781/67e88/3065804-inline-i-2-how-apple-helped-democratize-type.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAAAAAAD6AF+hNEZAAAB50lEQVQ4y61Uu6pqQQzdjQ+wELERRBAV350glqKNIAoKYm1lZauFnYKtoOgP2FkognZqpeL7/ficdUkuM3fruZzTnCJ7MjMrK8kk2cp+v8dvikKf3W4HsX7K5/n/cGoORSjb7VYeCgCdqQkETmBp3Ww2b6SKAF0uFxZBeDwecb1evzi53+94Pp8STzphZYRERob9fh8+nw8WiwU2mw1erxetVosJRFSkN5tNOJ1O2O12OBwO5PN5LJdLHA6HvxESkLyEw2G43W40Gg1ks1koioJgMMjeCXM6nTCbzaDVapFIJFCr1eByuRhXKpXwer04fZnyaDTCYDDAYrFAt9tlIEUs3pGI5/M52u02ptMpZ1UsFhmXyWTweDwYqxArbTqdDgwGAwMoClr9fr8kJBylXC6XodFoWPR6/VdCyvt8PiMUCvFlpVKREQYCAVlRKsBwOORzkl6vJyPM5XL/COlzu90Qi8X4MplMIpVKsU5vKgjJ6WQygU6n47tqtYpIJMJ6Op1mQn5D0TLj8RjxeBxGoxEej4erHY1G31Imx/V6HVarFWazmatsMplQKBRkN8hJoQjIgAypouv1mkU9VqIPqUXImAq1Wq3YRjb25wSIflKTqPfiCQhHe7G+jd53s/zT3SdG+e2/zR87I3Ah78DB3QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;3065804 inline i 2 how apple helped democratize type&quot;
+        title=&quot;3065804 inline i 2 how apple helped democratize type&quot;
+        src=&quot;/learn.interaction/static/8920885270c4fe6ef8677f48f90a1781/67e88/3065804-inline-i-2-how-apple-helped-democratize-type.png&quot;
+        srcset=&quot;/learn.interaction/static/8920885270c4fe6ef8677f48f90a1781/44727/3065804-inline-i-2-how-apple-helped-democratize-type.png 450w,
+/learn.interaction/static/8920885270c4fe6ef8677f48f90a1781/67e88/3065804-inline-i-2-how-apple-helped-democratize-type.png 596w&quot;
+        sizes=&quot;(max-width: 596px) 100vw, 596px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Mit MacOS 7 gab es die Möglichkeit anstatt Bitmaps Vektoren zu verwenden.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Adobe und PostScript&lt;/h2&gt;
+&lt;Margin&gt;
+&lt;h3&gt;Kubische Kurve (PostScript)&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/45d35cb4e1b446501fcefac07b3dab55/bezier_3_big.gif&quot;&gt;
+&lt;em&gt;Quelle: &lt;a href=&quot;https://en.wikipedia.org/wiki/B%C3%A9zier_curve&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 818px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/757ca96928dfca60c6a9b47bdf933ccb/efec3/Macintosh-Plus.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.35941320293398%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAZmme8QLD//EABkQAQEBAQEBAAAAAAAAAAAAAAECAwATEf/aAAgBAQABBQKMYY84MtQKjRjvdeX6/wD/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAIQECEBEx/9oACAEBAAY/AtzY4IQ6xj//xAAbEAEBAQACAwAAAAAAAAAAAAABEQAhMUFhcf/aAAgBAQABPyEkupYTAXFXy6BMJkuj9Lkkl9cZqO//2gAMAwEAAgADAAAAEIAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAQEBAQEBAAAAAAAAAAAAAREAMSFBUf/aAAgBAQABPxAkjlSez63OvSSFS706Ay33HObhIa2CIBYf3Msf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Macintosh Plus&quot;
+        title=&quot;Macintosh Plus&quot;
+        src=&quot;/learn.interaction/static/757ca96928dfca60c6a9b47bdf933ccb/efec3/Macintosh-Plus.jpg&quot;
+        srcset=&quot;/learn.interaction/static/757ca96928dfca60c6a9b47bdf933ccb/df2c7/Macintosh-Plus.jpg 450w,
+/learn.interaction/static/757ca96928dfca60c6a9b47bdf933ccb/efec3/Macintosh-Plus.jpg 818w&quot;
+        sizes=&quot;(max-width: 818px) 100vw, 818px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Adobe wurde im Dezember 1982 von John Warnock und Charles Geschke gegründet. Zuvor hatten die beiden bei Xerox PARC gearbeitet, hatten dies jedoch verlassen, um die Vektorbeschreibungssprache PostScript (Kubische Funktion) zu entwickeln. 1985 lizenzierte Apple PostScript für den Einsatz in seinen LaserWriter-Druckern nun als Seitenbeschreibungssprache. Diese läuteten eine Revolution für die Grafische Industrie ein, da es nun möglich war für relativ wenig Geld sehr hochwertige Ausgaben zu erzielen.&lt;/p&gt;
+&lt;h3&gt;Laserdrucker&lt;/h3&gt;
+&lt;div class=&quot;column__text&quot;&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube.com/embed/WB0HnXcW8qQ&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Parametrische Fonts&lt;/h2&gt;
+&lt;p&gt;Bei Parametrischen Fonts führen veränderte Input-Parameter zu anders erzeugten Fonts. Dieses Konzept gibt es seit spätestens 1984 als Donald Knuth mit Metafont ein System präsentierte, welches Fonts mit unbeschränkt vielen Parametern versehen lässt.&lt;/p&gt;
+&lt;div class=&quot;wide-grid&quot;&gt;
+&lt;div class=&quot;col-1to6&quot;&gt;
+&lt;h3&gt;Metaflop&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/2183f8b1c3d93198c4942649a988072f/metaflop.svg&quot; alt=&quot;Experimente mit metaflop.com&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Im Jahr 2012 entstand mit &lt;a href=&quot;https://www.metaflop.com/&quot;&gt;metaflop.com&lt;/a&gt; ein Font-Generator zum Erzeugen eines Fonts mittels Parametrischen eingaben. Einzelne Instanzen können als Font herunntergeladen werden.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-7to12&quot;&gt;
+&lt;h3&gt;Prototypo&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1395px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/learn.interaction/static/cef0fdf2c03c87a72ebe57a93d6349e5/c764e/Prototypo-new-UI.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 64.58781362007169%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABYdQ10rJD/8QAGxAAAgMAAwAAAAAAAAAAAAAAAAIBBBIDESH/2gAIAQEAAQUCqorGOPeEgoydQen/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAgIDAAAAAAAAAAAAAAAAAgEREJETMTL/2gAIAQEABj8Ca1iSuNdHmNDY7P/EABsQAAMBAQADAAAAAAAAAAAAAAABETEhQXGB/9oACAEBAAE/IaTK1U9K1OBZF/A19u4eSdRA/9oADAMBAAIAAwAAABB3z//EABcRAQADAAAAAAAAAAAAAAAAAAABEWH/2gAIAQMBAT8QheP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhMVGRYdH/2gAIAQEAAT8QOSayLrsqVZ7EmzX09hFHcPwjRYYlutxxU2KNaXcOjyf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Prototypo – Font-Generator&quot;
+        title=&quot;Prototypo – Font-Generator&quot;
+        src=&quot;/learn.interaction/static/cef0fdf2c03c87a72ebe57a93d6349e5/c764e/Prototypo-new-UI.jpg&quot;
+        srcset=&quot;/learn.interaction/static/cef0fdf2c03c87a72ebe57a93d6349e5/df2c7/Prototypo-new-UI.jpg 450w,
+/learn.interaction/static/cef0fdf2c03c87a72ebe57a93d6349e5/2d017/Prototypo-new-UI.jpg 900w,
+/learn.interaction/static/cef0fdf2c03c87a72ebe57a93d6349e5/c764e/Prototypo-new-UI.jpg 1395w&quot;
+        sizes=&quot;(max-width: 1395px) 100vw, 1395px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Im Jahr 2014 startete mit «prototypo.io» zum ersten mal eine leicht zugängliche und einfach zu bedienende Web-App zum modifizieren parametrischer Fonts. Mittels Schiebereglern kann ein zuvor von den Machern definiertes Font-Model angepasst werden und dann als Font herunntergeladen werden. Die Fonts können dann in eine Website eingebunden oder auf dem Desktop verwendet werden.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2&gt;Weiterführende Informationen&lt;/h2&gt;
+&lt;h3&gt;Zusammenfassungen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://jacques-andre.fr/chi/chi90/tomash.html&quot;&gt;The U.S. Computer Printer Industry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.designhistory.org/Digital_Revolution_pages/EarlyDigType.html&quot;&gt;Digitalgeschichte der Schrift – Technologie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.designhistory.org/Digital_Revolution_pages/PioneersDig.html&quot;&gt;Digitalgeschichte der Schrift – Menschen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.graphicmeans.com/&quot;&gt;Graphic Means – Film&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.fastcodesign.com/3065804/how-apple-helped-democratize-typography-in-the-90s&quot;&gt;Apple und DTP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Technologie&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://typejournal.ru/articles/Counterpunch-Review&quot;&gt;Counterpunch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.linotypefilm.com/&quot;&gt;Linotype – Film&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Netpbm_format&quot;&gt;ppm – Pixelformat&lt;/a&gt; (&lt;a href=&quot;http://netpbm.sourceforge.net/doc/ppm.html&quot;&gt;Spezifikation&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://player.vimeo.com/video/139984057&quot;&gt;IBM Selectric&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fontformen&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://typejournal.ru/en/articles/The-Trajan-Letter-in-Russia-and-America&quot;&gt;Kapitalis Monumentalis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nicksherman.com/articles/bellCentennial.html&quot;&gt;Bell Centennial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://articles.c-a-s-t.com/behind-simoncinis-glasses-347612482416&quot;&gt;Simoncini – reverse deformation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://articles.c-a-s-t.com/nicolas-jenson-and-the-success-of-his-roman-type-9f0afeba4103&quot;&gt;Nicolas Jenson&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Weiterführende Stichworte&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Optical Sizes&lt;/li&gt;
+&lt;li&gt;Buchproduktion vs. Manuskript&lt;/li&gt;
+&lt;li&gt;Ausbreitung von Druckpresen in Europa&lt;/li&gt;
+&lt;li&gt;Donald Knuth&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Autor&lt;/h3&gt;
+&lt;p&gt;Stefan Huber&lt;br&gt;
+sh@signalwerk.ch&lt;br&gt;
++41 78 744 37 38&lt;/p&gt;
+&lt;h3&gt;Dokumentgeschichte&lt;/h3&gt;
+&lt;p&gt;Juni 2018: Erstellung&lt;br&gt;
+September 2019: Überarbeitung  &lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;</content:encoded></item><item><title><![CDATA[Screens]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin'; Bildschirmauflösung Je nach Auflösung des Bildschirms können mehr oder…]]></description><link>https://signalwerk.github.io/learn.interaction/articles/screens/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/articles/screens/</guid><pubDate>Wed, 04 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;&lt;/p&gt;
 &lt;h2&gt;Bildschirmauflösung&lt;/h2&gt;
 &lt;p&gt;Je nach Auflösung des Bildschirms können mehr oder weniger Pixel auf der Ausgabefläche ausgegeben werden. Je mehr Pixel zur Verfügung stehen, desto grösser kann das Browser-Fenster aufgezogen werden. Bei Websites mit «fixem Layout» werden somit mehr oder weniger Inhalte sichtbar.&lt;/p&gt;
 &lt;div class=&quot;wide-grid space pad bg&quot;&gt;
   &lt;div class=&quot;col-1to12&quot;&gt;
     &lt;figure&gt;
-      &lt;img src=&quot;/learn.interaction/screensize-desktop-mobile-69f4a90d38ee88ca93d7cdb92bb88171.svg&quot; alt=&quot;mobile screen vs. desktop screen&quot;&gt;
+      &lt;img src=&quot;/learn.interaction/69f4a90d38ee88ca93d7cdb92bb88171/screensize-desktop-mobile.svg&quot; alt=&quot;mobile screen vs. desktop screen&quot;&gt;
       &lt;figcaption&gt;Desktop: Bildschrim hat eine grosse Aufl&amp;#xF6;sung und kann Seite vollst&amp;#xE4;ndig anzeigen. &lt;br&gt; Mobile: Bildschrim hat eine zu gerine Aufl&amp;#xF6;sung und kann Seite nicht vollst&amp;#xE4;ndig anzeigen. Ungen&amp;#xFC;gende technische Realisation f&amp;#xFC;r mobiles Ger&amp;#xE4;t. L&amp;#xE4;sst sich vermeiden.&lt;/figcaption&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
@@ -130,31 +1319,26 @@ import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt
 &lt;p&gt;Die Bildschirmabmessung wird häufig auch in Zoll (Inch) angegeben. Spricht man von Zoll, so meint man im allgemeinen die Diagonale des Bildschirms. Die Grösse gibt meist eher eine Bildschirm-Grössenklasse an, denn eine effektive Grösse. Ein «15&quot;-Bildschirm» hat also meist etwa 15 Zoll in der Diagonale. Die Bildschirmproportion ist dadur aber zum Beispiel nicht definiert.&lt;/p&gt;
 &lt;h2&gt;Visuelle Grösse&lt;/h2&gt;
 &lt;p&gt;Die visuelle wahrgenommene Grösse eines Gestaltugnselements auf dem Bildschirm, ist abhängig von der effektiven Grösse auf dem Bildschirm und dem Betrachtungsabstand. Obwohl kleine Screens (Smartphones) weniger Platz bieten, so ist der Betrachtungsabstand auch kleiner und es können somit auch ähnliche Lesbarkeiten erreicht werden.&lt;/p&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 47.26735598227474%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABBUlEQVQoz5VQMW6DQBDcJ1gpqXmC8wGewTeMUFxQQE2BqCgQHS0/oESJnIY+2EVQLBfIJeju9u6y3ClWpESJPFqdVrOandkDROz7fpomrbVSSn+DJOKr1l5JoXX3/PJ6OHDOl2WBOI4B4HG7VRJpLM1rGybYTb5CStr4tN8nSdJ1XZZlEIYhiR82m/fTkWbImBRCodCIgjN6bSlBrvrycd7tgiiKgiDwfR/meXZdlzob9Zac3DmlIMaUNPxlur4dT8MwtG1L5pDnOTkXRUEzYdb/ChudluF6EFoSPM8jseM44ziuhuawf2E/AdboBnVd/23+E5CmqRWXZXm3uGkaK66q6l7xJzajzbYaT4wlAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1354px;&quot;
     &gt;
-      &lt;img
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 47.26735598227474%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABBUlEQVQoz5VQMW6DQBDcJ1gpqXmC8wGewTeMUFxQQE2BqCgQHS0/oESJnIY+2EVQLBfIJeju9u6y3ClWpESJPFqdVrOandkDROz7fpomrbVSSn+DJOKr1l5JoXX3/PJ6OHDOl2WBOI4B4HG7VRJpLM1rGybYTb5CStr4tN8nSdJ1XZZlEIYhiR82m/fTkWbImBRCodCIgjN6bSlBrvrycd7tgiiKgiDwfR/meXZdlzob9Zac3DmlIMaUNPxlur4dT8MwtG1L5pDnOTkXRUEzYdb/ChudluF6EFoSPM8jseM44ziuhuawf2E/AdboBnVd/23+E5CmqRWXZXm3uGkaK66q6l7xJzajzbYaT4wlAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;SizeCalculator&quot;
-        title=&quot;&quot;
-        src=&quot;/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/a8200/SizeCalculator.png&quot;
-        srcset=&quot;/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/52d5c/SizeCalculator.png 175w,
-/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/1bae2/SizeCalculator.png 350w,
-/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/a8200/SizeCalculator.png 700w,
-/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/0ab52/SizeCalculator.png 1050w,
+        title=&quot;SizeCalculator&quot;
+        src=&quot;/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/5bee8/SizeCalculator.png&quot;
+        srcset=&quot;/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/44727/SizeCalculator.png 450w,
+/learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/fea0e/SizeCalculator.png 900w,
 /learn.interaction/static/4d0ada855e2e20c70b6cc28bac851ab9/5bee8/SizeCalculator.png 1354w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        sizes=&quot;(max-width: 1354px) 100vw, 1354px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;
-  &lt;/span&gt;
-  
 Bildquelle: &lt;a href=&quot;https://sizecalc.com/&quot;&gt;Size Calculator&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Auflösungsdichte – DPI&lt;/h2&gt;
 &lt;p&gt;Eine Auflösungsdichte wird in DPI (Dots per Inch) angegeben. Diese Einheit gibt an, wie viele Bildpunkte pro Inch (25,4 mm = 1 Inch) – also eine Strecke – liegen. Je höher die Auflösung ist, desto weniger erkennt man die einzelnen Punkte in der Ausgabe und die Ausgabe wirkt weniger «verpixelt». Die Auflösung eines Bildschirms kann in DPI angegeben werden.&lt;/p&gt;
@@ -208,18 +1392,18 @@ Bei elektrophoretischen Anzeigen (eInk) oder ähnlichen Technologien, werden kle
 &lt;h3&gt;Elektrophoretische Anzeige&lt;/h3&gt;
 &lt;p&gt;Kugeln enthalten weisse und schwarze Stellen
 Bild-Quelle: &lt;a href=&quot;http://de.wikipedia.org/wiki/Elektronisches_Papier&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/learn.interaction/eInk-principle-a691bdf1a1ea9b4b1660fdeabaf87abb.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/a691bdf1a1ea9b4b1660fdeabaf87abb/eInk-principle.svg&quot;&gt;&lt;/p&gt;
 &lt;h4&gt;Geräte mit eInk&lt;/h4&gt;
 &lt;p&gt;eBook-Reader
-&lt;img src=&quot;/learn.interaction/eInk-97c3e51f647294ab5834549f76cec8c5.svg&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;/learn.interaction/97c3e51f647294ab5834549f76cec8c5/eInk.svg&quot;&gt;&lt;/p&gt;
 &lt;/Div&gt;
 &lt;Div className=&quot;col-7to12&quot;&gt;
 &lt;h3&gt;LCD-Anzeige&lt;/h3&gt;
 &lt;p&gt;Drei kleine leuchtende Elemente erzeugen je Pixel eine Ausgabe (Farbe)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/learn.interaction/tft-principle-19bac93ea3f33f35a1487322d45b0b73.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/19bac93ea3f33f35a1487322d45b0b73/tft-principle.svg&quot;&gt;&lt;/p&gt;
 &lt;h4&gt;Geräte mit LCD&lt;/h4&gt;
 &lt;p&gt;Smartphone, Tablet, Desktop
-&lt;img src=&quot;/learn.interaction/tft-161ee756c877a7a988734f7ac209a7f1.svg&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;/learn.interaction/161ee756c877a7a988734f7ac209a7f1/tft.svg&quot;&gt;&lt;/p&gt;
 &lt;/Div&gt;
 &lt;/Div&gt;
 &lt;h3&gt;OLED&lt;/h3&gt;
@@ -233,75 +1417,62 @@ Bild-Quelle: &lt;a href=&quot;http://de.wikipedia.org/wiki/Elektronisches_Papier
 &lt;/video&gt;
 &lt;p&gt;iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)&lt;/p&gt;
 &lt;p&gt;Quelle: Stefan Huber&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1200px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/c35de/OLED_detail.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB1GFnIgWFf//EABsQAAEEAwAAAAAAAAAAAAAAABIAAQIhAxAR/9oACAEBAAEFAodG1Ahtsev/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAABAgcAAAAAAAAAAAAAAAABECEAERIiMTJB/9oACAEBAAY/AhrV2SXZhi6//8QAGxABAAICAwAAAAAAAAAAAAAAAREhAGEQMVH/2gAIAQEAAT8hsAUOwzcyjX3GMhAU2G+f/9oADAMBAAIAAwAAABC4D//EABYRAQEBAAAAAAAAAAAAAAAAACEQEf/aAAgBAwEBPxA0n//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIf/xAAdEAEAAgICAwAAAAAAAAAAAAABETEAIRBxQVGR/9oACAEBAAE/EESZkNTddRgpoJNT4zsR6LwlBBFEqfBwo4//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB1GFnIgWFf//EABsQAAEEAwAAAAAAAAAAAAAAABIAAQIhAxAR/9oACAEBAAEFAodG1Ahtsev/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAdEAABAgcAAAAAAAAAAAAAAAABECEAERIiMTJB/9oACAEBAAY/AhrV2SXZhi6//8QAGxABAAICAwAAAAAAAAAAAAAAAREhAGEQMVH/2gAIAQEAAT8hsAUOwzcyjX3GMhAU2G+f/9oADAMBAAIAAwAAABC4D//EABYRAQEBAAAAAAAAAAAAAAAAACEQEf/aAAgBAwEBPxA0n//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EIf/xAAdEAEAAgICAwAAAAAAAAAAAAABETEAIRBxQVGR/9oACAEBAAE/EESZkNTddRgpoJNT4zsR6LwlBBFEqfBwo4//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;OLED detail&quot;
-        title=&quot;&quot;
-        src=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/67d4f/OLED_detail.jpg&quot;
-        srcset=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/3cfb5/OLED_detail.jpg 175w,
-/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/3a2a3/OLED_detail.jpg 350w,
-/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/67d4f/OLED_detail.jpg 700w,
-/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/35dd2/OLED_detail.jpg 1050w,
+        title=&quot;OLED detail&quot;
+        src=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/c35de/OLED_detail.jpg&quot;
+        srcset=&quot;/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/df2c7/OLED_detail.jpg 450w,
+/learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/2d017/OLED_detail.jpg 900w,
 /learn.interaction/static/c52fa9907a3fd493da134cb1b686547a/c35de/OLED_detail.jpg 1200w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Bildquelle: &lt;a href=&quot;http://www.lg.com/global/business/information-display/technology-solution/oled&quot;&gt;LG&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 495px;&quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/fa082/OLED.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 495px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 59.5959595959596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsSAAALEgHS3X78AAACD0lEQVQoz3VSbW/SUBjtXzP+DLNP+i/8A37RmGjY3GYy57ZkCaJQydgYsLkRI4YFVqiUlrKOttD1/f229MWH1qhx8aTJvfe595zn3HOLpRl8H6mqnMZpEidJDEOS3kNyr4jlFVH0374xit1vzIKFpaqq/X7f87z8kGGYvu8CPV8GQQBboIVBCaG420uevqo/OHn0+vnDu40CT/7geD7vhsKlh5wRKU5o0UEOFGmaOW2c2rYN5FSY0vh+4bD2svL+We3x2scna/ZCZFh2Op3C7u31Ndkb1+viLvn1ir00xpMkjpbLJQhjknTHMGN60G3jxdLGi1azdtI64m4mIM/zfBAG5FmTPjq7PS53OtvU+SF39UVRvCybBJvNZhUcr+DVHjGYjMnRkLi4bO/t7QuCAG2XYThmJsfVanl7q7O5Re5ufm4cHJTwbud7FEUr23EUsSyLVyo7O+8K6+vl8idqNIK2EFueUBwnoiQ3L9ofiqVW4xzAcTertP+OHmJcXSZNXdflOG4+n6f/Qf5sWBiGjuPoum6aJkwsy8r5vxGHETJd34DPQboT2P6fd4Ym4HkwGJAZKIqSZdnIAIorO44vDTmZ4hVyprOL0Av+JRMEMcrAMAxIDIdDSZJABU4gy1OBSQkKJdqihkzPlU3w8ss2BAPxKIoCnjVNg0neM0eEQkcyLEFzFDtjWtZC97XV3/ITJqGGGlU/a2EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.5959595959596%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsSAAALEgHS3X78AAACD0lEQVQoz3VSbW/SUBjtXzP+DLNP+i/8A37RmGjY3GYy57ZkCaJQydgYsLkRI4YFVqiUlrKOttD1/f229MWH1qhx8aTJvfe595zn3HOLpRl8H6mqnMZpEidJDEOS3kNyr4jlFVH0374xit1vzIKFpaqq/X7f87z8kGGYvu8CPV8GQQBboIVBCaG420uevqo/OHn0+vnDu40CT/7geD7vhsKlh5wRKU5o0UEOFGmaOW2c2rYN5FSY0vh+4bD2svL+We3x2scna/ZCZFh2Op3C7u31Ndkb1+viLvn1ir00xpMkjpbLJQhjknTHMGN60G3jxdLGi1azdtI64m4mIM/zfBAG5FmTPjq7PS53OtvU+SF39UVRvCybBJvNZhUcr+DVHjGYjMnRkLi4bO/t7QuCAG2XYThmJsfVanl7q7O5Re5ufm4cHJTwbud7FEUr23EUsSyLVyo7O+8K6+vl8idqNIK2EFueUBwnoiQ3L9ofiqVW4xzAcTertP+OHmJcXSZNXdflOG4+n6f/Qf5sWBiGjuPoum6aJkwsy8r5vxGHETJd34DPQboT2P6fd4Ym4HkwGJAZKIqSZdnIAIorO44vDTmZ4hVyprOL0Av+JRMEMcrAMAxIDIdDSZJABU4gy1OBSQkKJdqihkzPlU3w8ss2BAPxKIoCnjVNg0neM0eEQkcyLEFzFDtjWtZC97XV3/ITJqGGGlU/a2EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;OLED&quot;
-        title=&quot;&quot;
+        title=&quot;OLED&quot;
         src=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/fa082/OLED.png&quot;
-        srcset=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/52d5c/OLED.png 175w,
-/learn.interaction/static/52c1413533978cb8173ce9f77debf968/1bae2/OLED.png 350w,
+        srcset=&quot;/learn.interaction/static/52c1413533978cb8173ce9f77debf968/44727/OLED.png 450w,
 /learn.interaction/static/52c1413533978cb8173ce9f77debf968/fa082/OLED.png 495w&quot;
         sizes=&quot;(max-width: 495px) 100vw, 495px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Bildquelle: &lt;a href=&quot;https://www.mweb.co.za/games/NewsArticles/tabid/2561/Article/30977/Samsung-QLED-How-does-its-display-work-and-is-it-better-than-OLED.aspx&quot;&gt;Gamezone/LG&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;OLED Varriante, bei dem zusätzlich zu RGB auch noch eine Weisskomponente angesteuert wird (&lt;a href=&quot;https://www.youtube.com/watch?v=3qRhTKOu9Pw&quot;&gt;WRGB OLED&lt;/a&gt;).&lt;/p&gt;
 &lt;h3&gt;OLED &amp;#x26; Darkmode&lt;/h3&gt;
@@ -325,16 +1496,6 @@ Seit etwa 2018 gibt es auf diversen Betriebsystemen Unterstüztung für so genan
 &lt;/Margin&gt;
 &lt;p&gt;Damit eine Animation flüssig auf dem Bildschirm erscheint, sollten zwischen 20 – 30 Frames pro Sekunde (fps) neu gezeichnet werden. 60 Frames pro Sekunde sind ideal. Viele Monitore können 60 Frames pro Sekunde anzeigen. Die limitierende Komponente ist meist eher ob der Computer in der Lage ist, so schnell die Bilder zu berechnen.&lt;/p&gt;
 &lt;h2&gt;Weiterführende Informationen&lt;/h2&gt;
-&lt;Margin&gt;
-&lt;h3&gt;Autor&lt;/h3&gt;
-&lt;p&gt;Stefan Huber&lt;br&gt;
-sh@signalwerk.ch&lt;br&gt;
-+41 78 744 37 38&lt;/p&gt;
-&lt;h3&gt;Dokumentgeschichte&lt;/h3&gt;
-&lt;p&gt;Juni 2018: Erstellung&lt;br&gt;
-Januar 2019: Überarbeitung&lt;br&gt;
-September 2019: Überarbeitung  &lt;/p&gt;
-&lt;/Margin&gt;
 &lt;h3&gt;Kennzahlen zu Bildschirmen&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Lumen_(Einheit)&quot;&gt;Lichtstärke – Lumen&lt;/a&gt;&lt;/li&gt;
@@ -352,9 +1513,21 @@ September 2019: Überarbeitung  &lt;/p&gt;
 &lt;li&gt;&lt;a href=&quot;https://spectrum.ieee.org/consumer-electronics/audiovideo/your-guide-to-televisions-quantumdot-future&quot;&gt;Quantum-Dot Displays&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2017/10/31/16579748/apple-iphone-x-review&quot;&gt;iPhone X Display&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mjYjFEp9Yx0&quot;&gt;Framerate&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[eBook · Grundlagen]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Div from 'gatsby-theme-signalwerk/src/components/Div';Information…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//articles/ebook/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//articles/ebook/</guid><pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
-import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Autor&lt;/h3&gt;
+&lt;p&gt;Stefan Huber&lt;br&gt;
+sh@signalwerk.ch&lt;br&gt;
++41 78 744 37 38&lt;/p&gt;
+&lt;h3&gt;Dokumentgeschichte&lt;/h3&gt;
+&lt;p&gt;Juni 2018: Erstellung&lt;br&gt;
+Januar 2019: Überarbeitung&lt;br&gt;
+September 2019: Überarbeitung  &lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;</content:encoded></item><item><title><![CDATA[eBook · Grundlagen]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin'; Information wird vom Medium getrennt Wichtige Speichermedien (ab…]]></description><link>https://signalwerk.github.io/learn.interaction/articles/ebook/</link><guid isPermaLink="false">https://signalwerk.github.io/learn.interaction/articles/ebook/</guid><pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;&lt;/p&gt;
 &lt;h2&gt;Information wird vom Medium getrennt&lt;/h2&gt;
 &lt;Margin&gt;
 &lt;h3&gt;Wichtige Speichermedien &lt;br/&gt;(ab Altertum)&lt;/h3&gt;
@@ -380,33 +1553,27 @@ import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt
 Quelle: &lt;a href=&quot;https://beebo.org/lately/2009-07-12_speed-of-information-travel.html&quot;&gt;A Farewell to Alms – A Brief Economic History of the World, Gregory Clark, Princeton University Press, 2007&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Book reader · 1935&lt;/h3&gt;
 &lt;p&gt;In einer Vision von 1935 wird klar, dass der Erfinder nicht den Inhalt, sondern das traditionelle Buch wiedergeben möchte.&lt;/p&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 79.63636363636364%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdgZMViw/8QAGBAAAwEBAAAAAAAAAAAAAAAAAQIRAAP/2gAIAQEAAQUCL7m1UG4qJGA5iL//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAADAQEAAAAAAAAAAAAAAAAAASEQMf/aAAgBAQAGPwJrgiDm/wD/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMVFx/9oACAEBAAE/IXWeGmWm70QlZPwcwKyFLhcPWbrP/9oADAMBAAIAAwAAABBjz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQEAAwEBAAAAAAAAAAAAAAERACExYYH/2gAIAQEAAT8Qu3oO451AtUT5kMUUquzIBAazbhONTxzmsdrarEbn/9k=&apos;); background-size: cover; display: block;&quot;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
     &gt;
-      &lt;img
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 79.63636363636364%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdgZMViw/8QAGBAAAwEBAAAAAAAAAAAAAAAAAQIRAAP/2gAIAQEAAQUCL7m1UG4qJGA5iL//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAADAQEAAAAAAAAAAAAAAAAAASEQMf/aAAgBAQAGPwJrgiDm/wD/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMVFx/9oACAEBAAE/IXWeGmWm70QlZPwcwKyFLhcPWbrP/9oADAMBAAIAAwAAABBjz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQEAAwEBAAAAAAAAAAAAAAERACExYYH/2gAIAQEAAT8Qu3oO451AtUT5kMUUquzIBAazbhONTxzmsdrarEbn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;1935 ebook sm&quot;
-        title=&quot;&quot;
-        src=&quot;/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/67d4f/1935-ebook-sm.jpg&quot;
-        srcset=&quot;/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/3cfb5/1935-ebook-sm.jpg 175w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/3a2a3/1935-ebook-sm.jpg 350w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/67d4f/1935-ebook-sm.jpg 700w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/35dd2/1935-ebook-sm.jpg 1050w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/8dcf2/1935-ebook-sm.jpg 1400w,
-/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/36a65/1935-ebook-sm.jpg 2100w,
+        title=&quot;1935 ebook sm&quot;
+        src=&quot;/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/98235/1935-ebook-sm.jpg&quot;
+        srcset=&quot;/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/df2c7/1935-ebook-sm.jpg 450w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/2d017/1935-ebook-sm.jpg 900w,
+/learn.interaction/static/60432d5cbb874fc427f619965a9bd856/98235/1935-ebook-sm.jpg 1800w,
 /learn.interaction/static/60432d5cbb874fc427f619965a9bd856/7db3f/1935-ebook-sm.jpg 2200w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;
-  &lt;/span&gt;
-  
 Quelle: &lt;a href=&quot;http://www.smithsonianmag.com/history/the-ipad-of-1935-115653218/&quot;&gt;Everyday Science and Mechanics, April 1935&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Was ist ein eBook?&lt;/h2&gt;
 &lt;Margin&gt;
@@ -438,32 +1605,27 @@ Heute wird unter dem Begriff eBook oftmals eine sehr enge Definition von zusamme
 &lt;/ul&gt;
 &lt;h3&gt;Memex · 1945&lt;/h3&gt;
 &lt;p&gt;Die Darstellung von Vanevar Bush im Jahre 1945 zeigt eine fixe Screen-Grösse mit fixen Inhalts-Seiten.&lt;/p&gt;
-&lt;p&gt;
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 67.81071242849714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAekgDOUf/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAERID/9oACAEBAAEFAhzUTKUy5LOMo9FzZ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAAhMRD/2gAIAQEABj8CmqjEf//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQVH/2gAIAQEAAT8hKLs1HzEKk46TiU+o2lSHfgqf/9oADAMBAAIAAwAAABATz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExUXFBYYH/2gAIAQEAAT8QEKmy7t6ibYHBWx9zGFL4RDu9dOYFaG4vzzDYoApn/9k=&apos;); background-size: cover; display: block;&quot;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
     &gt;
-      &lt;img
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.81071242849714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgADBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAekgDOUf/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAERID/9oACAEBAAEFAhzUTKUy5LOMo9FzZ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAAhMRD/2gAIAQEABj8CmqjEf//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQVH/2gAIAQEAAT8hKLs1HzEKk46TiU+o2lSHfgqf/9oADAMBAAIAAwAAABATz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExUXFBYYH/2gAIAQEAAT8QEKmy7t6ibYHBWx9zGFL4RDu9dOYFaG4vzzDYoApn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;memex&quot;
-        title=&quot;&quot;
-        src=&quot;/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/67d4f/memex.jpg&quot;
-        srcset=&quot;/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/3cfb5/memex.jpg 175w,
-/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/3a2a3/memex.jpg 350w,
-/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/67d4f/memex.jpg 700w,
-/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/35dd2/memex.jpg 1050w,
-/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/8dcf2/memex.jpg 1400w,
+        title=&quot;memex&quot;
+        src=&quot;/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/98235/memex.jpg&quot;
+        srcset=&quot;/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/df2c7/memex.jpg 450w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/2d017/memex.jpg 900w,
+/learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/98235/memex.jpg 1800w,
 /learn.interaction/static/2299f0cd7b5ca0b13b661bfc54132297/63d39/memex.jpg 1923w&quot;
-        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;
-  &lt;/span&gt;
-  
 Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/370/2111?position=0&quot;&gt;«As We May Think», Vannevar Bush, 1945, «The Atlantic Monthly»&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Unterscheidungsmerkmale vom eBook zum normalen Buch&lt;/h2&gt;
 &lt;p&gt;Beim klassischen Buch aus Papier gibt es Formale Ausprägungen, die gegeben sind, welche jedoch nicht zwangsläufig auch bei einem eBook zutreffen. Da es sehr viele verschiedene Arten von eBooks gibt, kann nicht generell eine Aussage getroffen werden.&lt;/p&gt;
@@ -539,7 +1701,7 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
 &lt;div class=&quot;wide-grid space pad bg&quot;&gt;
    &lt;div class=&quot;col-1to4&quot;&gt;
       &lt;figure&gt;
-         &lt;img src=&quot;/learn.interaction/mobile-294d9aef9a2ddbb5994dfbba679ce184.svg&quot; alt&gt;
+         &lt;img src=&quot;/learn.interaction/294d9aef9a2ddbb5994dfbba679ce184/mobile.svg&quot; alt&gt;
          &lt;figcaption&gt;
             &lt;h3&gt;Smartphone&lt;/h3&gt;
             &lt;ul&gt;
@@ -552,7 +1714,7 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
    &lt;/div&gt;
    &lt;div class=&quot;col-5to8&quot;&gt;
       &lt;figure&gt;
-         &lt;img src=&quot;/learn.interaction/tablet-affc6f012bb283d9c5c22d2e13d6709e.svg&quot; alt&gt;
+         &lt;img src=&quot;/learn.interaction/affc6f012bb283d9c5c22d2e13d6709e/tablet.svg&quot; alt&gt;
          &lt;figcaption&gt;
             &lt;h3&gt;Tablet/eReader&lt;/h3&gt;
             &lt;ul&gt;
@@ -565,7 +1727,7 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
    &lt;/div&gt;
    &lt;div class=&quot;col-9to12&quot;&gt;
       &lt;figure&gt;
-         &lt;img src=&quot;/learn.interaction/desktop-14a196c3601e868463b8efe9b2357cc9.svg&quot; alt&gt;
+         &lt;img src=&quot;/learn.interaction/14a196c3601e868463b8efe9b2357cc9/desktop.svg&quot; alt&gt;
          &lt;figcaption&gt;
             &lt;h3&gt;Desktop&lt;/h3&gt;
             &lt;ul&gt;
@@ -581,12 +1743,12 @@ Quelle: &lt;a href=&quot;http://www.computerhistory.org/revolution/the-web/20/37
 &lt;p&gt;Im Gegensatz zu einem klassischen Buch ist die Benutzerführung und der Lesefluss unter Umständen anders als bei einem eBook. Während man in einem Buch meist linear liesst und dabei von Spalte zu Spalte springt, kann bei einem Lesen an einem Bildschirm gescrollt werden, was für das Auge eine andere Leistung erfordert. Auch ein «blättern» – also Stück um Stück anschauen – ist am Bildschirm möglich.&lt;/p&gt;
 &lt;Div className=&quot;wide-grid space pad&quot;&gt;
 &lt;Div className=&quot;col-1to6&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;/learn.interaction/reading-book-3b5eb3a10cade3d427a50751205332a0.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/3b5eb3a10cade3d427a50751205332a0/reading-book.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Klassisches Buch&lt;/h3&gt;
 &lt;p&gt;Im klassischen Satzspiegel über die Doppelseite, mit einer Spalte, gibt es pro zwei Seiten zwei grosse Sprünge, die das Auge leiten muss. Beim springen von der linken zur rechten Seite und beim Springen auf die nächste Doppelseite.&lt;/p&gt;
 &lt;/Div&gt;
 &lt;Div className=&quot;col-7to12&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;/learn.interaction/reading-ebook-dd3617a2ed4a4da9ca3cb4fb0cf8de75.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/dd3617a2ed4a4da9ca3cb4fb0cf8de75/reading-ebook.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;eBook&lt;/h3&gt;
 &lt;p&gt;Wird im eBook gescrollt, so muss das Auge der Scrollbewegung folgen um die Zeile nicht zu verlieren.
 Bei einer Applikation, die ein «Blättern» hat, ist der Lesefluss ähnlich einem Buch.&lt;/p&gt;
@@ -596,12 +1758,12 @@ Bei einer Applikation, die ein «Blättern» hat, ist der Lesefluss ähnlich ein
 &lt;p&gt;Bei einem fixierten Layout wird spezifisch auf ein Gerät/Format optimiert und das Layout richtet sich exakt nach diesen Dimensionen. Die gestalterische Freiheit ist damit nicht eingeschränkt. Dafür wird keinerlei Rücksicht auf abweichende Geräte oder aber Wünsche des Lesers (Schriftgrösse, Spaltenbreite, ...) genommen.&lt;/p&gt;
 &lt;Div className=&quot;wide-grid space pad&quot;&gt;
 &lt;Div className=&quot;col-1to6&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;/learn.interaction/fix-layout-ac02422fc8922f24f24f0767d840bdaa.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/ac02422fc8922f24f24f0767d840bdaa/fix-layout.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Fixes Layout&lt;/h3&gt;
 &lt;p&gt;Elemente richten sich nach dem Format. Layout unterliegt der Kontrolle des Designers.&lt;/p&gt;
 &lt;/Div&gt;
 &lt;Div className=&quot;col-7to12&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;/learn.interaction/flow-layout-abdf9fe12ec6ba4020d5e04a20e8f177.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/abdf9fe12ec6ba4020d5e04a20e8f177/flow-layout.svg&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Fliessender Text&lt;/h3&gt;
 &lt;p&gt;Hier werden die Bilder und Layout-Elemente mit dem Text
 fliessend eingebaut. Somit ist die Dimension des Gerätes oder
@@ -643,7 +1805,7 @@ Viele Anbieter bieten auch Spar-Pakete an. In diesen werden die Papier-Versionen
 &lt;p&gt;Vor allem kleinere Verlage und unabhängige Autoren, die ihre Inhalte selber vertreiben, setzen immer häufiger auf eBooks. Da die Verkaufszahlen in Nischenmärkten klein sind, ist das Drucken von Büchern in geringer Auflage teuer und der Absatz zieht sich oft über eine lange Zeit hinweg. Somit entstehen bei Papier-Büchern auch hoche Lager- und ­Logistikosten. Bei eBooks ist die Investition überschaubar und die Logistik ist zu beinahe 100 % automatisiert.&lt;/p&gt;
 &lt;Div className=&quot;wide-grid space pad bg&quot;&gt;
   &lt;Div className=&quot;col-1to12&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;/learn.interaction/long-tail-e995b39d159d5d48895a18c226362fdd.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/learn.interaction/e995b39d159d5d48895a18c226362fdd/long-tail.svg&quot;&gt;&lt;/p&gt;
   &lt;/Div&gt;
 &lt;/Div&gt;
 &lt;h3&gt;The Long Tail&lt;/h3&gt;
