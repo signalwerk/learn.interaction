@@ -12,7 +12,6 @@ description: "Nach der Steintafel, der Schriftrolle und dem Buch aus Papier oder
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Div from 'gatsby-theme-signalwerk/src/components/Div';
 
 
 ## Information wird vom Medium getrennt

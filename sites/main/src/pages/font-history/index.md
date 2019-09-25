@@ -14,7 +14,6 @@ description: "Die Technologie des Schreibens und des Schreibwerkzeug ist auch mi
 
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Div from 'gatsby-theme-signalwerk/src/components/Div';
 
 <!--
 ::: TOC
@@ -35,14 +34,14 @@ Die Capitalis Monumentalis ist eine der wichtigsten römischen Schriften aus der
 
 
 
-<Div className="wide-grid">
-<Div className="col-1to12">
+<div class="wide-grid">
+<div class="col-1to12">
 
 ![](./img/capitalis/capitalis_monumentalis.jpg)
 *Römisches Nationalmuseum in den Thermen des Diolektian, Rom*
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 
@@ -52,14 +51,14 @@ Die karolingische Minuskel wurde zum Ende des 8. Jahrhunderts im Auftrag von Kar
 
 
 
-<Div className="wide-grid">
-<Div className="col-1to12">
+<div class="wide-grid">
+<div class="col-1to12">
 
 ![](./img/carolingianMinuscule/karolingische.jpg)
 *Karolingische Minuskel, Pergament, im Kloster Reichenau Ende des 10.Jahrhunderts geschrieben worden.*
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 
@@ -149,22 +148,22 @@ Der Wachsende Bedarf an Bedruckstoffen fürhte dazu, dass prozentual immer wenig
 
 
 
-<Div className="wide-grid">
-<Div className="col-1to6">
+<div class="wide-grid">
+<div class="col-1to6">
 
 #### Johannes Gutenberg
 ![](./img/typesetting/gutenberg.png)
 *Johann Gensfleisch zum Gutenberg, Kupferstich nach André Thevet, 1584.*
 
-</Div>
-<Div className="col-7to12">
+</div>
+<div class="col-7to12">
 
 
 #### Bleiletter
 *![](./img/typesetting/Bleiletter.png)*
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 
@@ -245,20 +244,20 @@ Anfangs mechanisch, später auch optisch arbeitende Abtastgeräte steuern die Se
 
 
 
-<Div className="wide-grid">
-<Div className="col-1to6">
+<div class="wide-grid">
+<div class="col-1to6">
 
 #### Monotype
 ![](./img/typesetting/monotype.png)
 
-</Div>
-<Div className="col-7to12">
+</div>
+<div class="col-7to12">
 
 #### Linotype
 ![](./img/typesetting/linotype.png)
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 
@@ -303,14 +302,14 @@ Anfangs mechanisch, später auch optisch arbeitende Abtastgeräte steuern die Se
 Fotosatz lösste ab etwa 1960 (zweite Generation) den Bleisatz langsam ab und ermöglichte mit fotografischen Mitteln eine Produktion von Typografie. Durch den geringeren Materialbedarf und die schnellere Handhabung konnten Kosten gesenkt werden.
 Fotosatz ist ein opto-mechanisches System und erfordert ein anderes Druckverfahren (Offsetdruck) als noch Bleisatz.
 
-<Div className="wide-grid">
-<Div className="col-1to12">
+<div class="wide-grid">
+<div class="col-1to12">
 
 ![](./img/phototypesetting/optomechanisch.png)
 *Arbeitsweise von Fotosatzsystem mit Schriftscheibe. Die Optik steuert dabei die Schriftgrösse.*
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 
@@ -330,20 +329,20 @@ Vor allem in Grafik-Studios konnte man sich keine Satzanlagen leisten. Somit wur
 
 
 
-<Div className="wide-grid">
-<Div className="col-1to6">
+<div class="wide-grid">
+<div class="col-1to6">
 
 ![](./img/phototypesetting/lettraset/20100917SAWG_fg02a.jpg)
 *Quelle: [CreativePro](https://creativepro.com/scanning-around-gene-when-letraset-was-king/)*
 
 
-</Div>
-<Div className="col-7to12">
+</div>
+<div class="col-7to12">
 
 ![](./img/phototypesetting/lettraset/20100917SAWG_fg03a.jpg)
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 
@@ -363,24 +362,24 @@ Die ersten Systeme der digitaler Satzherstellung hatten noch keine grafische Aus
 
 
 
-<Div className="wide-grid">
-<Div className="col-1to6">
+<div class="wide-grid">
+<div class="col-1to6">
 
 #### Digiset-System ohne Monitor
 ![](./img/phototypesetting/digiset/digise1.jpg)
 ![](./img/phototypesetting/digiset/digise2.jpg)
 *Quelle: [Hell Verein Kiel](http://51666937.de.strato-hosting.eu/Produkte/Digiset/digiset400t1.htm)*
 
-</Div>
-<Div className="col-7to12">
+</div>
+<div class="col-7to12">
 
 #### Scantext mit WYSIWYG
 ![](./img/phototypesetting/scantext/9013683843_df249dd8b6_o.jpg)
 ![](./img/phototypesetting/scantext/9014869362_f3b6fa1689_o.jpg)
 *Quelle: [Albert-Jan Pool](https://www.flickr.com/photos/albert-jan_pool/sets/72157634061121533)*
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 
@@ -397,22 +396,22 @@ Auch heute können noch Nadeldrucker problemlos gekauft werden.
 
 
 
-<Div className="wide-grid">
-<Div className="col-1to6">
+<div class="wide-grid">
+<div class="col-1to6">
 
 
 ![](./img/dot-matrix-printer/Nadeldrucker_Prinzip.svg)
 *Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Nadeldrucker)*
 
 
-</Div>
-<Div className="col-7to12">
+</div>
+<div class="col-7to12">
 
 ![](./img/dot-matrix-printer/EpsonFX-2190.jpg)
 *Quelle: Epson*
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 
@@ -519,8 +518,8 @@ Bei Parametrischen Fonts führen veränderte Input-Parameter zu anders erzeugten
 
 
 
-<Div className="wide-grid">
-<Div className="col-1to6">
+<div class="wide-grid">
+<div class="col-1to6">
 
 ### Metaflop
 
@@ -531,8 +530,8 @@ Bei Parametrischen Fonts führen veränderte Input-Parameter zu anders erzeugten
 Im Jahr 2012 entstand mit [metaflop.com](https://www.metaflop.com/) ein Font-Generator zum Erzeugen eines Fonts mittels Parametrischen eingaben. Einzelne Instanzen können als Font herunntergeladen werden.
 
 
-</Div>
-<Div className="col-7to12">
+</div>
+<div class="col-7to12">
 
 ### Prototypo
 
@@ -540,8 +539,8 @@ Im Jahr 2012 entstand mit [metaflop.com](https://www.metaflop.com/) ein Font-Gen
 
 Im Jahr 2014 startete mit «prototypo.io» zum ersten mal eine leicht zugängliche und einfach zu bedienende Web-App zum modifizieren parametrischer Fonts. Mittels Schiebereglern kann ein zuvor von den Machern definiertes Font-Model angepasst werden und dann als Font herunntergeladen werden. Die Fonts können dann in eine Website eingebunden oder auf dem Desktop verwendet werden.
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 

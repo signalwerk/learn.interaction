@@ -4,8 +4,6 @@ hideInMenu: true
 path: "root"
 ---
 
-import Div from 'gatsby-theme-signalwerk/src/components/Div';
-
 
 
 

@@ -13,7 +13,6 @@ description: "Der Bildschirm (engl. Screen) ist für die meiste Interaktion im d
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Div from 'gatsby-theme-signalwerk/src/components/Div';
 
 
 
