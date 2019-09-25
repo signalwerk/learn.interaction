@@ -109,9 +109,9 @@ Beim klassischen Buch aus Papier gibt es Formale Ausprägungen, die gegeben sind
 
 
 
-<Div className="wide-grid">
-  <Div className="col-1to12">
-  <Div className="tab-col-33p">
+<div class="wide-grid">
+<div class="col-1to12">
+<div class="tab-col-33p">
 
 | Eigenschaft               | Buch (Papier)               | eBook (ePub)                                                 |
 |---------------------------|-----------------------------|--------------------------------------------------------------|
@@ -126,9 +126,9 @@ Beim klassischen Buch aus Papier gibt es Formale Ausprägungen, die gegeben sind
 | Herstellungskosten        | einmalig                    | einmalig                                                     |
 | Stückkosten               | Hoch (Materialkosten)       | niedrig (Speicher/Übermittlung)                              |
 
-  </Div>
-  </Div>
-</Div>
+</div>
+</div>
+</div>
 
 
 
@@ -204,8 +204,8 @@ Im Gegensatz zu einem klassischen Buch ist die Benutzerführung und der Leseflus
 
 
 
-<Div className="wide-grid space pad">
-<Div className="col-1to6">
+<div class="wide-grid space pad">
+<div class="col-1to6">
 
 ![](../media/data/device/reading-flow/reading-book.svg)
 
@@ -213,8 +213,8 @@ Im Gegensatz zu einem klassischen Buch ist die Benutzerführung und der Leseflus
 ### Klassisches Buch
 Im klassischen Satzspiegel über die Doppelseite, mit einer Spalte, gibt es pro zwei Seiten zwei grosse Sprünge, die das Auge leiten muss. Beim springen von der linken zur rechten Seite und beim Springen auf die nächste Doppelseite.
 
-</Div>
-<Div className="col-7to12">
+</div>
+<div class="col-7to12">
 
 ![](../media/data/device/reading-flow/reading-ebook.svg)
 
@@ -224,8 +224,8 @@ Bei einer Applikation, die ein «Blättern» hat, ist der Lesefluss ähnlich ein
 
 
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 
@@ -238,8 +238,8 @@ Bei einem fixierten Layout wird spezifisch auf ein Gerät/Format optimiert und d
 
 
 
-<Div className="wide-grid space pad">
-<Div className="col-1to6">
+<div class="wide-grid space pad">
+<div class="col-1to6">
 
 ![](../media/data/device/reading-layout/fix-layout.svg)
 
@@ -247,8 +247,8 @@ Bei einem fixierten Layout wird spezifisch auf ein Gerät/Format optimiert und d
 Elemente richten sich nach dem Format. Layout unterliegt der Kontrolle des Designers.
 
 
-</Div>
-<Div className="col-7to12">
+</div>
+<div class="col-7to12">
 
 
 ![](../media/data/device/reading-layout/flow-layout.svg)
@@ -259,8 +259,8 @@ fliessend eingebaut. Somit ist die Dimension des Gerätes oder
 die Grösse der Schrift entscheidend, wie das Layout erscheint.
 
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 ### Desktop
@@ -313,13 +313,13 @@ Viele Anbieter bieten auch Spar-Pakete an. In diesen werden die Papier-Versionen
 Vor allem kleinere Verlage und unabhängige Autoren, die ihre Inhalte selber vertreiben, setzen immer häufiger auf eBooks. Da die Verkaufszahlen in Nischenmärkten klein sind, ist das Drucken von Büchern in geringer Auflage teuer und der Absatz zieht sich oft über eine lange Zeit hinweg. Somit entstehen bei Papier-Büchern auch hoche Lager- und ­Logistikosten. Bei eBooks ist die Investition überschaubar und die Logistik ist zu beinahe 100 % automatisiert.
 
 
-<Div className="wide-grid space pad bg">
-  <Div className="col-1to12">
+<div class="wide-grid space pad bg">
+<div class="col-1to12">
 
 ![](../media/data/business/long-tail/long-tail.svg)
 
-  </Div>
-</Div>
+</div>
+</div>
 
 
 
@@ -337,8 +337,8 @@ eBooks werden zum Teil auch als Apps angeboten um gewisse technische Beschränku
 
 
 
-<Div className="wide-grid">
-  <Div className="col-1to12">
+<div class="wide-grid">
+<div class="col-1to12">
 
 | Eigenschaft                           | ePub        | PDF/ePDF   | Kindle | Apps   |
 |---------------------------------------|-------------|------------|------------|--------|
@@ -352,8 +352,8 @@ eBooks werden zum Teil auch als Apps angeboten um gewisse technische Beschränku
 | Filme/Ton                             | möglich     | beschränkt | möglich    | Ja     |
 | Verschlüsselung (Kopierschutz)        | über Umwege | Ja         | Ja         | Ja     |
 
-  </Div>
-</Div>
+</div>
+</div>
 
 
 

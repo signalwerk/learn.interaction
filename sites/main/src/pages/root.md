@@ -7,7 +7,7 @@ path: "root"
 
 
 
-<Div className="column__text">
+<div class="column__text">
 
 
 Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -32,4 +32,4 @@ Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommo
 
 
 
-</Div>
+</div>

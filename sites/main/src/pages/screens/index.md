@@ -148,8 +148,8 @@ Bei elektrophoretischen Anzeigen (eInk) oder ähnlichen Technologien, werden kle
 
 
 
-<Div className="wide-grid space pad">
-<Div className="col-1to6">
+<div class="wide-grid space pad">
+<div class="col-1to6">
 
 ### Elektrophoretische Anzeige
 Kugeln enthalten weisse und schwarze Stellen
@@ -161,8 +161,8 @@ Bild-Quelle: [Wikipedia](http://de.wikipedia.org/wiki/Elektronisches_Papier)
 eBook-Reader
 ![](../media/data/device/category-by-screen/eInk.svg)
 
-</Div>
-<Div className="col-7to12">
+</div>
+<div class="col-7to12">
 
 ### LCD-Anzeige
 Drei kleine leuchtende Elemente erzeugen je Pixel eine Ausgabe (Farbe)
@@ -174,8 +174,8 @@ Smartphone, Tablet, Desktop
 ![](../media/data/device/category-by-screen/tft.svg)
 
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 
