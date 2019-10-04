@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 
 import Index from "gatsby-theme-signalwerk/src/pages";
 
+import "./legal/styles.css";
 
 class IndexRoot extends React.Component {
   render() {
