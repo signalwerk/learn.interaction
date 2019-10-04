@@ -449,6 +449,137 @@ Titel = rot, Titel spezial = blau
 
 
 
+### Veschiedene Arten von CSS-Einheiten
+CSS werte können verschiedene Einheiten annehmen. Einige Grössen-/Längeneinheiten können wie folgt kategorisiert werden:
+
+* fixe Einheiten (immer gleich)
+* flexieble Einheiten (abhängig von Kontext)
+* ohne Einheiten
+* Mischung von Einheiten
+
+Nachfolgend die gebräuchlichsten fixen Einheiten.
+
+#### Fixe Einheiten
+* `px` – Pixel (1 px = 1 Inch ÷ 96)
+
+#### Fixe Einheiten (nur für Druck!)
+* `pt` – Punkt (1 pt = 1 Inch ÷ 72)
+* `mm` – Millimeter (25.4 mm = 1 Inch)
+
+
+#### Beispiel
+```css
+html {
+  font-size: 16px;
+  line-height: 24px;
+}
+h1 {
+  font-size: 32px;
+  line-height: 48px;
+}
+```
+Nachteile:
+* Verhältnis von Schriftgrösse und Zeilenabstand nicht intuitiv (muss errechnet werden)
+* Verhältnis von H1 zur normalen Schriftgrösse schwer ersichtlich
+
+
+
+### Flexieble Einheiten
+Flexieble Einheiten haben den Vorteil, dass sie sich auf verschiedene Gegenbheiten anpassen können.
+
+Folgende Kategorieren können gebildet werden:
+
+* Dokumenteabhängige CSS-Einheiten
+* Viewportabhängige CSS-Einheiten
+
+#### Dokumenteabhängige CSS-Einheiten
+* `%` – Relativ zum Parent-Element
+* `rem` – Entspricht der Schriftgrösse des Root-Elements (`HTML`)
+* `em` – Entspricht der aktuellen Schriftgrösse des Elements
+
+#### Viewportabhängige CSS-Einheiten
+* `vh` – 1% der Fensterhöhe (Viewport)
+* `vw` – 1% der Fensterbreite (Viewport)
+* `vmin` – 1% der schmaleren Fensterdimension (Viewport)
+* `vmax` – 1% der grösseren Fensterdimension (Viewport)
+
+
+
+#### Beispiel
+```css
+html {
+  font-size: 16px;
+  line-height: 1.5;
+}
+p {
+  font-size: 1rem;
+}
+h1 {
+  font-size: 2rem;
+}
+```
+
+* `line-height` wird im verhältnis zur Schriftgrösse angegeben
+* `font-size` wird im Verhältnis zum Root-Element (HTML-Tag) angegeben.
+
+
+### Mischung von Einheiten
+Die Funktion `calc()` ermöglicht es verschiedene Einheiten im CSS zu mischen. Diese Funktion sollte nur genutzt werden, wenn flexieble und variable Einheiten gemischt werden müssen
+
+#### Beispiel
+
+```css
+html {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.fullsreen {
+  width: calc(100vw - 2rem);
+  height: calc(100vh - 2rem);
+}
+```
+
+## CSS Mediaquery
+
+Je nach Eigenschaft des Ausgabemediums werden mit Mediaqueryies andere CSS-Definition aktiviert.
+Siehe auch [→ MDN Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries).
+
+
+### Grössenabhängige Abweichung
+
+Beim Aufbau von CSS-Formatierungen empfiehlt es sich vom kleinsten Screen aus zu gehen und die grösseren Screens als «Ausnahmen» zu sehen (mobile first).
+
+```css
+html {
+  font-size: 14px;
+}
+@media screen and (min-width: 600px) {
+  html {
+    font-size: 16px;
+  }
+}
+```
+Die Schriftgrösse wird auf `14px` gestellt und die Mediaquery wird aktiv, wenn das Ausgabemedium ein Bildschirm ist und die Breite mehr als `600px` überschreitet. Dann wird die Schrftgrösse `16px`
+
+#### Medien Abweichung
+
+```css
+h1 {
+  color: red;
+}
+
+@media print {
+  h1 {
+    color: black;
+  }
+}
+```
+Mediaquery wird aktiv, wenn das Dokument gedruckt wird.
+
+
+
+
+
 
 
 
