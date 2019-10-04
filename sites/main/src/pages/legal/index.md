@@ -17,7 +17,7 @@ import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 
 
 ## Disclaimer
-Dieses Dokument soll nur zur groben Info dienen es stellt keine Rechtsberatung dar und kann auch keine Rechtsberatung ersetzen.
+Dieses Dokument soll nur zur groben Information dienen es stellt keine Rechtsberatung dar und kann auch keine Rechtsberatung ersetzen.
 
 
 
@@ -100,6 +100,35 @@ Um sicher keine Probleme zu erhalten, ist es jedoch sinnvoll, keine Links zu Web
 ### Impressum
 Seit Frühling 2012 gilt in der Schweiz eine generelle Impressumspflicht für Websites, Apps und sonstige Online-Angebote im «elektronischen Geschäftsverkehr». Dazu zählt also auch Facebook, oder sonstige sozialen Netzwerke. Das heisst, dass auf einem solchen Erzeugnis grundsätzlich der rechtliche Herausgeber angegeben werden muss. Gemäss dem Bundesgesetz über den unlauteren Wettbewerb (UWG) verhält sich illegal, «... wer Waren, Werke oder Leistungen im elektronischen Geschäftsverkehr anbietet und es dabei unterlässt, klare und vollständige Angaben über seine Identität und seine Kontaktadresse einschliesslich derjenigen der elektronischen Post zu machen ...» (UWG Art. 3, Abs. 1).
 Somit ist es verpflichtend, dass auf der Website (also nicht über anfragen beim Registrar) vollständige Postanschrift und eine Mail-Adresse verfügbar sind. Siehe auch: [Steiger Legal | Impressumspflicht im E-Commerce: Fragen und Antworten](https://steigerlegal.ch/2012/04/01/impressumspflicht-im-e-commerce-fragen-und-antworten/)
+
+
+## EU-Datenschutzgrundverordnung (DSGVO)
+Seit dem 25. Mai 2018 wird im EU-Raum die Datenschutzgrundverordnung (DSGVO) umgesetzt. Obwohl diese Verordnung nicht für die Schweiz gilt, empfiehlt es sich, aufgrund der Nähe zur EU, wie auch durch die wirtschaftliche Verfelchtung mit dem Ausland, diese Verordnung im Hinterkopf zu behalten und mit einer rechtskundigen Person zu klären, welche Auswirkungen auf die eigene Website diese hat. Grundsätzlich gilt die Gerichtsbarkeit im jeweiligen Land, in dem das Angebot (Website) zugänglich gemacht wird.
+
+Wichtigte Artikel aud dem Gesetz sind:
+
+* Prinzipien der Datenverarbeitung (Art. 5, DSGVO)
+* Informationspflicht bei Erhebung von personenbezogenen Daten (Art. 13 und 14, DSGVO)
+* Auskunftsrecht (Art. 15, DSGVO)
+* Recht auf Löschung (Art. 17, DSGVO)
+* Recht auf Datenübertragbarkeit (Art. 20, DSGVO)
+
+Quelle: [→ Datenschutzsbeauftragte](http://www.viscom.ch/upload/die_eu_dsgvo_und_ihre_auswirkungen_auf_die_schweiz_de_def_2633810.pdf)
+<!-- .element: class="footer" -->
+
+### Prinzipien der Datenverarbeitung
+Insbesondere Art. 5 der EU-Datenschutzgrundverordnung fordert von Betreibern von Websites eine erhöhte Aufmerksamkeit beim Umgang mit persönlichen Daten.
+
+* Rechtmässigkeit, Verarbeitung nach Treu und Glauben, Transparenz
+* Zweckbindung
+* Datenminimierung
+* Richtigkeit
+* Speicherbegrenzung (Zeitdauer)
+* Integrität und Vertraulichkeit
+
+Quelle: [→ infosec.ch](https://www.infosec.ch/downloads/referate/MSI20180122/MSI_20180122_02_Balthasar_00.pdf)
+
+
 
 
 
