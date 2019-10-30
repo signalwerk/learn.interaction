@@ -6,10 +6,6 @@ path: "root"
 
 
 
-
-<div class="column__text">
-
-
 Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
@@ -29,8 +25,3 @@ Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommo
 <!-- ## Stubs -->
 <!-- * [Touch-Interface](/touch/) -->
 <!-- * [Thesis](/thesis/) -->
-
-
-
-
-</div>

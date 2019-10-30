@@ -90,14 +90,12 @@ Sowohl Endkunden des Internets, wie auch Services (Server) erhalten von einem In
 Der ISP (Internet service provider) entscheidet dann je nach seinen Kapazitäten, ob er mit einem Nachbar oder anderen Server sich direkt verbinden möchte (Kabel verlegen), um somit seinen Kunden eine möglichst gute Verbindung in das andere Netz zu gewährleisten. Dadurch entstehen allmählich zwischen nahen Knoten oder zwischen hoch frequentierten Knoten mehr Verbindungen und die Kapazität des gesamten Netzwerks wächst.
 
 
-<div class="wide-grid space bg pad">
-<div class="col-1to12">
+<Grid background>
 
 ![ISP](../media/data/internet-technology/ISP.svg)
 *Systematischer Aufbau des Internets*
 
-</div>
-</div>
+</Grid>
 
 
 ## Dienste
@@ -118,7 +116,7 @@ Um einen Dienst eines Servers zu nutzen, muss der Client das verwendete Protokol
 |---------|---------------------------|
 | http:// | Angabe über das Protokoll |
 | www     | Subdomain                 |
-| test  | Domain                    |
+| test    | Domain                    |
 | ch      | Top-Level Domain          |
 | index   | Dateiname                 |
 | html    | Dateiendung               |
@@ -160,17 +158,12 @@ Um von der Domain (für Menschen) auf eine IP-Adresse (für Computer) zu kommen 
 Technisch werden bei einer DNS–Abfrage (DNS lookup) im Hintergrund mehrere Aktionen ausgeführt, die sind für den Benutzer des DNS jedoch transparent.
 
 
-<div class="wide-grid space bg pad">
-<div class="col-1to12">
+<Grid background>
 
 ![dns-server](../media/data/internet-technology/dns-server.svg)
 *Systematischer Aufbau vom DNS*
 
-</div>
-</div>
-
-
-
+</Grid>
 
 ## Weiterführende Informationen
 

@@ -169,8 +169,9 @@ Mit Creative Commons können Urheber von Texten, Fotos, Videos, Musik, ... sehr 
 
 
 
-<div class="wide-grid space cc-table">
-  <div class="col-1to12">
+<Grid>
+
+<div class="cc-table">
 
 | Logo                                | Abkürzung             | Deutsche Erklärung  
 |-----------------------------------------|--------------------------|------------------------------------------------------------------------|
@@ -181,11 +182,9 @@ Mit Creative Commons können Urheber von Texten, Fotos, Videos, Musik, ... sehr 
 | ![Creative Commons – CC-BY-NC-SA](./img/cc-by-nc-sa.svg) | BY + NC + SA             | NY + NC + SA                                                           |
 | ![Creative Commons – CC-BY-NC-ND](./img/cc-by-nc-nd.svg)   | BY + NC + ND             | NY + NC + ND                                                           |
 
-
-  </div>
 </div>
 
-
+</Grid>
 
 
 ### Software

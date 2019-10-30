@@ -113,8 +113,10 @@ Beim klassischen Buch aus Papier gibt es Formale Ausprägungen, die gegeben sind
 
 
 
-<div class="wide-grid">
-<div class="col-1to12">
+
+<Grid>
+
+
 <div class="tab-col-33p">
 
 | Eigenschaft               | Buch (Papier)               | eBook (ePub)                                                 |
@@ -131,8 +133,9 @@ Beim klassischen Buch aus Papier gibt es Formale Ausprägungen, die gegeben sind
 | Stückkosten               | Hoch (Materialkosten)       | niedrig (Speicher/Übermittlung)                              |
 
 </div>
-</div>
-</div>
+
+</Grid>
+
 
 
 
@@ -148,49 +151,47 @@ Es gibt diverse Geräte, auf denen eBooks gelesen werden können. Grundsätzlich
 
 
 
+<Grid background>
+<Column start="1" end="5">
 
-<div class="wide-grid space pad bg">
-   <div class="col-1to4">
-      <figure>
-         <img src="../media/data/device/reader-digital-categories/mobile.svg" alt="" />
-         <figcaption>
-            <h3>Smartphone</h3>
-            <ul>
-               <li>Kleiner Screen</li>
-               <li>Leseabstand nahe</li>
-               <li>Oft mit Internet</li>
-            </ul>
-         </figcaption>
-      </figure>
-   </div>
-   <div class="col-5to8">
-      <figure>
-         <img src="../media/data/device/reader-digital-categories/tablet.svg" alt="" />
-         <figcaption>
-            <h3>Tablet/eReader</h3>
-            <ul>
-               <li>Screen in Taschenbuchgrösse</li>
-               <li>Leseabstand wie Buch</li>
-               <li>Guter Lesekomfort</li>
-            </ul>
-         </figcaption>
-      </figure>
-   </div>
-   <div class="col-9to12">
-      <figure>
-         <img src="../media/data/device/reader-digital-categories/desktop.svg" alt="" />
-         <figcaption>
-            <h3>Desktop</h3>
-            <ul>
-               <li>Grosser Screen</li>
-               <li>Leseabstand von Arbeitsplatz abhängig</li>
-               <li>Meist mit Internet</li>
-            </ul>
-         </figcaption>
-      </figure>
-   </div>
-</div>
+![](../media/data/device/reader-digital-categories/mobile.svg)
 
+
+### Smartphone
+
+*   Kleiner Screen
+*   Leseabstand nahe
+*   Oft mit Internet
+
+
+</Column>
+<Column start="5" end="9">
+
+![](../media/data/device/reader-digital-categories/tablet.svg)
+
+
+### Tablet/eReader
+
+*   Screen in Taschenbuchgrösse
+*   Leseabstand wie Buch
+*   Guter Lesekomfort
+
+
+</Column>
+<Column start="9" end="13">
+
+![](../media/data/device/reader-digital-categories/desktop.svg)
+
+
+### Desktop
+
+*   Grosser Screen
+*   Leseabstand von Arbeitsplatz abhängig
+*   Meist mit Internet
+
+
+</Column>
+</Grid>
 
 
 
@@ -208,17 +209,17 @@ Im Gegensatz zu einem klassischen Buch ist die Benutzerführung und der Leseflus
 
 
 
-<div class="wide-grid space pad">
-<div class="col-1to6">
+
+<Grid>
+<Column start="1" end="7">
 
 ![](../media/data/device/reading-flow/reading-book.svg)
-
 
 ### Klassisches Buch
 Im klassischen Satzspiegel über die Doppelseite, mit einer Spalte, gibt es pro zwei Seiten zwei grosse Sprünge, die das Auge leiten muss. Beim springen von der linken zur rechten Seite und beim Springen auf die nächste Doppelseite.
 
-</div>
-<div class="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 ![](../media/data/device/reading-flow/reading-ebook.svg)
 
@@ -226,10 +227,8 @@ Im klassischen Satzspiegel über die Doppelseite, mit einer Spalte, gibt es pro 
 Wird im eBook gescrollt, so muss das Auge der Scrollbewegung folgen um die Zeile nicht zu verlieren.
 Bei einer Applikation, die ein «Blättern» hat, ist der Lesefluss ähnlich einem Buch.
 
-
-
-</div>
-</div>
+</Column>
+</Grid>
 
 
 
@@ -242,18 +241,17 @@ Bei einem fixierten Layout wird spezifisch auf ein Gerät/Format optimiert und d
 
 
 
-<div class="wide-grid space pad">
-<div class="col-1to6">
+
+<Grid>
+<Column start="1" end="7">
 
 ![](../media/data/device/reading-layout/fix-layout.svg)
 
 ### Fixes Layout
 Elemente richten sich nach dem Format. Layout unterliegt der Kontrolle des Designers.
 
-
-</div>
-<div class="col-7to12">
-
+</Column>
+<Column start="7" end="13">
 
 ![](../media/data/device/reading-layout/flow-layout.svg)
 
@@ -262,9 +260,9 @@ Hier werden die Bilder und Layout-Elemente mit dem Text
 fliessend eingebaut. Somit ist die Dimension des Gerätes oder
 die Grösse der Schrift entscheidend, wie das Layout erscheint.
 
+</Column>
+</Grid>
 
-</div>
-</div>
 
 
 ### Desktop
@@ -317,15 +315,11 @@ Viele Anbieter bieten auch Spar-Pakete an. In diesen werden die Papier-Versionen
 Vor allem kleinere Verlage und unabhängige Autoren, die ihre Inhalte selber vertreiben, setzen immer häufiger auf eBooks. Da die Verkaufszahlen in Nischenmärkten klein sind, ist das Drucken von Büchern in geringer Auflage teuer und der Absatz zieht sich oft über eine lange Zeit hinweg. Somit entstehen bei Papier-Büchern auch hoche Lager- und ­Logistikosten. Bei eBooks ist die Investition überschaubar und die Logistik ist zu beinahe 100 % automatisiert.
 
 
-<div class="wide-grid space pad bg">
-<div class="col-1to12">
+<Grid background>
 
 ![](../media/data/business/long-tail/long-tail.svg)
 
-</div>
-</div>
-
-
+</Grid>
 
 
 ### The Long Tail
@@ -340,9 +334,7 @@ Der wohl wichtigste Vertreter von digitalen Büchern ist ePub. Es handelt sich d
 eBooks werden zum Teil auch als Apps angeboten um gewisse technische Beschränkungen zu umgehen.
 
 
-
-<div class="wide-grid">
-<div class="col-1to12">
+<Grid>
 
 | Eigenschaft                           | ePub        | PDF/ePDF   | Kindle | Apps   |
 |---------------------------------------|-------------|------------|------------|--------|
@@ -356,9 +348,7 @@ eBooks werden zum Teil auch als Apps angeboten um gewisse technische Beschränku
 | Filme/Ton                             | möglich     | beschränkt | möglich    | Ja     |
 | Verschlüsselung (Kopierschutz)        | über Umwege | Ja         | Ja         | Ja     |
 
-</div>
-</div>
-
+</Grid>
 
 
 

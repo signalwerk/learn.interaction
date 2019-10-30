@@ -37,14 +37,13 @@ Die Capitalis Monumentalis ist eine der wichtigsten römischen Schriften aus der
 
 
 
-<div class="wide-grid">
-<div class="col-1to12">
+<Grid>
 
 ![](./img/capitalis/capitalis_monumentalis.jpg)
 *Römisches Nationalmuseum in den Thermen des Diolektian, Rom*
 
-</div>
-</div>
+</Grid>
+
 
 
 
@@ -54,15 +53,13 @@ Die karolingische Minuskel wurde zum Ende des 8. Jahrhunderts im Auftrag von Kar
 
 
 
-<div class="wide-grid">
-<div class="col-1to12">
+<Grid>
 
 ![](./img/carolingianMinuscule/karolingische.jpg)
 *Karolingische Minuskel, Pergament, im Kloster Reichenau Ende des 10.Jahrhunderts geschrieben worden.*
 
-</div>
-</div>
 
+</Grid>
 
 
 
@@ -114,29 +111,22 @@ Seit der karolingischen Minuskel hat sich eine kleinschreibung in Kombination zu
 
 #### Breitfeder
 
-<div class="column__text">
-<div class="video">
+<Box ratio="16:9">
+
 <iframe src="https://www.youtube.com/embed/i6fWPSMwJT8?start=322&end=345" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
+
+</Box>
 
 #### Spitzfeder
 
+<Box ratio="16:9">
 
-<div class="column__text">
-<div class="video">
 <iframe src="https://player.vimeo.com/video/62849657" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-</div>
 
-
-
-
+</Box>
 
 
 ## Buchdruck
-
-
 
 ![](./img/typesetting/102r1l.jpg)
 *Eine rechte Seite aus dem ersten Band der bekannten Bibel, die Gutenberg hergestellt hat (B42 Bd. / Vol. 1 - fol. 102r)*
@@ -148,28 +138,21 @@ Diese Erfindung des Buchdruck (Hochdruckverfahren) verbreitete sich ab ~1450 aus
 Der Wachsende Bedarf an Bedruckstoffen fürhte dazu, dass prozentual immer weniger Bücher auf Pergament gedruckt wurden. Jedoch galten bis ins 19. Jahrhundert Pergament-Bände als besonders Wertvoll.
 
 
-
-
-
-<div class="wide-grid">
-<div class="col-1to6">
+<Grid>
+<Column start="1" end="7">
 
 #### Johannes Gutenberg
 ![](./img/typesetting/gutenberg.png)
 *Johann Gensfleisch zum Gutenberg, Kupferstich nach André Thevet, 1584.*
 
-</div>
-<div class="col-7to12">
-
+</Column>
+<Column start="7" end="13">
 
 #### Bleiletter
 *![](./img/typesetting/Bleiletter.png)*
 
-</div>
-</div>
-
-
-
+</Column>
+</Grid>
 
 
 ### Schriftherstellung
@@ -246,74 +229,66 @@ Die Erfindungen des maschinellen Einzelbuchstabensatzes (Monotype ~1890) und des
 Anfangs mechanisch, später auch optisch arbeitende Abtastgeräte steuern die Setzmaschinen.
 
 
-
-<div class="wide-grid">
-<div class="col-1to6">
+<Grid>
+<Column start="1" end="7">
 
 #### Monotype
 ![](./img/typesetting/monotype.png)
 
-</div>
-<div class="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 #### Linotype
 ![](./img/typesetting/linotype.png)
 
-</div>
-</div>
-
+</Column>
+</Grid>
 
 
 #### Linotype
 
-<div class="column__text">
-<div class="video">
+<Box ratio="16:9">
+
 <iframe src="https://www.youtube.com/embed/13trF0_XIMs?start=34" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
+
+</Box>
 
 <br />
 
-<div class="column__text">
-<div class="video">
+<Box ratio="16:9">
+
 <iframe src="https://www.youtube.com/embed/avDuKuBNuCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
+
+</Box>
 
 
 #### Montoype Keyboard
 
-<div class="column__text">
-<div class="video">
-<iframe src="https://www.youtube.com/embed/LcphfMlOzk4?start=20" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
+<Box ratio="16:9">
 
+<iframe src="https://www.youtube.com/embed/LcphfMlOzk4?start=20" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</Box>
 
 #### Montoype Caster
 
-<div class="column__text">
-<div class="video">
+<Box ratio="16:9">
+
 <iframe src="https://www.youtube.com/embed/M9DV95IEKGU?start=690" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
 
-
+</Box>
 
 
 ## Fotosatz
 Fotosatz lösste ab etwa 1960 (zweite Generation) den Bleisatz langsam ab und ermöglichte mit fotografischen Mitteln eine Produktion von Typografie. Durch den geringeren Materialbedarf und die schnellere Handhabung konnten Kosten gesenkt werden.
 Fotosatz ist ein opto-mechanisches System und erfordert ein anderes Druckverfahren (Offsetdruck) als noch Bleisatz.
 
-<div class="wide-grid">
-<div class="col-1to12">
+<Grid>
 
 ![](./img/phototypesetting/optomechanisch.png)
 *Arbeitsweise von Fotosatzsystem mit Schriftscheibe. Die Optik steuert dabei die Schriftgrösse.*
 
-</div>
-</div>
-
+</Grid>
 
 
 ![](./img/phototypesetting/lumitype/lumitype.png)
@@ -332,21 +307,20 @@ Vor allem in Grafik-Studios konnte man sich keine Satzanlagen leisten. Somit wur
 
 
 
-<div class="wide-grid">
-<div class="col-1to6">
+
+<Grid>
+<Column start="1" end="7">
 
 ![](./img/phototypesetting/lettraset/20100917SAWG_fg02a.jpg)
 *Quelle: [CreativePro](https://creativepro.com/scanning-around-gene-when-letraset-was-king/)*
 
-
-</div>
-<div class="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 ![](./img/phototypesetting/lettraset/20100917SAWG_fg03a.jpg)
 
-</div>
-</div>
-
+</Column>
+</Grid>
 
 
 ## Licht- & Lasersatzsysteme
@@ -364,25 +338,25 @@ Die ersten Systeme der digitaler Satzherstellung hatten noch keine grafische Aus
 
 
 
-
-<div class="wide-grid">
-<div class="col-1to6">
+<Grid>
+<Column start="1" end="7">
 
 #### Digiset-System ohne Monitor
 ![](./img/phototypesetting/digiset/digise1.jpg)
 ![](./img/phototypesetting/digiset/digise2.jpg)
 *Quelle: [Hell Verein Kiel](http://51666937.de.strato-hosting.eu/Produkte/Digiset/digiset400t1.htm)*
 
-</div>
-<div class="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 #### Scantext mit WYSIWYG
 ![](./img/phototypesetting/scantext/9013683843_df249dd8b6_o.jpg)
 ![](./img/phototypesetting/scantext/9014869362_f3b6fa1689_o.jpg)
 *Quelle: [Albert-Jan Pool](https://www.flickr.com/photos/albert-jan_pool/sets/72157634061121533)*
 
-</div>
-</div>
+</Column>
+</Grid>
+
 
 
 
@@ -399,22 +373,22 @@ Auch heute können noch Nadeldrucker problemlos gekauft werden.
 
 
 
-<div class="wide-grid">
-<div class="col-1to6">
 
+<Grid>
+<Column start="1" end="7">
 
 ![](./img/dot-matrix-printer/Nadeldrucker_Prinzip.svg)
 *Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Nadeldrucker)*
 
-
-</div>
-<div class="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 ![](./img/dot-matrix-printer/EpsonFX-2190.jpg)
 *Quelle: Epson*
 
-</div>
-</div>
+</Column>
+</Grid>
+
 
 
 
@@ -506,11 +480,13 @@ Adobe wurde im Dezember 1982 von John Warnock und Charles Geschke gegründet. Zu
 
 
 ### Laserdrucker
-<div class="column__text">
-<div class="video">
+
+<Box ratio="16:9">
+
 <iframe src="https://www.youtube.com/embed/WB0HnXcW8qQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-</div>
+
+</Box>
+
 
 
 ## Parametrische Fonts
@@ -520,21 +496,17 @@ Bei Parametrischen Fonts führen veränderte Input-Parameter zu anders erzeugten
 
 
 
-
-<div class="wide-grid">
-<div class="col-1to6">
+<Grid>
+<Column start="1" end="7">
 
 ### Metaflop
 
 ![Experimente mit metaflop.com](./img/metaflop.svg)
 
-
-
 Im Jahr 2012 entstand mit [metaflop.com](https://www.metaflop.com/) ein Font-Generator zum Erzeugen eines Fonts mittels Parametrischen eingaben. Einzelne Instanzen können als Font herunntergeladen werden.
 
-
-</div>
-<div class="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 ### Prototypo
 
@@ -542,9 +514,8 @@ Im Jahr 2012 entstand mit [metaflop.com](https://www.metaflop.com/) ein Font-Gen
 
 Im Jahr 2014 startete mit «prototypo.io» zum ersten mal eine leicht zugängliche und einfach zu bedienende Web-App zum modifizieren parametrischer Fonts. Mittels Schiebereglern kann ein zuvor von den Machern definiertes Font-Model angepasst werden und dann als Font herunntergeladen werden. Die Fonts können dann in eine Website eingebunden oder auf dem Desktop verwendet werden.
 
-</div>
-</div>
-
+</Column>
+</Grid>
 
 
 

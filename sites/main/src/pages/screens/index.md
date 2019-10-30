@@ -13,22 +13,29 @@ description: "Der Bildschirm (engl. Screen) ist für die meiste Interaktion im d
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import Column from 'gatsby-theme-signalwerk/src/components/Column';
+import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
-
+<!--
+## Inhaltsverzeichnis
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 2
+```
+-->
 
 ## Bildschirmauflösung
 Je nach Auflösung des Bildschirms können mehr oder weniger Pixel auf der Ausgabefläche ausgegeben werden. Je mehr Pixel zur Verfügung stehen, desto grösser kann das Browser-Fenster aufgezogen werden. Bei Websites mit «fixem Layout» werden somit mehr oder weniger Inhalte sichtbar.
 
 
+<Grid background>
 
-<div class="wide-grid space pad bg">
-  <div class="col-1to12">
-    <figure>
-      <img src="../media/data/device/reader-screensize/screensize-desktop-mobile.svg" alt="mobile screen vs. desktop screen" />
-      <figcaption>Desktop: Bildschrim hat eine grosse Auflösung und kann Seite vollständig anzeigen. <br /> Mobile: Bildschrim hat eine zu gerine Auflösung und kann Seite nicht vollständig anzeigen. Ungenügende technische Realisation für mobiles Gerät. Lässt sich vermeiden.</figcaption>
-    </figure>
-  </div>
-</div>
+![mobile screen vs. desktop screen](../media/data/device/reader-screensize/screensize-desktop-mobile.svg)
+*Desktop: Bildschrim hat eine grosse Auflösung und kann Seite vollständig anzeigen. <br /> Mobile: Bildschrim hat eine zu gerine Auflösung und kann Seite nicht vollständig anzeigen. Ungenügende technische Realisation für mobiles Gerät. Lässt sich vermeiden.*
+
+</Grid>
 
 
 
@@ -37,14 +44,12 @@ Es gibt diverse Grössen und Standards für Bildschirme und deren Auflösungen. 
 
 
 
-<div class="wide-grid space pad">
-  <div class="col-1to12">
-    <figure>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Vector_Video_Standards8.svg" alt="Screen Standards" />
-    	<figcaption>Einige Desktop-Grössen und deren Namen</figcaption>
-    </figure>
-  </div>
-</div>
+<Grid>
+
+![Screen Standards](https://upload.wikimedia.org/wikipedia/commons/0/0c/Vector_Video_Standards8.svg)
+*Einige Desktop-Grössen und deren Namen*
+
+</Grid>
 
 
 
@@ -80,12 +85,11 @@ Höhe oder Breite des Bildes in Pixel ÷ Höhe oder Breite in Ausgabe (in Inch) 
 
 
 
-<div class="column__text">
-<div class="video">
-<iframe src="https://player.vimeo.com/video/169809377" frameborder="0"></iframe>
-</div>
-</div>
+<Box ratio="16:9">
 
+<iframe src="https://player.vimeo.com/video/169809377" frameborder="0"></iframe>
+
+</Box>
 
 
 ## Auflösung im CSS
@@ -148,8 +152,8 @@ Bei elektrophoretischen Anzeigen (eInk) oder ähnlichen Technologien, werden kle
 
 
 
-<div class="wide-grid space pad">
-<div class="col-1to6">
+<Grid>
+<Column start="1" end="7">
 
 ### Elektrophoretische Anzeige
 Kugeln enthalten weisse und schwarze Stellen
@@ -161,8 +165,8 @@ Bild-Quelle: [Wikipedia](http://de.wikipedia.org/wiki/Elektronisches_Papier)
 eBook-Reader
 ![](../media/data/device/category-by-screen/eInk.svg)
 
-</div>
-<div class="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 ### LCD-Anzeige
 Drei kleine leuchtende Elemente erzeugen je Pixel eine Ausgabe (Farbe)
@@ -173,13 +177,8 @@ Drei kleine leuchtende Elemente erzeugen je Pixel eine Ausgabe (Farbe)
 Smartphone, Tablet, Desktop
 ![](../media/data/device/category-by-screen/tft.svg)
 
-
-</div>
-</div>
-
-
-
-
+</Column>
+</Grid>
 
 
 
@@ -243,14 +242,6 @@ Seit etwa 2018 gibt es auf diversen Betriebsystemen Unterstüztung für so genan
 </Margin>
 
 Damit eine Animation flüssig auf dem Bildschirm erscheint, sollten zwischen 20 – 30 Frames pro Sekunde (fps) neu gezeichnet werden. 60 Frames pro Sekunde sind ideal. Viele Monitore können 60 Frames pro Sekunde anzeigen. Die limitierende Komponente ist meist eher ob der Computer in der Lage ist, so schnell die Bilder zu berechnen.
-
-
-
-
-
-
-
-
 
 
 

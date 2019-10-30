@@ -13,15 +13,19 @@ description: "Die zugrunde liegenden Technologien des Webs sind seit mehreren Ja
 ---
 
 
+import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import Column from 'gatsby-theme-signalwerk/src/components/Column';
+import Box from 'gatsby-theme-signalwerk/src/components/Box';
+
 
 
 ## Information und Gestaltung
 Eine Website kann in zwei Bereiche unterteilt werden, die sowohl technisch, wie auch konzeptionell zu trennen sind:
 
 
-
-<div class="wide-grid space pad bg">
-  <div class="col-1to6">
+<Grid background>
+<Column start="1" end="7">
 
 #### Struktur ·  Semantik
 Autor erstellt Information
@@ -32,9 +36,8 @@ Titel
 Der Text besteht aus Inhalt.
 ```
 
-
-  </div>
-  <div class="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 #### Aussehen · Repräsentation
 Gestalter·in definiert Formatierung
@@ -44,17 +47,16 @@ Titel = Blau
 Text = Bold
 ```
 
-  </div>
-</div>
-
+</Column>
+</Grid>
 
 
 In der technischen Realisation für Webseiten wird dies in HTML und CSS umgesetzt:
 
 
 
-<div class="wide-grid space pad bg">
-  <div class="col-1to6">
+<Grid background>
+<Column start="1" end="7">
 
 #### HTML · Semantik
 
@@ -67,8 +69,8 @@ In der technischen Realisation für Webseiten wird dies in HTML und CSS umgesetz
 </p>
 ```
 
-  </div>
-  <div class="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 #### CSS · Repräsentation
 
@@ -81,8 +83,8 @@ p {
 }
 ```
 
-  </div>
-</div>
+</Column>
+</Grid>
 
 
 Die fertige Website wird dann aufgrund der beiden Komponenten visuell aufbereitet (Rendering):
@@ -122,7 +124,6 @@ Ein HTML-Dokument besteht aus verschiedenen Tags und aus verschiedenen Teilen. B
 ```
 
 
-<div class="column__text">
 
 |Tag|Beschreibung                 |
 |---|-----------------------------|
@@ -138,7 +139,6 @@ Ein HTML-Dokument besteht aus verschiedenen Tags und aus verschiedenen Teilen. B
 |`</body>`|End-Tag der sichtabaren Inhalte|
 |`</html>`|End-Tag des Dokuments        |
 
-</div>
 
 
 ### Tag-Aufbau
@@ -159,13 +159,6 @@ Zusätzlich können Attribute in einem Tag gesetzt werden:
 ```html
 <p class="special">Der Text besteht aus Inhalt.</p>
 ```
-
-
-
-
-
-
-
 
 
 
@@ -272,7 +265,6 @@ p {
 #### Beschreibung
 
 
-<div class="column__text">
 
 | Definition | Beschreibung                                |
 |------------|---------------------------------------------|
@@ -282,8 +274,6 @@ p {
 | `p {`         |  Startet die definition für den p-Tag       |
 | `font-weight`       |  Definiert den Schriftschnitt               |
 | `}`        |  Endet die Definition für den p-Tag         |
-
-</div>
 
 
 
@@ -583,15 +573,6 @@ Mediaquery wird aktiv, wenn das Dokument gedruckt wird.
 
 
 
-
-
-
-
-
-
-
-
-
 ### JavaScript
 Die Skriptsprache JavaScript wurde für dynamische Websiten in Browsern entwickelt und ermöglicht erweiterte Benutzerinteraktionen, Inhalte zu modifizieren, erzeugen oder gar nachzuladen. Die Möglichkeiten einer klassischen und meist sehr statischen HTML-Seite mit JavaScript zu erweitern sind vielfältig. Im Gegensatz zu HTML und CSS handelt es nicht um Auszeichnungssprachen oder Stilvorlagen, sondern um eine Programmiersprache, die in Vielfallt und Funktion die beiden vorgenannten übersteigt. Die Anwendung von JavaScript ist in den letzten Jahren stark gestiegen und viele Webseiten sind heute ohne JavaScript nicht mehr lauffähig. Die Ausführung dieser Programme geschieht im Browser und wurde dafür als ECMAScript (offizieller Name von JavaScript) standardisiert und nach der Erfindung durch Brendan Eich im Jahre 1995 an die «Ecma International» übergeben.
 
@@ -615,55 +596,6 @@ Im oben aufgeführten Skript wird eine Nachricht mit dem Inhalt «Hello World!»
 ```
 
 In der HTML-Datei wird die Datei mit einem Script-Tag eingebunden.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
