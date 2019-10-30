@@ -12,7 +12,11 @@ tags:
 description: "Die Grundlage eines weltweit verntzten Netzwerks wurde in den 1960er Jahren geschaffen. Die wesentlichen Ideen der Dezentralisierung und dem Zugang zu diesem Netz sind jedoch nach wie vor unverändert."
 ---
 
+
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import Column from 'gatsby-theme-signalwerk/src/components/Column';
+import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 
 ## Digitale Kommunikation

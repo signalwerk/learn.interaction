@@ -11,7 +11,11 @@ tags:
 description: "Nach der Steintafel, der Schriftrolle und dem Buch aus Papier oder Pergament, ist seit den 1990er Jahren vermehrt das Lesen von längeren zusammengehördenden Texten auf elektronischen Geräten verbreitet. Sowohl die Geräte, wie auch die Software und das Design beeinflussen dabei entscheidend das Lese-Erlebnis der Wissenskonsumierenden."
 ---
 
+
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import Column from 'gatsby-theme-signalwerk/src/components/Column';
+import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 
 ## Information wird vom Medium getrennt
