@@ -78,7 +78,7 @@ In der Schweiz ist die Panoramafreiheit gegeben (Art. 27 Abs. 1 URG). Somit darf
 
 
 
-*Quelle: [Bundesgesetz über das Urheberrecht und verwandte Schutzrechte (Urheberrechtsgesetz, URG)](https://www.admin.ch/opc/de/classified-compilation/19920251/index.html) Stand: 1. Januar 2017*
+*Quelle: [Bundesgesetz über das Urheberrecht und verwandte Schutzrechte (Urheberrechtsgesetz, URG)](https://www.admin.ch/opc/de/classified-compilation/19920251/index.html#a27) Stand: 1. Januar 2017*
 
 
 
