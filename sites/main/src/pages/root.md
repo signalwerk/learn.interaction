@@ -21,6 +21,7 @@ Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommo
 * [Rechtslage – ein kleines 1 × 1](/articles/legal/)
 * [Technologische Grundlagen des Web – HTML, CSS & JavaScript](/articles/basic-technology/)
 * [Grundlagen des Internets](/articles/internet-technology/)
+* [Fonts · Eigenschaften](/articles/font-anatomy/)
 
 <!-- ## Stubs -->
 <!-- * [Touch-Interface](/touch/) -->

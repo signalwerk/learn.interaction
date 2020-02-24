@@ -1,0 +1,16 @@
+.inlinebox {
+  width: 2em;
+  height: 0.1em;
+  background-color: red;
+  display: inline-block;
+  -webkit-print-color-adjust: exact;
+}
+.big-anatomy {
+  font-size: 2em;
+  line-height: 1.9;
+}
+.big-anatomy code {
+  font-size: inherit;
+  display: block;
+  margin-bottom: 2rem;
+}
