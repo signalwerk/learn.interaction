@@ -40,6 +40,10 @@ Die lateinische Schrift basiert auf einem so genannten Vierliniensystem. Alle Sc
 
 <Column start="7" end="13">
 
+
+
+<div class="list--upper-alpha">
+
 1. x-Höhe, Mittellänge (x-Height)
 2. Unterlänge, Unterhöhe (Decender depth)
 3. Versalhöhe (Cap height)
@@ -47,6 +51,9 @@ Die lateinische Schrift basiert auf einem so genannten Vierliniensystem. Alle Sc
 5. Überhang (Overshoot)
 6. Vertikaler Raumbedarf, Kegelgrösse, Schriftgrösse (Font Size, em)
 7. Fleisch (buffer space, shoulder)
+
+</div>
+
 
 </Column>
 
