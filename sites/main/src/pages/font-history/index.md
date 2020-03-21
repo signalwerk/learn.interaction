@@ -529,6 +529,7 @@ Im Jahr 2014 startete mit «prototypo.io» zum ersten mal eine leicht zugängli
 * [Digitalgeschichte der Schrift – Menschen](http://www.designhistory.org/Digital_Revolution_pages/PioneersDig.html)
 * [Graphic Means – Film](http://www.graphicmeans.com/)
 * [Apple und DTP](https://www.fastcodesign.com/3065804/how-apple-helped-democratize-typography-in-the-90s)
+* [Rise of the Digital Fonts](https://www.fontfabric.com/blog/rise-of-the-digital-fonts/)
 
 ### Technologie
 * [Counterpunch](https://typejournal.ru/articles/Counterpunch-Review)
