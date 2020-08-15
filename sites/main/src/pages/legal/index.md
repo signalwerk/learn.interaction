@@ -211,6 +211,31 @@ Folgende Punkte sollten beachtet werden, wenn jemandem ein Massenmail gesendet w
 
 
 
+## Pornografie
+
+
+<Margin>
+
+
+Für Deutschland gibt es eine [Website](https://dickstinction.com/) zum automatisierten erstellen einer Anzeige gegen ungewollte «Dickpics».
+
+</Margin>
+
+
+Das zugänglich machen von pornografischem Material unterliegt in der Schweiz dem Strafgesetzbuch und ist insbesondere im Artikel 197 geregelt. Im Absatz 2 ist ausserdem vermerkt, dass unaufgefordertes anbieten straffällig ist. Dies gilt auch im privaten Kontext und das ungewollten Zusenden von pornografischen Inhalten (auch des eigenen Körpers) ist eine Straftat.
+
+> #### StGB Art. 197 – 4. Pornografie
+> ¹ Wer pornografische Schriften, Ton- oder Bildaufnahmen, Abbildungen, andere Gegenstände solcher Art oder pornografische Vorführungen einer Person unter 16 Jahren anbietet, zeigt, überlässt, zugänglich macht oder durch Radio oder Fernsehen verbreitet, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+>
+> ² Wer Gegenstände oder Vorführungen im Sinne von Absatz 1 öffentlich ausstellt oder zeigt oder sie sonst jemandem unaufgefordert anbietet, wird mit Busse bestraft. Wer die Besucher von Ausstellungen oder Vorführungen in geschlossenen Räumen im Voraus auf deren pornografischen Charakter hinweist, bleibt straflos.
+
+*Quelle: [Schweizerisches Strafgesetzbuch](https://www.admin.ch/opc/de/classified-compilation/19370083/index.html#a197) Stand am 1. Juli 2020*
+
+
+
+
+
+
 ## Weiterführende Informationen
 
 
