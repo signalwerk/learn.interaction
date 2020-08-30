@@ -247,6 +247,16 @@ Innerhalb von Text kann mittels SPAN-Text eine Formatierung gesteuert werden, di
 
 
 ### CSS
+
+
+<Margin>
+
+CSS hat sich über die Jahre immer weiter entwickelt. Heute gibt es für einige Dinge mehrere Möglichkeiten einen ähnlichen Effekt zu erzielen (Beispiel: [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) vs. [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)). Leute wie [Stephanie Eckles](https://moderncss.dev/) oder [Lea Verou](https://lea.verou.me/) betreiben spannende Blogs und zeigen neue Technologien zu CSS.
+
+
+</Margin>
+
+
 Cascading Style Sheets (DE: verschachtelte Gestaltungsvorlagen) ist eine Definition (deklarative Sprache), die das bestimmen von Stilvorlagen für HTML-Dateien ermöglicht. Der Namen bezieht sich auf die Eigenschaft, dass sich verschiedene Definitionen gegenseitig überschreiben oder ergänzen können. So können komplexe Formatierungen relativ einfach und für Menschen lesbar geschrieben werden. Der Browser führt dann den Inhalt der HTML-Datei mit der Formatierung aus dem CSS zusammen und sorgt so für die korrekte Darstellung.
 
 
