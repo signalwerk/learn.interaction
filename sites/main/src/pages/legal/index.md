@@ -188,6 +188,14 @@ Mit Creative Commons können Urheber von Texten, Fotos, Videos, Musik, ... sehr 
 
 
 ### Software
+
+<Margin>
+
+* [MIT-Lizenz verstehen](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)
+
+</Margin>
+
+
 Creative commons eignet sich nicht (oder nur sehr eingeschränkt) für Software-Lizenzierung. Hierfür gibt es jedoch andere Lizenzen, die eine frei Nutzung ermöglichen.
 Wichtig ist es zu prüfen, ob eine freie Lizenz ein so genanntes Copyleft aufweist. Dies bedeutet, dass jeglicher Code, der zum vorhandenen Code hinzugeschrieben wird, automatisch auch unter die Copyleft Lizenz fällt (virale Verbreitung). Dies wäre vorgängig mit Kunden und Programmierer zu prüfen. Viele Software-Produkte für den Browser (JavaScript) stehen unter einer Lizenz ohne Copyleft. Teils werden solche Libraries (Software-Pakete) auch unter einer freien Lizenz mit Copyleft und einer Lizenz ohne Copyleft angeboten (dual-licensing).
 
