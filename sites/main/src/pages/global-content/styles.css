@@ -1,0 +1,59 @@
+.example-txt .Box__inner {
+  background-color: #ddd;
+
+  padding-top: 0.7rem;
+  padding-right: 1.2rem;
+  padding-bottom: 0.9rem;
+  padding-left: 1.2rem;
+
+  margin-top: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.example-txt .Box__inner p {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.example--rtl {
+  text-align: right;
+}
+
+.example-wm {
+  white-space: nowrap;
+}
+
+.example-wm.Text1 span,
+.example-wm.Text1 {
+  writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  -ms-writing-mode: horizontal-tb;
+}
+
+.example-wm.Text2 span,
+.example-wm.Text2 {
+  writing-mode: vertical-lr;
+  -webkit-writing-mode: vertical-lr;
+  -ms-writing-mode: vertical-lr;
+}
+
+.example-wm.Text3 span,
+.example-wm.Text3 {
+  writing-mode: vertical-rl;
+  -webkit-writing-mode: vertical-rl;
+  -ms-writing-mode: vertical-rl;
+}
+
+.example-wm.Text4 span,
+.example-wm.Text4 {
+  writing-mode: sideways-lr;
+  -webkit-writing-mode: sideways-lr;
+  -ms-writing-mode: sideways-lr;
+}
+
+.example-wm.Text5 span,
+.example-wm.Text5 {
+  writing-mode: sideways-rl;
+  -webkit-writing-mode: sideways-rl;
+  -ms-writing-mode: sideways-rl;
+}

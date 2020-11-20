@@ -4,14 +4,10 @@ hideInMenu: true
 path: "root"
 ---
 
-
-
-Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
+Signalwerk GmbH – Stefan Huber · 2020 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <br />
 <br />
-
 
 ## Dokumentation
 
@@ -23,10 +19,9 @@ Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommo
 * [Grundlagen des Internets](/articles/internet-technology/)
 * [Fonts · Eigenschaften](/articles/font-anatomy/)
 * [Navigations- und Ordnungskonzepte](/articles/navigation/)
-
-
+* [Lokalisierung · Internationalisierung](/articles/global-content/)
 
 
 <!-- ## Stubs -->
-<!-- * [Touch-Interface](/touch/) -->
-<!-- * [Thesis](/thesis/) -->
+<!-- - [Spalten · Grids](/layouts/) -->
+<!-- * [Unicode](/unicode/) -->
