@@ -74,11 +74,11 @@ Die lateinische Schrift basiert auf einem so genannten Vierliniensystem. Alle Sc
 <Column start="9" end="13">
 
 1. Anstrich
-2. geschlossener Punze
-3. offener Punze
-4. Ohr, Fähnchen
-5. Abstrich
-6. Schulter
+2. geschlossener Punzen (closed counter)
+3. offener Punze (open counter)
+4. Ohr, Fähnchen (ear)
+5. Abstrich (terminal)
+6. Schulter (shoulder)
 
 </Column>
 
@@ -98,13 +98,13 @@ Die lateinische Schrift basiert auf einem so genannten Vierliniensystem. Alle Sc
 <Column start="9" end="13">
 
 
-1. Stamm, Grundstrich
-2. Haarstrich
-3. Serife
-4. Anstrich/Dachansatz
+1. Stamm, Grundstrich (stem)
+2. Haarstrich (hairline)
+3. Serife (serif)
+4. Anstrich/Dachansatz (ascender)
 5. Halbserife
-6. Schleife
-7. Achslage
+6. Schleife (loop)
+7. Achslage (axis)
 
 </Column>
 
@@ -124,7 +124,7 @@ Die lateinische Schrift basiert auf einem so genannten Vierliniensystem. Alle Sc
 
 <Column start="9" end="13">
 
-1. Einstöckiges a | Zweistöckiges a
+1. Einstöckiges a | Zweistöckiges a (two storey a)
 2. Zweistöckiges g | Dreistöckiges g
 3. Krückstock l (Erik Spiekermann) | normales l
 4. Amerikanische 1 | Europäische 1
