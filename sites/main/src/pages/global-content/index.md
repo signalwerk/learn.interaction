@@ -317,6 +317,10 @@ Meist sind geschichtliche Referenzen nur dann zu verstehen, wenn Sie sehr bekann
 
 * [Typographizer](https://github.com/frankrausch/Typographizer) korrigiert Anführungszeichen in nativen Applikationen (für Programmierer).
 
+#### Sonstiges
+
+* [The end of 'chop suey' fonts](https://edition.cnn.com/style/article/chop-suey-fonts-hyphenated/index.html)
+
 </Margin>
 
 
