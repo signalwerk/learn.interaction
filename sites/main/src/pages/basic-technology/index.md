@@ -637,6 +637,8 @@ In der HTML-Datei wird die Datei mit einem Script-Tag eingebunden.
 ### Code und dessen Bedeutung
 * [Paul Ford: What Is Code? · Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
+### JavaScript
+* [1loc – eine Zeile JS](https://1loc.dev/)
 
 <br />
 <br />
