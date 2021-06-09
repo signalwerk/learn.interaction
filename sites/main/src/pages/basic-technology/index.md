@@ -639,6 +639,7 @@ In der HTML-Datei wird die Datei mit einem Script-Tag eingebunden.
 
 ### JavaScript
 * [1loc – eine Zeile JS](https://1loc.dev/)
+* [DOM mit JavaScript manipulieren](https://htmldom.dev/)
 
 <br />
 <br />
