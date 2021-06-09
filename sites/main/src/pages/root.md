@@ -4,7 +4,7 @@ hideInMenu: true
 path: "root"
 ---
 
-Signalwerk GmbH – Stefan Huber · 2020 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Signalwerk GmbH – Stefan Huber · 2021 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <br />
 <br />
