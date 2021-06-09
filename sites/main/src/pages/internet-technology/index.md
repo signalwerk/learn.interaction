@@ -123,7 +123,7 @@ Um einen Dienst eines Servers zu nutzen, muss der Client das verwendete Protokol
 
 </Margin>
 
-Viele Dienste im Internet sind über sogenannte URL (uniform resource locator) erreichbar. Diese URL enthalten angaben über das verwendete Protokoll, wie auch über die angefrage Resource (z.B. Datei).
+Viele Dienste im Internet sind über sogenannte URL (uniform resource locator) erreichbar. Diese URL enthalten angaben über das verwendete Protokoll, wie auch über die angefrage Resource (z.B. Datei). Da einmal pulizierte URLs verlinkt werden, empfiehlt es sich, URLs möglichst konstant zu halten und nicht mehr zu verändern ([«Cool URIs don't change» – Tim Berners-Lee](https://www.w3.org/Provider/Style/URI.html)).
 
 
 ### Anzeigen einer Website
