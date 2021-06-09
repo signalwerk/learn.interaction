@@ -555,6 +555,9 @@ In Österreich gibt es zum Beispiel [über 1500](https://karriere.sn.at/karriere
 Beispiel der [Wiener Staatsoper](https://www.wiener-staatsoper.at/)
 
 
+Im globalen Kontext kann man auch ganz viele Annahmen, die man aus einer westlichen Sicht macht (Personen haben Vornamen, Nachnamen, standardisierte Schreibweisen…) oftmals nicht als gegeben erachten. Das W3C gibt hier ein paar gute Empfehlungen hierzu im [«Personal names around the world
+»](https://www.w3.org/International/questions/qa-personal-names)
+
 
 ## Masseinheiten
 
