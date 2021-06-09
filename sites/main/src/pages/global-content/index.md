@@ -1,7 +1,7 @@
 ---
 title: Lokalisierung · Internationalisierung
 author: "Stefan Huber"
-date: "2019-11-19"
+date: "2021-06-09"
 draft: false
 path: "/articles/global-content/"
 category: "article"
