@@ -17,8 +17,9 @@ import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import Column from 'gatsby-theme-signalwerk/src/components/Column';
 import Box from 'gatsby-theme-signalwerk/src/components/Box';
-import './styles.css';
+import StyleLoaderGlobalContent from "./styleLoader";
 
+<StyleLoaderGlobalContent/>
 
 
 ## Intro

@@ -17,7 +17,9 @@ import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import Column from 'gatsby-theme-signalwerk/src/components/Column';
 import Box from 'gatsby-theme-signalwerk/src/components/Box';
+import StyleLoader from "./styleLoader";
 
+<StyleLoader/>
 
 ## Disclaimer
 Dieses Dokument soll nur zur groben Information dienen es stellt keine Rechtsberatung dar und kann auch keine Rechtsberatung ersetzen.
