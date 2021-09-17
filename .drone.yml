@@ -3,17 +3,12 @@ name: default
 
 steps:
   - name: submodules
-    image: alpine/git
+    image: docker:git
     commands:
       - mkdir ~/.ssh
       - chmod 700 ~/.ssh
-      - eval `ssh-agent -s`
-      - openssl aes-256-cbc -md sha256 -d -in "$ROOT_DIR/ci/.ssh/id_rsa.enc" -pass "pass:$DECRYPT_KEY" | ssh-add -
       - ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
       - git submodule update --init --recursive --remote
-    environment:
-      DECRYPT_KEY:
-        from_secret: "DECRYPT_KEY"
   - name: build
     image: node:16
     commands:
