@@ -5,6 +5,7 @@ steps:
   - name: submodules
     image: docker:git
     commands:
+      - mkdir ~/.ssh/
       - ssh-keyscan github.com >> ~/.ssh/known_hosts
       - git submodule update --init --recursive --remote
   - name: build
