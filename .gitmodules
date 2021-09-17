@@ -1,6 +1,6 @@
 [submodule "themes/gatsby-theme-signalwerk"]
 	path = themes/gatsby-theme-signalwerk
 	url = https://github.com/signalwerk/gatsby-theme-signalwerk.git
-[submodule "media"]
-	path = sites/main/src/pages/media
-	url = https://github.com/signalwerk/learn.interaction.media.git
+[submodule "content/media"]
+	path = content/media
+	url = git@github.com:signalwerk/learn.interaction.media.git
