@@ -10,7 +10,7 @@ steps:
       - chmod 700 ~/.ssh
       - ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
       - eval `ssh-agent -s`
-      - openssl aes-256-cbc -md sha256 -d -in "$ROOT_DIR/ci/.ssh/id_rsa.enc" -pass "pass:$DECRYPT_KEY" | ssh-add -
+      - openssl aes-256-cbc -md sha256 -d -in "$(pwd)/ci/.ssh/id_rsa.enc" -pass "pass:$DECRYPT_KEY" | ssh-add -
       - git submodule update --init --recursive --remote
     environment:
       DECRYPT_KEY:
