@@ -11,7 +11,7 @@ module.exports = {
   ],
 
   siteMetadata: {
-    title: "Learn Interaction",
+    title: "Interaction Design",
     author: "Stefan Huber",
     authorUrl: "http://signalwerk.ch/",
     description: "Articles of Stefan Huber",

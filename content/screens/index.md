@@ -1,7 +1,7 @@
 ---
 title: "Screens"
 author: "Stefan Huber"
-date: "2019-09-04"
+date: "2021-09-16"
 draft: false
 path: "/articles/screens/"
 category: "article"
@@ -184,24 +184,25 @@ Smartphone, Tablet, Desktop
 
 
 ### OLED
-<Margin background>
 
-[Weitere Informationen](http://www.lg.com/global/business/information-display/technology-solution/oled)
-
-</Margin>
 
 Seit wenigen Jahren sind OLED (organic light emitting diode) eine weitere Display-Technologie, die vermehrt Einsatz findet. Vor allem kleinere Screens, wie in Smartphones verbaut, halten vermehrt mit dieser neuen Technologie einzug. Während beim TFT LCD das Licht über eine weisse Hingergrundbeleuchtung kommt und gefiltert wird, wird beim OLED farbiges Licht ausgestrahlt.
 
+<Grid>
 
 <video controls>
   <source src="https://cdn.jsdelivr.net/gh/signalwerk/IAD.LAB.DOC@35af6c6774dd58657eaf9a66d186d1bc36dd6505/pages/screens/img/REC016.mp4" type="video/mp4" />
   <source src="https://cdn.jsdelivr.net/gh/signalwerk/IAD.LAB.DOC@35af6c6774dd58657eaf9a66d186d1bc36dd6505/pages/screens/img/REC016.webm" type="video/webm" />
 </video>
 
-iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)
+</Grid>
+
+iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Video)
 
 Quelle: Stefan Huber
 
+
+<Grid>
 
 ![](../media/data/screen/oled-principle/OLED_detail.jpg)
 
@@ -214,6 +215,9 @@ Bildquelle: [LG](http://www.lg.com/global/business/information-display/technolog
 Bildquelle: [Gamezone/LG](https://www.mweb.co.za/games/NewsArticles/tabid/2561/Article/30977/Samsung-QLED-How-does-its-display-work-and-is-it-better-than-OLED.aspx)
 
 OLED Varriante, bei dem zusätzlich zu RGB auch noch eine Weisskomponente angesteuert wird ([WRGB OLED](https://www.youtube.com/watch?v=3qRhTKOu9Pw)).
+
+</Grid>
+
 
 ### OLED & Darkmode
 
@@ -241,7 +245,8 @@ Seit etwa 2018 gibt es auf diversen Betriebsystemen Unterstüztung für so genan
 
 </Margin>
 
-Damit eine Animation flüssig auf dem Bildschirm erscheint, sollten zwischen 20 – 30 Frames pro Sekunde (fps) neu gezeichnet werden. 60 Frames pro Sekunde sind ideal. Viele Monitore können 60 Frames pro Sekunde anzeigen. Die limitierende Komponente ist meist eher ob der Computer in der Lage ist, so schnell die Bilder zu berechnen.
+Damit eine Animation flüssig auf dem Bildschirm erscheint, sollten zwischen 20 – 30 Frames pro Sekunde (fps) neu gezeichnet werden. 60 Frames pro Sekunde sind ideal. Viele Monitore können 60 Frames pro Sekunde anzeigen. Die limitierende Komponente ist meist eher ob der Computer in der Lage ist, so schnell die Bilder zu berechnen.  
+Neuere Technologiekonzepte ermöglichen auch unterschiedliche Frameraten je nach Verwendung auf dem Bildschirm zu erzeugen. [Apple Beispiel für adaptieven Framerate](https://youtu.be/EvGOlAkLSLw?t=3706)
 
 
 

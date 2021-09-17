@@ -699,36 +699,34 @@ Ist der Renderer in der Lage die neuen Instruktionen im Font zu lesen, so kann d
 
 ### Subpixel-Rendering
 * [Subpixel-Rendering – Wikipedia](http://de.wikipedia.org/wiki/Subpixel-Rendering)
-* [Subpixel rendering: from font rendering to image subsampling](https://ieeexplore.ieee.org/document/6494674/)
 * [Apple – Advanced Typography with Mac OS X](https://wwwimages2.adobe.com/content/dam/acom/en/products/type/pdfs/FontsonMacOSX.pdf)
 
 ### Farbige Fonts
 * [Pixelambacht – multicolor fonts](https://pixelambacht.nl/2014/multicolor-fonts/)
 * [Color fonts from Adobe Type](https://color.typekit.com/)
 * [OpenType-SVG color fonts](https://helpx.adobe.com/typekit/using/ot-svg-color-fonts.html)
-* [Colorfont – JavaScript Solution](http://manufacturaindependente.com/colorfont/)
-* [Typography.Guru – Color Emoji](http://typography.guru/journal/windows-color-fonts/)
 * [OpenType - Wikipedia](https://en.wikipedia.org/wiki/OpenType#Color)
 
-### Andere Renderings
-* [Checkerboard rendering](https://en.wikipedia.org/wiki/Checkerboard_rendering)
+
+## Variable Fonts
+* [Introduction to variable fonts on the web])https://web.dev/variable-fonts/()
+* [Variable Fonts bei Google](https://fonts.google.com/?vfonly=true)
+* [Alle Achsen von Variable Fonts bei Google](https://fonts.google.com/variablefonts)
+* [CSS für Variable Fonts von Google](https://developers.google.com/fonts/docs/css2)
 
 <br />
 <br />
 <br />
 <hr />
 
-#### Autor
-Stefan Huber  
-sh@signalwerk.ch  
-+41 78 744 37 38
+
 
 #### Dokumentgeschichte
 Mai 2014: Erstellung  
 September 2015: Erweiterung  
 März 2017: Erweiterung  
 Juni 2018: Erweiterung  
-September 2021: Erweiterung  
+September 2021: Überarbeitung  
 
 
 <br />
