@@ -3,4 +3,4 @@
 
 ## Grundlagen
 * [Alte Unterlagen HF Viskom](https://signalwerk.github.io/webdesign.IAD/)
-* [Unterlagen HF IAD](https://github.com/signalwerk/IAD.LAB.DOC)
+* [Unterlagen HF IAD 2017](http://iad2017.signalwerk.ch/)

@@ -1,5 +1,5 @@
 [submodule "themes/gatsby-theme-signalwerk"]
-	path = themes/gatsby-theme-signalwerk
+	path = plugins/gatsby-theme-signalwerk
 	url = https://github.com/signalwerk/gatsby-theme-signalwerk.git
 [submodule "content/media"]
 	path = content/media

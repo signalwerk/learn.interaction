@@ -1,10 +1,5 @@
 /node_modules
-/sites/example/public
-/sites/example/node_modules
-/sites/example/.cache
-travis/.ssh/id_rsa
-/sites/main/.cache
-/sites/main/node_modules
-/sites/main/public
 ci/.ssh/id_rsa
 ci/.ssh/secret.key
+/public
+/.cache
