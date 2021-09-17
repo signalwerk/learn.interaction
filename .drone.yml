@@ -5,6 +5,9 @@ steps:
   - name: submodules
     image: alpine/git
     commands:
+      - mkdir ~/.ssh
+      - chmod 700 ~/.ssh
+      - ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
       - git submodule update --init --recursive --remote
   - name: build
     image: node:16
