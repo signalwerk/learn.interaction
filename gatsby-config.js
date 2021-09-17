@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/learn.interaction`,
+  // pathPrefix: `/learn.interaction`,
 
   plugins: [
     {
