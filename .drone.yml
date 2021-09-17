@@ -5,6 +5,7 @@ steps:
   - name: submodules
     image: docker:git
     commands:
+      - apk add --update openssl 
       - mkdir ~/.ssh
       - chmod 700 ~/.ssh
       - ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
