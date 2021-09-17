@@ -13,7 +13,8 @@ steps:
       - git submodule update --init --recursive --remote
     environment:
       DECRYPT_KEY:
-        from_secret: "DECRYPT_KEY"  - name: build
+        from_secret: "DECRYPT_KEY"
+  - name: build
     image: node:16
     commands:
       - npm ci
