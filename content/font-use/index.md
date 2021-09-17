@@ -1,18 +1,33 @@
 ---
 title: Fonts · Verwendung
+author: "Stefan Huber"
+date: "2021-09-16"
+draft: false
+path: "/articles/font-use/"
+category: "article"
+tags:
+  - "fonts"
+  - "css"
+  - "html"
+  - "Typografie"
+description: "Fonts "
 ---
-# Fonts · Verwendung
 
-::: TOC
-**Content**
-[[TOC]]
-:::
+import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import Column from 'gatsby-theme-signalwerk/src/components/Column';
+import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
-<div class='header'></div>
+
+
 
 ## Fonts auf Websites
 ### Geschichte
-::: margin compact
+
+
+
+<Margin>
+
 #### Browser mit Webfont-Unterstüzung
 * Chrome 4.0+
 * Internet Explorer 4+
@@ -22,7 +37,10 @@ title: Fonts · Verwendung
 
 Quelle: [Web typography - Wikipedia](https://en.wikipedia.org/wiki/Web_typography)
 
-:::
+
+</Margin>
+
+
 Seit Computer eine Darstellung an einem Bildschirm aufweisen, wurde immer wieder nach technischen und gestalterischen Möglichkeiten gesucht, Schriften möglichst den Wünschen des Gestalters entsprechend dar zu stellen. Als das World Wide Web 1993 durch das CERN frei gegeben wird, war die Formatierung noch nicht durch einen Gestalter zu beeinflussen. Lediglich der Browser bestimmte das aussehen. Mit der Einführung von CSS im Jahre 1996 wurde dann die Möglichkeit geschaffen, Schriften einem Inhalt zu zuweisen. Allerdings musste der entsprechende Font bereits auf dem Zielgerät installiert sein. Bereits 1997 ermöglichte Microsoft mit damaliger Technologie in Ihrem Browser das Laden von Fonts über das Internet. Somit wurde es möglich, eigene Schriften einzusetzen. Doch diese Technologie war nur auf Internet Explorer (Windows) verfügbar und auch von den Font-Anbietern sehr schlecht akzeptiert. Erst im Jahre 2009 wurde auf Grundlage von OpenType ein neues Format namens «WOFF» (Web Open Font Format) entwickelt. Dieses Format wurde sehr schnell von Browser-Herstellern und von Font-Anbietern akzeptiert, so dass heute Problemlos auf allen wichtigen Browsern der vom Gestalter gewünschte Font dynamisch in die Seite geladen werden kann.
 
 
@@ -33,13 +51,12 @@ Unter Systemfonts wird häufig eine Auswahl an Schriften verstanden, die zu eine
 #### Beispiel
 CSS-Definition mit Font-Fallbacks:
 
-::: code
-<pre>
+```css
 p {
   font-family: Arial, Helvetica, sans-serif;
 }
-</pre>
-:::
+```
+
 Es wird versucht zuerst Arial einzusetzen. Wenn keine Arial vorhanden ist, soll Helvetica zum Einsatz kommen und sonst eine beliebige Serifenlose.
 
 
@@ -52,15 +69,23 @@ Meist kommt bei Webfonts das WOFF (Web Open Font Format) zum Einsatz. Seit 2014 
 Verfügt man über eine Lizenz eines Webfonts, so kann diese Schrift dynamisch zur Seite hinzugeladen werden. Der Gestalter weiss somit, wie seine Seite aussehen wird und kann die Typografie vollständig kontrollieren.
 
 #### Beispiel
-::: margin compact
+
+
+
+<Margin>
+
+
 #### Fallback
 Damit der Webfont von möglichst vielen Browsern gelesen werden kann, werden diverse Fallbacks definiert.
-:::
+
+</Margin>
+
+
+
 
 CSS-Definition für Webfonts:
 
-::: code
-<pre>
+```css
 @font-face {
   font-family: 'Open Sans';
   src: url('opensans-reg-web.eot'); /* IE9 */
@@ -68,15 +93,15 @@ CSS-Definition für Webfonts:
   url('opensans-reg-web.woff2') format('woff2'), /* Modern Browsers */
   url('opensans-reg-web.woff') format('woff'), /* OK Browsers */
   url('opensans-reg-web.ttf') format('truetype'); /* Safari, Android, iOS */
-  font-weight: normal; <!–– ** ––>
+  font-weight: normal;
   font-style: normal;
 }
 
 p {
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
 }
-</pre>
-:::
+```
+
 
 
 
@@ -85,15 +110,14 @@ p {
 
 #### Beispiel google-Fonts
 
-::: code
-<pre>
+```css
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 p {
   font-family: 'Open Sans', sans-serif;
 }
-</pre>
-:::
+```
+
 
 
 ### Unicode Range
@@ -102,8 +126,7 @@ Möchte man nur eine speziefische Auswahl an Buchstaben (Subset) eines Fonts von
 #### Beispiel
 CSS-Definition mit `unicode-range` aus zwei font-faces:
 
-::: code
-<pre>
+```css
 @font-face {
   font-family: 'Open Sans';
   src: url('opensans-reg-web.eot');
@@ -113,7 +136,7 @@ CSS-Definition mit `unicode-range` aus zwei font-faces:
   url('opensans-reg-web.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
-  unicode-range: U+000-5FF; /* Latin glyphs */  <!–– ** ––>
+  unicode-range: U+000-5FF; /* Latin glyphs */
 }
 
 @font-face {
@@ -125,25 +148,33 @@ CSS-Definition mit `unicode-range` aus zwei font-faces:
   url('special-web.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
-  unicode-range: U+0061; /* overwrite for letter a */  <!–– ** ––>
+  unicode-range: U+0061; /* overwrite for letter a */
 }
 
 p {
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
 }
-</pre>
-:::
+```
+
 
 ### OpenType features
 
 
-::: margin compact
+
+
+
+<Margin>
+
+
 #### Links
 * [Übersicht über die OpenType-Features von Adobe](https://helpx.adobe.com/typekit/using/open-type-syntax.html#ordn)
 * [Anwendung – css-tricks](https://css-tricks.com/almanac/properties/f/font-feature-settings/)
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings)
 * [Google vs. Font Features](https://blog.bramp.net/post/2018/01/21/google-font-features/)
-:::
+
+</Margin>
+
+
 
 Auch im Web sind OpenType features wie Ligaturen oder verschiedenen Zahlensets möglich. Der Browser-Support ist hierfür gut, jedoch müssen natürlich die entsprechenden Features im Font vorhanden sein.
 
@@ -151,38 +182,35 @@ Auch im Web sind OpenType features wie Ligaturen oder verschiedenen Zahlensets m
 #### Beispiele
 CSS-Definition mit aktivierten Brüchen:
 
-::: code
-<pre>
+```css
 .bsp1  {
     font-feature-settings: "frac";
 }
-</pre>
-:::
+```
 
-<br>
+
+
 
 CSS-Definition mit aktivierten tabelarischen (`lnum`) Mediävalziffern (`onum`):
 
-::: code
-<pre>
+```css
 .bsp2  {
     font-feature-settings: "lnum", "onum";
 }
-</pre>
-:::
+```
 
 
-<br>
+
+
 
 CSS-Definition mit ausgeschalteten Ligaturen:
 
-::: code
-<pre>
+```css
 .bsp3  {
     font-feature-settings: "liga" 0;
 }
-</pre>
-:::
+```
+
 
 #### Gängige Features
 Um bei eienm Font OpenType-Features zu nutzen, muss die Dokumentation vom Font/Schriftenhersteller konsultiert werden um zu erfahren, welche Features verfügbar sind.
@@ -210,36 +238,46 @@ Einige gängige Features sind die auch in CSS abrufbar sind;
 
 
 
-<div class='header'></div>
+
+
 
 ## Font-Konzepte fürs Web
 ### Responsive Grösse
 Fonts können auf die grösse des Geräts oder die grösse des Fensters reagieren. So können zum Beispiel Schriftgrössen abhängig von der Fenstergrösse (Viewport) definiert werden. Oder aber wenn das Layout von einer zweispaltigen Darstellung in eine einspaltige Darstellung wechselt (bei mobilen Geräten), kann eine ander Schriftgrösse gewählt werden.
 
-<br>
 
-::: grid fullsize
+
+<Grid>
+
+
 ![Schriftgrösse wird gemäss Viewport angepasst](./img/ViewportSizedAll.png)
 
 Mit CSS ist es möglich je nach Fensterbreite die Schrift in der Grösse anzupassen.
-:::
-<br>
+
+
+</Grid>
+
 
 
 ### Font abhängig von Fenstergrösse
 Bei diesem noch eher neuen Konzept ist die Idee, dass sich nicht nur die Grösse des Fonts dem Fenster anpasst, sondern dass auch der Font selber dem Fenster oder der Bildschirmgrösse angepasst wird. Diese Technologie ist heute schon möglich.
 
-<br>
 
-::: grid fullsize
+
+<Grid>
+
+
 ![Anpassen von Fonts gemäss Fensterbreite](./img/FontToWidthAll.png)
 
 Fontwechsel – Auswechseln von Fonts abhängig von der Fenstergrösse.
-:::
+
+
+</Grid>
 
 
 
-<div class='header'></div>
+
+
 
 
 
@@ -247,7 +285,12 @@ Fontwechsel – Auswechseln von Fonts abhängig von der Fenstergrösse.
 
 
 ### Vorgeschichte
-::: margin compact
+
+
+
+<Margin>
+
+
 #### Links
 
 * [Verzeichnis von Variable Fonts](https://v-fonts.com/)
@@ -255,15 +298,23 @@ Fontwechsel – Auswechseln von Fonts abhängig von der Fenstergrösse.
 * [Getting started with variable fonts](https://clagnut.com/blog/2389/)
 * [Variable Fonts on the Web – WebKit](https://webkit.org/blog/7051/variable-fonts-on-the-web/)
 * [The Typekit Blog – Variable fonts](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
-:::
+
+</Margin>
+
+
+
 Im Jahr 2015 entstanden die ersten JavaScript-Experimente mit denen Fonts live im Web-Browser interpoliert (Zwischenschnitt zwischen zwei Extrem-Schriftschnitten) wurden und dann für die Anzeige verwendet wurden. Somit konnte auf die Umstände der Anzeige (Bildschirmgrösse, Gerät, ...) reagiert werden. Dieses Konzept war jedoch technisch nicht ausgereift genug für produktive Systeme. Es war eher ein «proof of concept».
 
-<br>
 
 
-::: grid
+
+<Grid>
+
 ![Anpassen von Fonts gemäss Fensterbreite](./img/InterpolationAll.png)
-:::
+
+
+</Grid>
+
 Anpassen des Fonts je nach Fenstergrösse.
 
 Bildquelle: [A List Apart – Live font interpolation](http://alistapart.com/d/412/interpolation/)
@@ -285,21 +336,27 @@ Im Moment werden Variable Fonts gerade in die Software-Produkte eingebaut. Erste
 * `font-style` – Schriftlage zwischen -90° und +90°
 * `font-optical-sizing` – Optische Schriftgrösen ein- oder ausschalten
 
-<br>
+
 
 Daneben lassen sich aber auch weitere Werte-Achsen wie folgt definieren;
 
-::: margin
-Hier wird jeweils eine Werte-Achse mit vier Buchstaben (vom Designer bestimmt) mit einem Wert angewandt.
-:::
 
-::: code
-<pre>
+<Margin>
+
+
+
+Hier wird jeweils eine Werte-Achse mit vier Buchstaben (vom Designer bestimmt) mit einem Wert angewandt.
+
+
+</Margin>
+
+
+```css
 p {
     font-variation-settings: "wdth" 600, "wght" 200, "opsz" 48;
 }
-</pre>
-:::
+```
+
 
 
 
@@ -312,10 +369,18 @@ p {
 
 
 ## Fonts finden & testen
-::: margin compact
+
+
+
+<Margin>
+
+
 #### Mieten von Desktop-Fonts
 Auf fontstand.com können Desktop-Fonts gemietet werden. Dies ermöglicht Entwürfe dem Kunden vor zu legen, ohne den Font gekauft zu haben.
-:::
+
+</Margin>
+
+
 Fonts für Web- und Screendesign können von fast allen grossen und kleinen Font-Foundrys erworben werden. Es gibt vereinzelt Schriften, die (noch) nicht für den Web-Einsatz lizenziert werden können, dies ist jedoch eher die Ausnahme. Für Anwendungen ausserhalb des Webs – aber auf Screens – gibt es eher wenige Anbieter. So bietet zum Beispiel Linotype auch für eBooks, Apps und Server-Anwendungen Lizenzen. Diese Lizenztypen sind jedoch bei anderen Firmen oft nur mit Verhandlungen zu erwerben und es gibt keine standardisierten Prozesse.
 Das Vorgehen zur Recherche von neuen Schriften unterscheidet sich nicht wesentlich vom finden von Schriften für den Print-Bereich. Sucht man eine Schrift, deren Name schon bekannt ist, so kann direkt zum Anbieter gesprungen werden. Ist man eher auf der Suche nach einem bestimmten Stil, kann eine Font-Plattform wie myfonts.com genutzt werden um ein entsprechendes Design zu finden.
 
@@ -323,26 +388,40 @@ Das Vorgehen zur Recherche von neuen Schriften unterscheidet sich nicht wesentli
 Beim Suchen von Schriften ist es ratsam, die Schrift möglichst in einem Live-Preview auf die Tauglichkeit am Bildschirm zu prüfen. Deshalb können Fonts bei immer mehr Anbietern entweder auf der Seite getestet werden, oder aber Sie kooperieren mit Test-Platformen wie zum Beispiel typecast.com. Bei solch einem Dienst kann bereits vor dem Kauf geprüft werden, ob die Schrift bei gewünschter Anwendung, Grösse und Schriftmischung auf dem Screen funktioniert.
 
 
-<br>
-<br>
 
-::: margin
+
+
+
+<Margin>
+
+
+
 ### Vor dem Kauf testen
 Auf typecast.com können Text-Layouts bereits vor dem Kauf einer Schrift definiert und editiert werden.
 Dies erleichtert die Wahl eines geeigneten Fonts und zudem kann dem Kunden bereits ein Eindruck der fertigen Site vermittelt werden.
-:::
 
-::: imageline
+</Margin>
+
+
+<Box line>
+
 ![Fonts mit typecast.com testen](./img/typecast.png)
-:::
 
-<div class='header'></div>
+</Box>
+
+
+
 
 
 
 
 ## Fontlizenzen
-::: margin compact
+
+
+
+<Margin>
+
+
 #### Mieten (pro Monat)
 * [fonts.com](https://www.fonts.com/unlimited#pricing)
 * [Typekit](https://typekit.com/plans)
@@ -354,7 +433,8 @@ Dies erleichtert die Wahl eines geeigneten Fonts und zudem kann dem Kunden berei
 #### Views kaufen
 * [→ linotype.com](https://www.linotype.com/de/)
 
-:::
+</Margin>
+
 Es gibt grundsätzlich drei verschiedene Arten von kommerziellen Font-Lizenzen:
 
 
@@ -371,7 +451,8 @@ Es gibt Anbieter, die Views verkaufen. Das heisst, dass mit jedem Besuch einer W
 ### Zeichensatz
 Wird die Schrift auf einer Seite eingesetzt, bei der viele Sprachen oder sonst spezielle Zeichen vorkommen, so ist es empfehlenswert zu Prüfen, ob die Schrift auch den nötigen Zeichensatz abdeckt. Auch OpenType-Features werden von den Schriftherstellern normalerweise vor dem Kauf angegeben.
 
-<div class='header'></div>
+
+
 
 ## Freefonts – Kommerzielle Fonts
 Es gibt von diversen Font Foundries, Firmen und Enthusiasten qualitativ sehr hochwertige und gute Schriften, die frei verfügbar sind. Dabei gibt es diverse Abstufungen. Es gibt ganze Schriftfamilien, die frei sind, dann gibt es Schriftfamilien, bei denen einzelne Schnitte frei sind, oder es gibt Fonts, bei denen ein gewisser Zeichenumfang frei ist. Damit nicht bei den einzelnen Stellen im Web nach den Fonts gesucht werden muss, empfiehlt es sich, Portale zu verwenden, die einem die verschiedenen Fonts sortiert präsentieren oder eine schnelle Suche ermöglichen. Auch bieten solche Portale zum Teil die Möglichkeit, die Fonts gleich von deren Server zu laden (google Fonts) oder gewisse Konvertierungen für den Webgebrauch (fontsquirrel) zu erledigen.
@@ -380,53 +461,60 @@ Die benötige Fontlizenz für eine Website sollte mit dem Kunden geklärt werden
 ### Kunde oder Agentur
 Aus finanzieller Überlegung kann es attraktiv sein, die Schriftlizenzen für alle Kunden über ein Konto der Agentur zu kaufen. So können die Kosten auf die verschiedenen Webprojekte umgelegt werden. Dies hat jedoch auch den Nachteil, dass die Agentur die Verantwortung gegenüber dem Kunden hat, den Account zu bezahlen und pflegen.
 
-<br>
-<br>
-<br>
 
-::: margin
+
+
+
+
+<Margin>
+
+
+
 #### fonts.com
 Im nebenstehenden Beispiel sieht man, dass für $32 pro Monat eine Million Views für beliebig viele Domains erworben werden kann.
-::::
+
+</Margin>
+
 ![Abonnement für fonts.com](./img/fontcom_subscription.png)
 
 
 
 
 
-<div class='header'></div>
+
+
 
 ## Iconfonts
 Icons werden auf Websites oft verwendet um Inhalte schneller und einfacher zugänglich zu machen. Aus technischer Sicht ist es relativ einfach – für einen Programmierer – diese Icons in einen Font zu konvertieren. Zudem haben solche Icons den Vorteil, dass Sie auf vielen Betriebsystemen und Browsern funktionieren und vektorbasiert aufgebaut sind. Als Nachteil ist zu beklagen, dass für die Accessibility (Menschen mit Behinderung einen Zugang ermöglichen) es oftmals keine gute Idee ist, die Icons mit Schrift zu machen, da die Zeichen dann als Inhalt verstanden werden und zum Beispiel Screen-Reader damit Probleme haben können.
 
-<br>
-<br>
 
-::: margin
+
+
+
+<Margin>
+
+
+
 ### Iconfonts optimieren
 Fontello.com bietet die Möglichkeit aus diversen freien Icon-Fonts sich die nötigen Icons zu suchen und dann einen eignenen Icon-Font daraus zu erstellen. Auch können eigene Icons in den Font eingebunden werden.
-:::
 
-::: imageline
+
+</Margin>
+
+
+<Box line>
+
 ![Iconfont von fontello.com](./img/fontello.png)
-:::
+
+</Box>
 
 
 
 
 
-<div class='header'></div>
 
-::: margin printonly
-#### Autor
-Stefan Huber  
-sh@signalwerk.ch  
 
-#### Dokumentgeschichte
-September 2015: Erstellung  
-März 2017: Erweiterung  
-März 2018: Erweiterung  
-:::
+
 
 ## Weiterführende Informationen
 
@@ -471,3 +559,16 @@ März 2018: Erweiterung
 * [WOFF File Format 1.0](http://www.w3.org/TR/WOFF/)
 * [WOFF File Format 2.0](https://www.w3.org/TR/WOFF2/)
 * [Google Developers Blog – WOFF 2.0](http://googledevelopers.blogspot.hu/2015/02/smaller-fonts-with-woff-20-and-unicode.html)
+
+
+
+
+#### Dokumentgeschichte
+September 2015: Erstellung  
+März 2017: Erweiterung  
+März 2018: Erweiterung  
+September 2021: Erweiterung  
+
+
+<br />
+<br />
