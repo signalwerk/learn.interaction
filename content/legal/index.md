@@ -139,7 +139,7 @@ Quelle: [→ infosec.ch](https://www.infosec.ch/downloads/referate/MSI20180122/M
 
 
 ## Offene Lizenzen
-<Margin>
+<Margin background>
 
 #### Zwerge auf den Schultern von Riesen
 > Wenn ich weiter geblickt habe,
@@ -158,7 +158,7 @@ Im Internet sind viele Dienste, Programme und Inhalte frei zugänglich. Das heis
 
 
 ### Creative Commons
-<Margin>
+<Margin background>
 
 ![Creative Commons Logo](./img/cc-logo.svg)
 
@@ -191,7 +191,7 @@ Mit Creative Commons können Urheber von Texten, Fotos, Videos, Musik, ... sehr 
 
 ### Software
 
-<Margin>
+<Margin background>
 
 * [MIT-Lizenz verstehen](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)
 
@@ -224,7 +224,7 @@ Folgende Punkte sollten beachtet werden, wenn jemandem ein Massenmail gesendet w
 ## Pornografie
 
 
-<Margin>
+<Margin background>
 
 
 Für Deutschland gibt es eine [Website](https://dickstinction.com/) zum automatisierten erstellen einer Anzeige gegen ungewollte «Dickpics».

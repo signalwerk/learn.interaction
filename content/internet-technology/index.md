@@ -22,7 +22,7 @@ import Box from 'gatsby-theme-signalwerk/src/components/Box';
 ## Digitale Kommunikation
 
 
-<Margin>
+<Margin background>
 
 #### digital
 Vom Lateinischen: «digitus» → Finger. Digital meint eine (mit den Fingern) abzählbare Einordnung von Dingen.
@@ -39,7 +39,7 @@ Die Entwicklung der modernen elektronischen Digitalrechner begann in den 1930er 
 
 ## Geschichte des Internets
 
-<Margin>
+<Margin background>
 
 #### Tim Berners-Lee
 ![Tim Berners-Lee 2012](../media/data/internet-technology/Tim_Berners-Lee_2012.jpg)
@@ -58,7 +58,7 @@ Das ARPAnet (Advanced Research Projects Agency Network) wurde vom US-Verteidigun
 
 ### Dotcom-Blase und Soziale Netzwerke
 
-<Margin>
+<Margin background>
 
 #### NASDAQ <br/>(Technologie-Kurs USA)
 ![Nasdaq](../media/data/internet-technology/Nasdaq2.png)
@@ -76,7 +76,7 @@ Durch die stetige technische Verbesserung und dem vermehrten Zugang von Privatpe
 
 
 
-<Margin>
+<Margin background>
 
 #### IP-Adressen
 Jeder Host (Computer im Netz) erhält eine eigene IP-Adresse. Damit wird der Computer eindeutig ansprechbar.
@@ -109,7 +109,7 @@ Um einen Dienst eines Servers zu nutzen, muss der Client das verwendete Protokol
 
 ## URL
 
-<Margin>
+<Margin background>
 
 #### Bestandteile einer URL
 | Teil    | Bedeutung                 |
@@ -143,7 +143,7 @@ Möchte man die Domain gezielt an einen neuen Halter überführen, so kann dies 
 
 ## Registrare in der Schweiz
 
-<Margin>
+<Margin background>
 
 #### Switch ist nicht mehr zuständig
 Seit dem 1. Januar 2015 darf SWITCH keine .ch-Domain-Namen mehr direkt an die Kundinnen und Kunden verkaufen. Diese Aufgabe wurde – gemäss der neuen, per 2015 in Kraft getretenen Verordnung über die Internet-Domains – den Registraren übertragen.

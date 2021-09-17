@@ -28,7 +28,7 @@ import StyleLoaderGlobalContent from "./styleLoader";
 
 ### Lokalisierung (l10n)
 
-<Margin>
+<Margin background>
 
 
 #### l10n
@@ -47,7 +47,7 @@ Beispiele für Anpassungen bei der Lokalisierung:
 
 ### Internationalisierung (i18n)
 
-<Margin>
+<Margin background>
 
 
 
@@ -71,7 +71,7 @@ Einige Beispiele für Internationalisierung
 
 ### Sprache, Land und Kultur
 
-<Margin>
+<Margin background>
 
 #### Weitere Informationen
 
@@ -90,7 +90,7 @@ In einem Browser kann die Sprache über grundsätzlich drei Faktoren gewählt we
 * Gemäss Auswahl des Kunden (Voreinstellung oder Sprachwahl)
 
 
-<Margin>
+<Margin background>
 
 
 #### Dimensionen
@@ -105,7 +105,7 @@ Beispiel einer Website um Flüge zu buchen. Es gibt drei Dimensionen der Lokalis
 ![](./img/text/skyscanner.png)
 
 
-<Margin>
+<Margin background>
 
 
 #### Individualisierung
@@ -122,7 +122,7 @@ Beispiel zur Konfiguration des MacOS 10.14 Betriebsystem
 ## Unicode
 
 
-<Margin>
+<Margin background>
 
 
 
@@ -179,7 +179,7 @@ Wörter → Wˆrter
 Encoding «Windows Latin 1» als «Mac OS Roman» interpretiert.
 
 
-<Margin>
+<Margin background>
 
 
 ### Noto
@@ -209,7 +209,7 @@ Je nach Region können sich einzelne Wörter oder Schreibweisen durchgesezt habe
 
 ### ß oder ss
 
-<Margin>
+<Margin background>
 
 #### Normalisierung
 * Infos zur Unicode [Normalisierung](http://unicode.org/reports/tr15/) von  ß = ss
@@ -260,7 +260,7 @@ Vergleiche sind sehr individuell für eine Kulturform und können nicht global v
 ### Grössenvergleiche
 Oft in populären Medien wird zum Veranschaulichen eine nicht [SI-Norm](https://de.wikipedia.org/wiki/Internationales_Einheitensystem) verwendet.
 
-<Margin>
+<Margin background>
 
 
 
@@ -284,7 +284,7 @@ In Medien aus Deutschland oft mit der «Flächeneinheit» Saarland ein Vergleich
 
 Je nach Publikum und Alter haben die Konsumenten eine andere Vorbildung und gewisse Bezüge funktionieren nicht mehr.
 
-<Margin>
+<Margin background>
 
 
 #### Geschichte
@@ -312,7 +312,7 @@ Meist sind geschichtliche Referenzen nur dann zu verstehen, wenn Sie sehr bekann
 
 ## Typografie
 
-<Margin>
+<Margin background>
 
 #### Automatische Unterstützung
 
@@ -394,7 +394,7 @@ oder aber auch die «Single quotes»
 
 ### Laufrichtung des Textes
 
-<Margin>
+<Margin background>
 
 
 
@@ -472,7 +472,7 @@ Quelle: [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web
 
 ## Sortierung
 
-<Margin>
+<Margin background>
 
 #### Links
 
@@ -565,7 +565,7 @@ Im globalen Kontext kann man auch ganz viele Annahmen, die man aus einer westlic
 Ausser Myanmar, Liberia und die USA haben alle anderen Länder das [internationale Einheitensystem (SI)](https://de.wikipedia.org/wiki/Internationales_Einheitensystem). Da jedoch die USA im internationealen Umfeld eine wichtige Rolle spielt und diverse Internet-Dienste US-basiert sind, gilt es einige Besonderheiten im Zusammenhang mit den US-Einheiten zu beachten.
 
 ### Längen
-<Margin>
+<Margin background>
 
 
 #### US Längenmass
@@ -582,7 +582,7 @@ In den USA werden kleinere Längen in Zoll (2.54 cm) oder Fuss (30.48 cm) an
 
 ### Papiergrössen
 Beim Ausdrucken im US-Raum muss davon ausgegangen werden, dass die Ausgabe auf dem Format US-Letter erfolgt und nicht im sonst üblichen A4.
-<Margin>
+<Margin background>
 
 
 #### US-Letter
@@ -683,7 +683,7 @@ Auf vielen Servern wird bei der Installation keine automatische Zeitzone gestell
 ### Sommerzeit
 In einigen Regionen der Welt wird in den Sommermonaten eine Sommerzeit (Daylight saving time – DST) eingeführt. Diese wird meist eine Stunde vor der üblichen Zeit gestellt. So ist die mitteleuropäische Zeit (MEZ) in den Wintermonaten UTC+1 und in den Sommermonaten UTC+2.
 
-<Margin>
+<Margin background>
 
 
 #### Schweiz
@@ -781,7 +781,7 @@ Neuere Smartphones habe in Hardware die Funktion einer Kreditkarte abgebildet. S
 ## Geografie
 
 ### Kartenprojektion
-<Margin>
+<Margin background>
 
 
 #### Swiss Grid
@@ -852,7 +852,7 @@ In Washington werden Nummern (Nord – Süd) und Buchstaben (West – Os
 </Box>
 
 ## Telefonnummer
-<Margin>
+<Margin background>
 
 
 [Online-Helfer](https://signalwerk.github.io/contact-parser/)

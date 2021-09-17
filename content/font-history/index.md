@@ -77,7 +77,7 @@ Je nach Werkzeug, Achslage und Federdruckent entsteht ein anderes Schriftbild.
 
 
 
-<Margin>
+<Margin background>
 
 links: Breitfeder  
 rechts: Spitzfeder  
@@ -185,7 +185,7 @@ Quelle: Counterpunch. 2nd ed. Hyphen Press. London, 2011.*
 
 
 
-<Margin>
+<Margin background>
 
 
 ![](./img/punch/dutchtypelibrary/Flamande_news_2.jpg)
@@ -212,7 +212,7 @@ Der Handsatz ist das Aneinanderreihen von Bleitypen, welche der Setzer von Hand 
 
 
 
-<Margin>
+<Margin background>
 
 
 Einzelne Bleibuchstaben werden im Winkelhaken zu Zeilen zusammengestellt.
@@ -401,7 +401,7 @@ Nadeldrucker fanden vor allem mit dem Aufkommen von Heimcomputern ab den 1980er 
 
 ### Schriftbild
 
-<Margin>
+<Margin background>
 
 Die Anzahl Nadeln ergibt die Auflösung der Schriftzeichen.
 ![](./img/dot-matrix-printer/5x8matrix.png)
@@ -429,7 +429,7 @@ Quelle: [Dutchtypelibrary](https://www.dutchtypelibrary.nl/index_desktop.html)*
 
 ## Apple und TrueType
 
-<Margin>
+<Margin background>
 
 ### Quadratische Kurve (TrueType)  
 ![](./img/bezier/bezier_2_big.gif)
@@ -463,7 +463,7 @@ Quelle: [Wikipedia](https://en.wikipedia.org/wiki/Susan_Kare#/media/File:Origina
 ## Adobe und PostScript
 
 
-<Margin>
+<Margin background>
 
 ### Kubische Kurve (PostScript)  
 ![](./img/bezier/bezier_3_big.gif)

@@ -20,7 +20,7 @@ import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 ## Information wird vom Medium getrennt
 
-<Margin>
+<Margin background>
 
 ### Wichtige Speichermedien <br/>(ab Altertum)
 * Modernes Buch	4. Jhr. n. Chr
@@ -61,7 +61,7 @@ Quelle: [Everyday Science and Mechanics, April 1935](http://www.smithsonianmag.c
 
 ## Was ist ein eBook?
 
-<Margin>
+<Margin background>
 
 ### PDF – Portable Document Format
 Ein von der Firma Adobe geschaffener Standard zum Austauschen von formatierten Inhalten. Das Dateiformat PDF wird auf vielen Plattformen und Geräten unterstützt und ist in der Zwischenzeit auch durch die ISO-Gruppe (ISO 32000) standardisiert.
@@ -354,7 +354,7 @@ eBooks werden zum Teil auch als Apps angeboten um gewisse technische Beschränku
 
 ### ePub erstellen
 
-<Margin>
+<Margin background>
 
 ### Möglichkeiten
 Da ePub 3 auf HTML 5 basiert, gibt es technisch fast keine Beschränungen. Mittels JavaScript können Inhalte mit interaktiven Elementen versehen werden oder es können Ton, Bilder und Videos eingebunden werden.

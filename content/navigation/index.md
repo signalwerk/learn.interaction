@@ -37,7 +37,7 @@ Wird ein Thema grösser, so können verschiedene Konzepte gewählt werden, wie n
 
 
 
-<Margin>
+<Margin background>
 
 ### Probleme
 

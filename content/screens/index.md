@@ -71,7 +71,7 @@ Eine Auflösungsdichte wird in DPI (Dots per Inch) angegeben. Diese Einheit gibt
 
 ### DPI Wert ermitteln
 
-<Margin>
+<Margin background>
 
 
 ### Rechnungsbeispiel
@@ -99,7 +99,7 @@ Mit einer Media-Query lassen sich abhängig von Auflösung verschiedene definiti
 
 
 
-<Margin>
+<Margin background>
 
 1 Zoll (Inch) = 25.4 mm  
 1 dpi ≈ 0.39 dpcm  
@@ -119,7 +119,7 @@ only screen and ( min-resolution: 75dpcm)
 
 ## Pixel zu Dots/Point (Device Pixel Ratio)
 
-<Margin>
+<Margin background>
 
 Microsoft verfolgt mit [Device-Independent Pixels](https://docs.microsoft.com/en-us/windows/desktop/learnwin32/dpi-and-device-independent-pixels) ein ähnliches Konzept für Desktop-Applikationen.
 
@@ -184,7 +184,7 @@ Smartphone, Tablet, Desktop
 
 
 ### OLED
-<Margin>
+<Margin background>
 
 [Weitere Informationen](http://www.lg.com/global/business/information-display/technology-solution/oled)
 
@@ -217,7 +217,7 @@ OLED Varriante, bei dem zusätzlich zu RGB auch noch eine Weisskomponente angest
 
 ### OLED & Darkmode
 
-<Margin>
+<Margin background>
 
 ### Betriebsystem mit Darkmode
 * **MacOS Mojave (2018)** <br />erster Dark Mode auf Desktop
@@ -233,7 +233,7 @@ Seit etwa 2018 gibt es auf diversen Betriebsystemen Unterstüztung für so genan
 
 ## Bildwiederholrate
 
-<Margin>
+<Margin background>
 
 * Animation flüssig: ab [20 – 30 Frames pro Sekunde (fps)](https://en.wikipedia.org/wiki/Frame_rate#/media/File:Animhorse.gif)
 * Gut: 60 Frames pro Sekunde
