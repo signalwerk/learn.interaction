@@ -6,7 +6,7 @@ steps:
     image: docker:git
     commands:
       - mkdir ~/.ssh/
-      - ssh-keyscan github.com >> ~/.ssh/known_hosts
+      - ssh-keyscan -t rsa github.com > ~/.ssh/known_hosts
       - git submodule update --init --recursive --remote
   - name: build
     image: node:16
