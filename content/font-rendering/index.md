@@ -635,10 +635,10 @@ iOS 11 San Francisco Pro Text Regular 17pt auf iPhone X (Foto)
 
 Es gibt vier verschiedene Möglichkeiten, wie in einem OpenType-Font farbige Elemente definiert werden können. Abweichende «Standards» wurden jeweils separat von folgenden Parteien entwickelt;
 
-* Microsoft (COLR/CPAL)
-* Apple (SBIX)
-* Google (CBDT/CBLC)
-* Adobe/Mozilla (SVG)
+* Microsoft (`COLR`/`CPAL`)
+* Apple (`SBIX`)
+* Google (`CBDT`/`CBLC`)
+* Adobe/Mozilla (`SVG`)
 
 Da es somit technisch kompliziert ist für einen Renderer alle vier Definitionen zu unterstützen, ist die Verbreitung von farbigen Fonts sehr gering. Betriebsysteme bieten üblicherweise einen farbigen Emoji-Font, passend auf das jeweilige Betriebsystem, an. Jedoch gibt es darüber hinau wenige Fonts, die diese Technologie nutzen, da es auch für Schriftgestalter technisch mühsam ist alle Standards zu unterstützen.
 
