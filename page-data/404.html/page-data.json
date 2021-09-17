@@ -1,1 +1,5 @@
-{"componentChunkName":"component---themes-gatsby-theme-signalwerk-src-pages-404-js","path":"/404.html","result":{"pageContext":{}},"staticQueryHashes":[]}
+{
+    "componentChunkName": "component---plugins-gatsby-theme-signalwerk-src-pages-404-js",
+    "path": "/404.html",
+    "result": {"pageContext":{}},
+    "staticQueryHashes": []}
