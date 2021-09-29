@@ -709,7 +709,7 @@ Ist der Renderer in der Lage die neuen Instruktionen im Font zu lesen, so kann d
 
 
 ## Variable Fonts
-* [Introduction to variable fonts on the web])https://web.dev/variable-fonts/()
+* [Introduction to variable fonts on the web](https://web.dev/variable-fonts/)
 * [Variable Fonts bei Google](https://fonts.google.com/?vfonly=true)
 * [Alle Achsen von Variable Fonts bei Google](https://fonts.google.com/variablefonts)
 * [CSS für Variable Fonts von Google](https://developers.google.com/fonts/docs/css2)
