@@ -879,10 +879,6 @@ Siehe auch; [Korrekte Zeichensetzung für Telefonnummern](https://webtypo.signal
 
 
 
-#### Autor
-Stefan Huber  
-sh@signalwerk.ch  
-+41 78 744 37 38
 
 #### Dokumentgeschichte
 März 2019: Erstellung  

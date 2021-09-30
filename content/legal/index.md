@@ -279,11 +279,6 @@ Das zugänglich machen von pornografischem Material unterliegt in der Schweiz de
 <hr />
 
 
-### Autor
-Stefan Huber  
-sh@signalwerk.ch  
-+41 78 744 37 38
-
 #### Dokumentgeschichte
 Mai 2014: Erstellung  
 September 2015: Erweiterung  

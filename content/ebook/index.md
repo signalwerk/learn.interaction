@@ -380,10 +380,6 @@ Es gibt Anbieter, die Text-Bücher zusätzlich mit Sprechern versehen. So kann z
 
 
 
-### Autor
-Stefan Huber  
-sh@signalwerk.ch  
-+41 78 744 37 38
 
 ### Dokumentgeschichte
 April 2014: Erstellung  

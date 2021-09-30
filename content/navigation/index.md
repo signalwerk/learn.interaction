@@ -232,10 +232,6 @@ Das Menü bewegt sich von der Seite in den Bildschirm.
 <br />
 <hr />
 
-### Autor
-Stefan Huber  
-sh@signalwerk.ch  
-+41 78 744 37 38
 
 ### Dokumentgeschichte
 Juni 2014: Erstellung  

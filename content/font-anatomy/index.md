@@ -195,11 +195,6 @@ Objekte in HTML können mittels CSS an der Schrift ausgerichtet werden.
 <hr />
 
 
-### Autor
-Stefan Huber  
-sh@signalwerk.ch  
-+41 78 744 37 38
-
 ### Dokumentgeschichte
 März 2018: Erstellung  
 Februar 2020: Überarbeitung  

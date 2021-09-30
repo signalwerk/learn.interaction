@@ -648,11 +648,6 @@ In der HTML-Datei wird die Datei mit einem Script-Tag eingebunden.
 
 
 
-#### Autor
-Stefan Huber  
-sh@signalwerk.ch  
-+41 78 744 37 38
-
 #### Dokumentgeschichte
 Mai 2014: Erstellung  
 August 2015: Erweiterung  

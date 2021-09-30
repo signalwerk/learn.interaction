@@ -214,11 +214,6 @@ Technisch werden bei einer DNS–Abfrage (DNS lookup) im Hintergrund mehrere Akt
 <hr />
 
 
-### Autor
-Stefan Huber  
-sh@signalwerk.ch  
-+41 78 744 37 38
-
 #### Dokumentgeschichte
 Mai 2014: Erstellung  
 August 2015: Erweiterung  

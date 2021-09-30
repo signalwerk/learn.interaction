@@ -277,11 +277,6 @@ Neuere Technologiekonzepte ermöglichen auch unterschiedliche Frameraten je nach
 <br />
 <hr />
 
-### Autor
-Stefan Huber  
-sh@signalwerk.ch  
-+41 78 744 37 38
-
 ### Dokumentgeschichte
 Juni 2018: Erstellung  
 Januar 2019: Überarbeitung  
