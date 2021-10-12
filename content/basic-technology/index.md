@@ -318,7 +318,7 @@ selektor1, selektor2 {
   attribut1: wert;
   attribut2: wert;
 }
-((nächste Definition wie oben))
+/* nächste Definition wie oben */
 ```
 
 
@@ -347,7 +347,7 @@ h1 {
   color: #24588d;
 }
 p {
-  font-weight: Bold;
+  font-weight: bold;
 }
 ```
 
@@ -429,7 +429,7 @@ Mehrere Definitionen innerhalb einer CSS-Datei, die auf den selben Tag sich ausw
 
 ```html
 <h1>Titel</h1>
-<h1 class="spezial">Titel 2</h1>
+<h1 class="spezial">Titel spezial</h1>
 ```
 
 
