@@ -94,7 +94,7 @@ Verfügt man über eine Lizenz eines Webfonts, so kann diese Schrift dynamisch z
 
 
 #### Fallback
-Damit der Webfont von möglichst vielen Browsern gelesen werden kann, werden diverse Fallbacks definiert.
+Damit der Webfont von möglichst vielen Browsern gelesen werden kann, können Fallbacks definiert. So kann zum Beispiel Woff2 und Woff1 definiert werden.
 
 </Margin>
 
@@ -106,11 +106,8 @@ CSS-Definition für Webfonts:
 ```css
 @font-face {
   font-family: 'Open Sans';
-  src: url('opensans-reg-web.eot'); /* IE9 */
-  src: url('opensans-reg-web.eot?#iefix') format('embedded-opentype'), /* IE6 - IE8 */
-  url('opensans-reg-web.woff2') format('woff2'), /* Modern Browsers */
-  url('opensans-reg-web.woff') format('woff'), /* OK Browsers */
-  url('opensans-reg-web.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('opensans-reg-web.woff2') format('woff2'), /* Modern Browsers */
+  url('opensans-reg-web.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -147,11 +144,8 @@ CSS-Definition mit `unicode-range` aus zwei font-faces:
 ```css
 @font-face {
   font-family: 'Open Sans';
-  src: url('opensans-reg-web.eot');
-  src: url('opensans-reg-web.eot?#iefix') format('embedded-opentype'),
-  url('opensans-reg-web.woff2') format('woff2'),
-  url('opensans-reg-web.woff') format('woff'),
-  url('opensans-reg-web.ttf') format('truetype');
+  src: url('opensans-reg-web.woff2') format('woff2'), /* Modern Browsers */
+  url('opensans-reg-web.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   unicode-range: U+000-5FF; /* Latin glyphs */
@@ -159,11 +153,8 @@ CSS-Definition mit `unicode-range` aus zwei font-faces:
 
 @font-face {
   font-family: 'Open Sans';
-  src: url('special-web.eot');
-  src: url('special-web.eot?#iefix') format('embedded-opentype'),
-  url('special-web.woff2') format('woff2'),
-  url('special-web.woff') format('woff'),
-  url('special-web.ttf') format('truetype');
+  src: url('special-web.woff2') format('woff2'), /* Modern Browsers */
+  url('special-web.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   unicode-range: U+0061; /* overwrite for letter a */
@@ -254,11 +245,18 @@ Einige gängige Features sind die auch in CSS abrufbar sind;
 
 
 
+### Unterstreichung
+Möchte man einen Text unterstreichen (zum Beispiel um einen Link anzuzeigen), so sollte der Browser die Definition für die Dicke und den Abstand zur Grundline aus dem Font auslesen. Wenn man darauf jedoch einen bewussten Einfluss nehmen möche, so kann dies auch via CSS übersteuert werden. [Browser-Support](https://caniuse.com/?search=text-underline-offset)
 
+Beispiel für eine schwarze Linie unter dem Text:
 
-
-
-
+```css
+a {
+  text-decoration: underline solid blue;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 0.1em;
+}
+```
 
 ## Font-Konzepte fürs Web
 ### Responsive Grösse

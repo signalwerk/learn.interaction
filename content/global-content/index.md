@@ -860,12 +860,15 @@ In Washington werden Nummern (Nord – Süd) und Buchstaben (West – Os
 </Margin>
 
 
-Telefonnummern sollten gemäss der Empfehlung von [ITU-T Recommendation E.123](https://www.itu.int/rec/T-REC-E.123-200102-I/en) formatiert werden.
+Telefonnummern sollten gemäss der Empfehlung von [ITU-T Recommendation E.123](https://www.itu.int/rec/T-REC-E.123-200102-I/en) formatiert werden. 
+Bei fiktionaler Verwendung von Nummern (Beispiele, Film, …) gibt es in gewissen Ländern sogenannte «Drama Nummern», welches reservierte Nummern sind, bei denen kein Anschluss vermittelt wird. In der Schweiz gibt es keinen solben Nummernbereich. In [Deutschland](https://web.archive.org/web/20210519174650/https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Nummerierung/Rufnummern/Mittlg148_2021.pdf?__blob=publicationFile&v=1) und den [USA](https://en.wikipedia.org/wiki/555_(telephone_number)) sind diese verfügbar.
+
+Für Beispielnummern die gibt es für Amerika einen fiktionalen Nummernbereich (+1 555-0100 bis +1 555-0199) der bei 
 
 ### Beispiele
 ```
 Schweiz: +41¦78¦700¦10¦10
-Deutschland: +49¦341¦2000000
+Deutschland: +49¦30¦23125000
 ```
 ¦ = Geschützte schmales Leerzeichen für typografisch korrekte Darstellung
 

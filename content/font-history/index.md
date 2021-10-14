@@ -363,6 +363,15 @@ Die ersten Systeme der digitaler Satzherstellung hatten noch keine grafische Aus
 ### Fonts werden Digital
 Die digitalisierung der Schrift erforderte eine Umsetzung der Schriftform in ein fixes gefügtes zweidimensionales Raster. Aus heutiger Sicht könnte man von einem Pixelraster sprechen. Auch wenn damals noch eher in Linien gedacht wurde.
 
+
+
+<Margin background>
+
+ [Weiterführende Information zu Typografie an Kathodenstral-Bildschirmen.](https://www.masswerk.at/nowgobang/2019/dec-crt-typography)
+
+</Margin>
+
+
 ![](./img/phototypesetting/crt/type/pixel.jpg)
 *Linienbildung bei der Belichtung mit Kathodenstrahlröhre (CRT)*
 
