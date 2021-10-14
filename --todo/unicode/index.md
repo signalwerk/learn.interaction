@@ -44,7 +44,11 @@ Das Unicode Konsortium wurde geschaffen um eine Standardisierung zu erreichen, w
 * 154 Schriftsysteme
 
 
+## Unicode Version 14 · September 2021
 
+* 144 697 Zeichen (+ 838 Zeichen)
+* 159 Schriftsysteme
+* [info](https://emojipedia.org/unicode-14.0/)
 
 ## Beispiel
 

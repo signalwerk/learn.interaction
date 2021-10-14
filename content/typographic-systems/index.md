@@ -20,6 +20,10 @@ import StyleLoaderGlobalContent from "./styleLoader";
 
 
 
+https://mobile.twitter.com/typesetting/status/1251548574023852034
+
+
+
 * Laufweite (+Spationieren)
 * Zeilenabstand
 * Schriftgrösse
@@ -35,6 +39,9 @@ import StyleLoaderGlobalContent from "./styleLoader";
   * Sonderzeichen
 * Zeilenlänge (50–80 Zeichen)
 * Satzart
+* Table https://codepen.io/signalwerk/details/EdOREv
+
+check: https://github.com/signalwerk/publisher
 
 <br />
 <br />
