@@ -245,11 +245,18 @@ Einige gängige Features sind die auch in CSS abrufbar sind;
 
 
 
+### Unterstreichung
+Möchte man einen Text unterstreichen (zum Beispiel um einen Link anzuzeigen), so sollte der Browser die Definition für die Dicke und den Abstand zur Grundline aus dem Font auslesen. Wenn man darauf jedoch einen bewussten Einfluss nehmen möche, so kann dies auch via CSS übersteuert werden. [Browser-Support](https://caniuse.com/?search=text-underline-offset)
 
+Beispiel für eine schwarze Linie unter dem Text:
 
-
-
-
+```css
+a {
+  text-decoration: underline solid blue;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 0.1em;
+}
+```
 
 ## Font-Konzepte fürs Web
 ### Responsive Grösse
