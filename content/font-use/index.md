@@ -126,7 +126,7 @@ p {
 #### Beispiel google-Fonts
 
 ```css
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 p {
   font-family: 'Open Sans', sans-serif;
@@ -344,9 +344,8 @@ Im Oktober 2016 hatte ein breites Konsortium von diversen Herstellern den OpenTy
 
 
 
-
-### CSS und Web
-Im Moment werden Variable Fonts gerade in die Software-Produkte eingebaut. Erste Test-Versionen sind für Entwickler zugägnlich. Folgende CSS-Attribute sind vom Standard vorgesehen:
+### Variable Fonts und CSS
+Folgende CSS-Attribute sind vom Standard vorgesehen:
 
 * `font-weight` – Schriftstärke als Zahl von 1–999
 * `font-stretch` – Schriftbreite in % (50% = Condesed, 200% Extended)
@@ -377,9 +376,20 @@ p {
 
 
 
+#### Einbinden eines Fonts
+CSS-Definition für ein `@font-face` mit einem variablen Font mit einer `font-weight`-Achse von 300 bis 800:
 
-
-
+```css
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("OpenSans[wght@300..800][subset@latin].woff2")
+    format("woff2-variations");
+}
+```
 
 
 
@@ -543,6 +553,7 @@ September 2015: Erstellung
 März 2017: Erweiterung  
 März 2018: Erweiterung  
 September 2021: Erweiterung  
+Dezember 2021: Erweiterung  
 
 
 <br />
